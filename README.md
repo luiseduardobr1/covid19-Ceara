@@ -1,6 +1,8 @@
 # covid19-Ceara
 Dados, estatísticas e informações relevantes com relação a pandemia de COVID-19 no Ceará/Brasil.
 
+* [Boletins arquivados](https://github.com/luiseduardobr1/covid19-Ceara/tree/master/boletins)
+
 # Dados Oficiais
 * [Boletins epidemiológicos - DESCONTINUADO](https://coronavirus.ceara.gov.br/boletins/)
 * [COVID-19 IntegraSUS](https://indicadores.integrasus.saude.ce.gov.br/indicadores/indicadores-coronavirus/coronavirus-ceara)
