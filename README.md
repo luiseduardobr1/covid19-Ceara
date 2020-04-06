@@ -2,7 +2,7 @@
 Dados, estatísticas e informações relevantes com relação a pandemia de COVID-19 no Ceará/Brasil.
 
 * [Boletins arquivados](https://github.com/luiseduardobr1/covid19-Ceara/tree/master/boletins)
-* [Histórico de notícias/informações relevantes](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/noticias.md)
+* [Notícias relevantes](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/noticias.md)
 * [Perguntas e respostas frequentes](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/Q%26A.md)
 
 # Dados Oficiais
