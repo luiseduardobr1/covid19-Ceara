@@ -1,17 +1,70 @@
 # Perguntas e Respostas
 
 #### 1. *Definição de caso suspeito no Ceará antes da transmissão comunitária.*
-**Situação 1**: Febre* E pelo menos um sinal ou sintoma respiratório (tosse, dificuldade para respirar, batimento das asas nasais entre outros) E histórico de viagem para área com transmissão local, de acordo com a OMS, nos últimos 14 dias anteriores ao aparecimento dos sinais ou sintomas; 
+**Situação 1 - VIAJANTE**: pessoa
+que apresente febre E pelo
+menos um dos sinais ou
+sintomas respiratórios (tosse,
+dificuldade para respirar,
+produção de escarro,
+congestão nasal ou conjuntival,
+dificuldade para deglutir, dor
+de garganta, coriza, saturação
+de O2 < 95%, sinais de cianose,
+batimento de asa de nariz,
+tiragem intercostal e dispneia)
+E com histórico de viagem para
+país com transmissão
+sustentada OU área com
+transmissão local nos últimos
+14 dias.
 
-**Situação 2**: Febre* E pelo menos um sinal ou sintoma respiratório (tosse, dificuldade para respirar, batimento das asas nasais entre outros) E histórico de contato próximo de caso suspeito** para o coronavírus (COVID-19), nos últimos 14 dias anteriores ao aparecimento dos sinais ou sintomas; 
+**Situação 2 - CONTATO
+PRÓXIMO**: Pessoa que
+apresente febre OU pelo
+menos um sinal ou sintoma
+respiratório (tosse, dificuldade
+para respirar, produção de
+escarro, congestão nasal ou
+conjuntival, dificuldade para
+deglutir, dor de garganta,
+coriza, saturação de O2 < 95%,
+sinais de cianose, batimento de
+asa de nariz, tiragem
+intercostal e dispneia) E
+histórico de contato com caso
+suspeito ou confirmado para
+COVID-19, nos últimos 14 dias.
 
-**Situação 3**: Febre* OU pelo menos um sinal ou sintoma respiratório (tosse, dificuldade para respirar, batimento das asas nasais entre outros) E contato próximo de caso confirmado de coronavírus (COVID-19) em laboratório, nos últimos 14 dias anteriores ao aparecimento dos sinais ou sintomas. 
+**Situação 3 - CONTATO
+DOMICILIAR**: Pessoa que
+manteve contato domiciliar
+com caso confirmado por
+COVID-19 nos últimos 14 dias E
+que apresente febre OU pelo
+menos um sinal ou sintoma
+respiratório (tosse, dificuldade
+para respirar, produção de
+escarro, congestão nasal ou
+conjuntival, dificuldade para
+deglutir, dor de garganta,
+coriza, saturação de O2 < 95%,
+sinais de cianose, batimento
+de asa de nariz, tiragem
+intercostal e dispneia). Nesta
+situação é importante observar
+a presença de outros sinais e
+sintomas como: fadiga,
+mialgia/artralgia, dor de
+cabeça, calafrios, manchas
+vermelhas pelo corpo, gânglios
+linfáticos aumentados,
+diarreia, náusea, vômito,
+desidratação e inapetência.
 
 *Febre pode não estar presente em alguns casos como: crianças, idosos, imunossuprimidos ou situações em que o paciente tenha utilizado medicamento antitérmico previamente. 
 
-**Áreas com Transmissão Local: Austrália, China, Coreia Do Sul , Coreia Do Norte, Filipinas, Japão, Malásia, Vietnã, Singapura, Tailândia, Europa, Itália, Alemanha, França, Iran, Emirados Árabes Unidos.
-
-**Fonte**: [Boletim Epidemiológico 27/02/2020](https://coronavirus.ceara.gov.br/wp-content/uploads/2020/03/boletim_epidemiologico_n_1_27022020_Covid19_espce.pdf)
+**Fonte**: [Boletim Epidemiológico 05/03/2020](https://coronavirus.ceara.gov.br/wp-content/uploads/2020/03/boletim_epidemiologico_n_6_050320_covid19_espce.pdf)
 
 #### 2. *Como se prevenir?*
 A melhor maneira de prevenir a infecção é evitar a exposição ao vírus, já
