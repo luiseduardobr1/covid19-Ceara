@@ -3,6 +3,7 @@ Dados, estatísticas e informações relevantes com relação a pandemia de COVI
 
 * [Boletins arquivados](https://github.com/luiseduardobr1/covid19-Ceara/tree/master/boletins)
 * [Histórico de notícias/informações relevantes](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/noticias.md)
+* [Perguntas e respostas frequentes](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/Q%26A.md)
 
 # Dados Oficiais
 * [Boletins epidemiológicos - DESCONTINUADO](https://coronavirus.ceara.gov.br/boletins/)
