@@ -27,3 +27,46 @@ no lixo.
 - Limpar e desinfetar objetos e superfícies tocados com frequência. 
 
 **Fonte**: [Boletim Epidemiológico 27/02/2020](https://coronavirus.ceara.gov.br/wp-content/uploads/2020/03/boletim_epidemiologico_n_1_27022020_Covid19_espce.pdf)
+
+#### 3. *Contato próximo de casos suspeitos*
+- Uma pessoa que teve contato
+físico direto (por exemplo,
+apertando as mãos);
+- Uma pessoa que tenha
+contato direto desprotegido
+com secreções infecciosas (por
+exemplo, sendo tossida,
+tocando tecidos de papel
+usados com a mão nua);
+- Uma pessoa que teve contato
+frente a frente por 15 minutos
+ou mais e a uma distância
+inferior a 2 metros;
+- Uma pessoa que esteve em
+um ambiente fechado (por
+exemplo, sala de aula, sala de
+reunião, sala de espera do
+hospital etc.) por 15 minutos
+ou mais e a uma distância
+inferior a 2 metros;
+- Um profissional de saúde ou
+outra pessoa que cuida
+diretamente de um caso
+COVID-19 ou trabalhadores de
+laboratório que manipulam
+amostras de um caso COVID19 sem equipamento de
+proteção individual
+recomendado (EPI) ou com
+uma possível violação do EPI;
+- Um passageiro de uma
+aeronave sentado no raio de
+dois assentos (em qualquer
+direção) de um caso
+confirmado de COVID-19, seus
+acompanhantes ou cuidadores
+e os tripulantes que
+trabalharam na seção da
+aeronave em que o caso
+estava sentado
+
+**Fonte**: [Boletim Epidemiológico 04/03/2020](https://coronavirus.ceara.gov.br/wp-content/uploads/2020/03/boletim_epidemiologico_n_5_040320_covid19_espce.pdf)
