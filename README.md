@@ -24,4 +24,10 @@ De acordo com ela, a situação do Ceará, no momento, reflete um *represamento 
 
 Outro fator que impacta é a demora no diagnóstico. Conforme Magda, o Laboratório Central de Saúde Pública do Ceará (Lacen) tem condições de fazer apenas 100 testes por dia e alguns laboratórios dos hospitais particulares têm enviado os exames para São Paulo. A média de tempo de espera tem sido de 5 a 6 dias, informa Magda.
 
+Além disso, o [boletim da curva epidemiológica](https://coronavirus.ceara.gov.br/wp-content/uploads/2020/03/COVID-19_ESP_Curva_epidemiol%C3%B3gica_-22_03_20.pdf) afirma: 
+
+*O número de casos confirmados por dia pode não corresponder ao comportamento completo da curva
+epidêmica da doença no Ceará, pois é preciso considerar as inúmeras variáveis que podem contribuir para que
+a informação seja validada pelos meios oficiais.*
+
 **Fonte**: [Diário do Nordeste 26/03/2020](https://diariodonordeste.verdesmares.com.br/editorias/metro/ceara-tem-uma-das-curvas-mais-altas-de-contagio-de-coronavirus-no-pais-1.2226868)
