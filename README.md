@@ -10,11 +10,11 @@ Dados, estatísticas e informações relevantes com relação a pandemia de COVI
 * [COVID-19 IntegraSUS](https://indicadores.integrasus.saude.ce.gov.br/indicadores/indicadores-coronavirus/coronavirus-ceara)
 * [Boletins epidemiológicos - DESCONTINUADO](https://coronavirus.ceara.gov.br/boletins/)
 
-# Base de dados Nacional/Estadual/Municipal
+# Base de dados - Nacional/Estadual/Municipal
 * [Dataset Brasil.io](https://brasil.io/api/dataset/covid19/caso/data)
 * [Monitoramento dos casos de coronavírus no Brasil - Wesley Cota](https://labs.wesleycota.com/sarscov2/br/)
 
-# Base de dados Estadual/Municipal
+# Base de dados - Estadual/Municipal
 * [Lapisco COVID-19](http://lapisco.fortaleza.ifce.edu.br:3022/api/covid19stats/historyByBrState?State=CE)
 * [Mapa COVID-19](https://api.mapacovid19.com/api/v1/api/casos/totalgeral/ce)
 
