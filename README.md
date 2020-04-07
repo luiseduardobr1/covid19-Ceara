@@ -1,4 +1,4 @@
-# covid19-Ceara
+# COVID-19 - Ceará
 Dados, estatísticas e informações relevantes com relação a pandemia de COVID-19 no Ceará/Brasil.
 
 * [Boletins arquivados](https://github.com/luiseduardobr1/covid19-Ceara/tree/master/boletins) (OBS: Não foram salvos os boletins do IntegraSUS dos dias 02/04 e 03/04, mas foi colocado a imagem emitida pelo serviço de comunicação da secretaria de saúde do estado com o número de casos confirmados e suspeitos de ambos os dias)
@@ -7,12 +7,16 @@ Dados, estatísticas e informações relevantes com relação a pandemia de COVI
 * [Perguntas e respostas frequentes](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/Q%26A.md)
 
 # Dados Oficiais
-* [Boletins epidemiológicos - DESCONTINUADO](https://coronavirus.ceara.gov.br/boletins/)
 * [COVID-19 IntegraSUS](https://indicadores.integrasus.saude.ce.gov.br/indicadores/indicadores-coronavirus/coronavirus-ceara)
+* [Boletins epidemiológicos - DESCONTINUADO](https://coronavirus.ceara.gov.br/boletins/)
 
-# Base de dados - API
-* [Monitoramento dos casos de coronavírus no Brasil - Wesley Cota](https://labs.wesleycota.com/sarscov2/br/)
+# Base de dados Nacional/Estadual/Municipal
 * [Dataset Brasil.io](https://brasil.io/api/dataset/covid19/caso/data)
+* [Monitoramento dos casos de coronavírus no Brasil - Wesley Cota](https://labs.wesleycota.com/sarscov2/br/)
+
+# Base de dados Estadual/Municipal
+* [Lapisco COVID-19](http://lapisco.fortaleza.ifce.edu.br:3022/api/covid19stats/historyByBrState?State=CE)
+* [Mapa COVID-19](https://api.mapacovid19.com/api/v1/api/casos/totalgeral/ce)
 
 # Atraso nas notificações
 Oficialmente, os primeiros casos confirmados de COVID-19 no Ceará ocorreram no dia 15 de março de 2020 com [três infectados](https://veja.abril.com.br/saude/secretaria-de-saude-confirma-3-primeiros-casos-de-coronavirus-no-ceara/). No entanto, posteriormente, na [curva epidemiológica do dia 22 de março de 2020](https://coronavirus.ceara.gov.br/wp-content/uploads/2020/03/COVID-19_ESP_Curva_epidemiol%C3%B3gica_-22_03_20.pdf), foi publicado que um dos suspeitos apresentando sintomas compatíveis com a doença, no dia 15 de fevereiro, foi confirmado com o coronavírus. Desse modo, houve uma "janela" de [28 dias](https://coronavirus.ceara.gov.br/wp-content/uploads/2020/03/COVID-19_ESP_Curva_epidemiol%C3%B3gica_-22_03_20.pdf) (ou 29 dias se considerar o dia 15/03) entre o início dos sintomas do caso com os primeiros confirmados. Entre o dia 15/02/2020 e 15/03/2020 tiveram algumas aglomerações bastante significativas no estado, como [blocos de carnaval de rua nos dias 21/02 a 25/02](https://www.fortaleza.ce.gov.br/noticias/tag/Ciclo%20Carnavalesco%202020), [partida de futebol entre Fortaleza x Independiente com mais de 30 mil no dia 27/02/2020](https://globoesporte.globo.com/ce/futebol/times/fortaleza/noticia/fortaleza-x-independiente-mais-de-33-mil-torcedores-garantem-presenca-em-duelo-no-castelao.ghtml) e [greve dos policiais militares](https://www.brasildefato.com.br/2020/03/02/greve-de-policiais-no-ceara-termina-sem-anistia-aos-agentes-envolvidos), que podem ter favorecido a disseminação do vírus na população cearense antes mesmo da confirmação do [primeiro caso no país](https://www.saude.gov.br/noticias/agencia-saude/46435-brasil-confirma-primeiro-caso-de-novo-coronavirus) no dia 26/02/2020. 
