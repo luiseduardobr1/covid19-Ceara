@@ -6,6 +6,10 @@ Dados, estatísticas e informações relevantes com relação a pandemia de COVI
 * [Notícias relevantes](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/noticias.md)
 * [Perguntas e respostas frequentes](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/Q%26A.md)
 
+# Informações extraídas dos boletins epidemiológicos
+* [Casos confirmados e óbitos no Ceará](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/casos-CE.xlsx)
+* [Microdados - Suspeitos, faixa etária dos suspeitos, faixa etária dos confirmados, exames realizados, dentre outros](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/microdados.xlsx)
+
 # Dados Oficiais
 * [COVID-19 IntegraSUS](https://indicadores.integrasus.saude.ce.gov.br/indicadores/indicadores-coronavirus/coronavirus-ceara)
 * [Boletins epidemiológicos - DESCONTINUADO](https://coronavirus.ceara.gov.br/boletins/)
