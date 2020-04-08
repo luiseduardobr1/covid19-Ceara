@@ -1,10 +1,11 @@
 # COVID-19 - Ceará
 Dados, estatísticas e informações relevantes com relação a pandemia de COVID-19 no Ceará/Brasil.
 
-* [Boletins arquivados](https://github.com/luiseduardobr1/covid19-Ceara/tree/master/boletins) (OBS: Não foram salvos os boletins do IntegraSUS dos dias 02/04 e 03/04, mas foi colocado a imagem emitida pelo serviço de comunicação da secretaria de saúde do estado com o número de casos confirmados e suspeitos de ambos os dias)
-
+* [Boletins arquivados](https://github.com/luiseduardobr1/covid19-Ceara/tree/master/boletins)
 * [Notícias relevantes](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/noticias.md)
 * [Perguntas e respostas frequentes](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/Q%26A.md)
+
+OBS: Não foram salvos os boletins do IntegraSUS dos dias 02/04 e 03/04, mas foi colocado a imagem emitida pelo serviço de comunicação da secretaria de saúde do estado com o número de casos confirmados e suspeitos de ambos os dias
 
 # Informações extraídas dos boletins epidemiológicos
 * [Casos confirmados e óbitos no Ceará](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/casos-CE.xlsx)
