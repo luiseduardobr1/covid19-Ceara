@@ -41,3 +41,6 @@ epidêmica da doença no Ceará, pois é preciso considerar as inúmeras variáv
 a informação seja validada pelos meios oficiais.*
 
 **Fonte**: [Diário do Nordeste 26/03/2020](https://diariodonordeste.verdesmares.com.br/editorias/metro/ceara-tem-uma-das-curvas-mais-altas-de-contagio-de-coronavirus-no-pais-1.2226868)
+
+# Inconsistências no integraSUS
+A partir do dia 02 de março de 2020, o [integraSUS](
