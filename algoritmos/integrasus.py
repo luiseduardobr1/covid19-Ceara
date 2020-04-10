@@ -34,9 +34,9 @@ def job():
         raw_data = contents.decoded_content.decode('utf-8')
 
         # Regex completo para URL's
-        URL_REGEX = r"""(?i)\b((?:https?:(?:/{1,3}|[a-z0-9%])|[a-z0-9.\-]+[.](?:com|net|org|edu|gov|mil|aero|asia|biz|cat|coop|info|int|jobs|mobi|museum|name|post|pro|tel|travel|xxx|ac|ad|ae|af|ag|ai|al|am|an|ao|aq|ar|as|at|au|aw|ax|az|ba|bb|bd|be|bf|bg|bh|bi|bj|bm|bn|bo|br|bs|bt|bv|bw|by|bz|ca|cc|cd|cf|cg|ch|ci|ck|cl|cm|cn|co|cr|cs|cu|cv|cx|cy|cz|dd|de|dj|dk|dm|do|dz|ec|ee|eg|eh|er|es|et|eu|fi|fj|fk|fm|fo|fr|ga|gb|gd|ge|gf|gg|gh|gi|gl|gm|gn|gp|gq|gr|gs|gt|gu|gw|gy|hk|hm|hn|hr|ht|hu|id|ie|il|im|in|io|iq|ir|is|it|je|jm|jo|jp|ke|kg|kh|ki|km|kn|kp|kr|kw|ky|kz|la|lb|lc|li|lk|lr|ls|lt|lu|lv|ly|ma|mc|md|me|mg|mh|mk|ml|mm|mn|mo|mp|mq|mr|ms|mt|mu|mv|mw|mx|my|mz|na|nc|ne|nf|ng|ni|nl|no|np|nr|nu|nz|om|pa|pe|pf|pg|ph|pk|pl|pm|pn|pr|ps|pt|pw|py|qa|re|ro|rs|ru|rw|sa|sb|sc|sd|se|sg|sh|si|sj|Ja|sk|sl|sm|sn|so|sr|ss|st|su|sv|sx|sy|sz|tc|td|tf|tg|th|tj|tk|tl|tm|tn|to|tp|tr|tt|tv|tw|tz|ua|ug|uk|us|uy|uz|va|vc|ve|vg|vi|vn|vu|wf|ws|ye|yt|yu|za|zm|zw)/)(?:[^\s()<>{}\[\]]+|\([^\s()]*?\([^\s()]+\)[^\s()]*?\)|\([^\s]+?\))+(?:\([^\s()]*?\([^\s()]+\)[^\s()]*?\)|\([^\s]+?\)|[^\s`!()\[\]{};:\'\".,<>?´ªìîëí])|(?:(?<!@)[a-z0-9]+(?:[.\-][a-z0-9]+)*[.](?:com|net|org|edu|gov|mil|aero|asia|biz|cat|coop|info|int|jobs|mobi|museum|name|post|pro|tel|travel|xxx|ac|ad|ae|af|ag|ai|al|am|an|ao|aq|ar|as|at|au|aw|ax|az|ba|bb|bd|be|bf|bg|bh|bi|bj|bm|bn|bo|br|bs|bt|bv|bw|by|bz|ca|cc|cd|cf|cg|ch|ci|ck|cl|cm|cn|co|cr|cs|cu|cv|cx|cy|cz|dd|de|dj|dk|dm|do|dz|ec|ee|eg|eh|er|es|et|eu|fi|fj|fk|fm|fo|fr|ga|gb|gd|ge|gf|gg|gh|gi|gl|gm|gn|gp|gq|gr|gs|gt|gu|gw|gy|hk|hm|hn|hr|ht|hu|id|ie|il|im|in|io|iq|ir|is|it|je|jm|jo|jp|ke|kg|kh|ki|km|kn|kp|kr|kw|ky|kz|la|lb|lc|li|lk|lr|ls|lt|lu|lv|ly|ma|mc|md|me|mg|mh|mk|ml|mm|mn|mo|mp|mq|mr|ms|mt|mu|mv|mw|mx|my|mz|na|nc|ne|nf|ng|ni|nl|no|np|nr|nu|nz|om|pa|pe|pf|pg|ph|pk|pl|pm|pn|pr|ps|pt|pw|py|qa|re|ro|rs|ru|rw|sa|sb|sc|sd|se|sg|sh|si|sj|Ja|sk|sl|sm|sn|so|sr|ss|st|su|sv|sx|sy|sz|tc|td|tf|tg|th|tj|tk|tl|tm|tn|to|tp|tr|tt|tv|tw|tz|ua|ug|uk|us|uy|uz|va|vc|ve|vg|vi|vn|vu|wf|ws|ye|yt|yu|za|zm|zw)\b/?(?!@)))"""
+        URL_REGEX = r"""(?i)\b((?:https?:(?:/{1,3}|[a-z0-9%])|[a-z0-9.\-]+[.](?:com|net|org|edu|gov|mil|aero|asia|biz|cat|coop|info|int|jobs|mobi|museum|name|post|pro|tel|travel|xxx|ac|ad|ae|af|ag|ai|al|am|an|ao|aq|ar|as|at|au|aw|ax|az|ba|bb|bd|be|bf|bg|bh|bi|bj|bm|bn|bo|br|bs|bt|bv|bw|by|bz|ca|cc|cd|cf|cg|ch|ci|ck|cl|cm|cn|co|cr|cs|cu|cv|cx|cy|cz|dd|de|dj|dk|dm|do|dz|ec|ee|eg|eh|er|es|et|eu|fi|fj|fk|fm|fo|fr|ga|gb|gd|ge|gf|gg|gh|gi|gl|gm|gn|gp|gq|gr|gs|gt|gu|gw|gy|hk|hm|hn|hr|ht|hu|id|ie|il|im|in|io|iq|ir|is|it|je|jm|jo|jp|ke|kg|kh|ki|km|kn|kp|kr|kw|ky|kz|la|lb|lc|li|lk|lr|ls|lt|lu|lv|ly|ma|mc|md|me|mg|mh|mk|ml|mm|mn|mo|mp|mq|mr|ms|mt|mu|mv|mw|mx|my|mz|na|nc|ne|nf|ng|ni|nl|no|np|nr|nu|nz|om|pa|pe|pf|pg|ph|pk|pl|pm|pn|pr|ps|pt|pw|py|qa|re|ro|rs|ru|rw|sa|sb|sc|sd|se|sg|sh|si|sj|Ja|sk|sl|sm|sn|so|sr|ss|st|su|sv|sx|sy|sz|tc|td|tf|tg|th|tj|tk|tl|tm|tn|to|tp|tr|tt|tv|tw|tz|ua|ug|uk|us|uy|uz|va|vc|ve|vg|vi|vn|vu|wf|ws|ye|yt|yu|za|zm|zw)/)(?:[^\s()<>{}\[\]]+|\([^\s()]*?\([^\s()]+\)[^\s()]*?\)|\([^\s]+?\))+(?:\([^\s()]*?\([^\s()]+\)[^\s()]*?\)|\([^\s]+?\)|[^\s`!()\[\]{};:\'\".,<>?¬´¬ª‚Äú‚Äù‚Äò‚Äô])|(?:(?<!@)[a-z0-9]+(?:[.\-][a-z0-9]+)*[.](?:com|net|org|edu|gov|mil|aero|asia|biz|cat|coop|info|int|jobs|mobi|museum|name|post|pro|tel|travel|xxx|ac|ad|ae|af|ag|ai|al|am|an|ao|aq|ar|as|at|au|aw|ax|az|ba|bb|bd|be|bf|bg|bh|bi|bj|bm|bn|bo|br|bs|bt|bv|bw|by|bz|ca|cc|cd|cf|cg|ch|ci|ck|cl|cm|cn|co|cr|cs|cu|cv|cx|cy|cz|dd|de|dj|dk|dm|do|dz|ec|ee|eg|eh|er|es|et|eu|fi|fj|fk|fm|fo|fr|ga|gb|gd|ge|gf|gg|gh|gi|gl|gm|gn|gp|gq|gr|gs|gt|gu|gw|gy|hk|hm|hn|hr|ht|hu|id|ie|il|im|in|io|iq|ir|is|it|je|jm|jo|jp|ke|kg|kh|ki|km|kn|kp|kr|kw|ky|kz|la|lb|lc|li|lk|lr|ls|lt|lu|lv|ly|ma|mc|md|me|mg|mh|mk|ml|mm|mn|mo|mp|mq|mr|ms|mt|mu|mv|mw|mx|my|mz|na|nc|ne|nf|ng|ni|nl|no|np|nr|nu|nz|om|pa|pe|pf|pg|ph|pk|pl|pm|pn|pr|ps|pt|pw|py|qa|re|ro|rs|ru|rw|sa|sb|sc|sd|se|sg|sh|si|sj|Ja|sk|sl|sm|sn|so|sr|ss|st|su|sv|sx|sy|sz|tc|td|tf|tg|th|tj|tk|tl|tm|tn|to|tp|tr|tt|tv|tw|tz|ua|ug|uk|us|uy|uz|va|vc|ve|vg|vi|vn|vu|wf|ws|ye|yt|yu|za|zm|zw)\b/?(?!@)))"""
 
-        # Atualizar trÍs primeiros links no README.md
+        # Atualizar tr√™s primeiros links no README.md
         resumoCE = re.findall(URL_REGEX, raw_data)[0]
         municipiosCE = re.findall(URL_REGEX, raw_data)[1]
         faixaetariaCE = re.findall(URL_REGEX, raw_data)[2]
@@ -74,7 +74,7 @@ def job():
         commit = repo.create_git_commit(commit_message, tree, [parent])
         master_ref.edit(commit.sha)
 
-    # Extrair MunicÌpios
+    # Extrair Munic√≠pios
     def municipios(data_inicial, data_final):
         date = data_inicial
         writeHeader = True
@@ -86,19 +86,19 @@ def job():
                 print(date)
                 df.insert(loc=0, column='Data', value=date.date())
 
-                # ”bitos
-                response = requests.get('https://indicadores.integrasus.saude.ce.gov.br/api/coronavirus/qtd-por-municipio?data={}&tipo=”bito&idMunicipio='.format(date.date()))
+                # √ìbitos
+                response = requests.get('https://indicadores.integrasus.saude.ce.gov.br/api/coronavirus/qtd-por-municipio?data={}&tipo=√ìbito&idMunicipio='.format(date.date()))
                 dff = pd.read_json(response.text)
                 #dff.insert(loc=0, column='Data', value=date.date())
 
                 if dff.empty==False:
 
-                    # Juntar dataframes de casos confirmados e Ûbitos considerando a possibilidade
-                    # de existir Ûbito em algum municÌpio sem nenhum caso confirmado
+                    # Juntar dataframes de casos confirmados e √≥bitos considerando a possibilidade
+                    # de existir √≥bito em algum munic√≠pio sem nenhum caso confirmado
                     df = pd.merge(df, dff, how='outer', on='idMunicipio')
                     df['municipio_x'] = np.where(pd.isna(df['municipio_x']), df['municipio_y'], df['municipio_x'])
                     df.drop(columns=['municipio_y', 'tipo_y'], inplace=True)
-                    df['tipo_x'].fillna('Registrado somente Ûbito', inplace=True)
+                    df['tipo_x'].fillna('Registrado somente √≥bito', inplace=True)
                     df['Data'].fillna(date.date(), inplace=True)
 
                     # Organizando o dataframe resultante
@@ -139,7 +139,7 @@ def job():
                 response = requests.get('https://indicadores.integrasus.saude.ce.gov.br/api/coronavirus/qtd-municipios-casos-confirmados?data={}&tipo=Confirmado&idMunicipio='.format(date))
                 dfmun = pd.read_json(response.text)
 
-                #”bitos
+                #√ìbitos
                 response = requests.get('https://indicadores.integrasus.saude.ce.gov.br/api/coronavirus/qtd-obitos?data={}&tipo=Confirmado&idMunicipio='.format(date))
                 dfmun2 = pd.read_json(response.text)
 
@@ -151,11 +151,11 @@ def job():
                 df = df.set_index('tipo').transpose()
                 df_new = df.rename(index={'quantidade': date.date()})
 
-                if not set(['Data', 'Em An·lise', 'Inconclusivo', 'Negativo', 'Positivo']).issubset(df_new.columns):
+                if not set(['Data', 'Em An√°lise', 'Inconclusivo', 'Negativo', 'Positivo']).issubset(df_new.columns):
                     df_new.insert(loc=0, column='Data', value=date.date())  
 
-                    if not {'Em An·lise'}.issubset(df_new.columns):
-                        df_new.insert(loc=1, column='Em An·lise', value=0)
+                    if not {'Em An√°lise'}.issubset(df_new.columns):
+                        df_new.insert(loc=1, column='Em An√°lise', value=0)
                     if not {'Inconclusivo'}.issubset(df_new.columns):
                         df_new.insert(loc=2, column='Inconclusivo', value=0)
                     if not {'Negativo'}.issubset(df_new.columns):
@@ -164,12 +164,12 @@ def job():
                         df_new.insert(loc=4, column='Positivo', value=0)
 
                     df_new.insert(loc=5, column='Municios Afetados', value=dfmun.loc[0, 'quantidade']) 
-                    df_new.insert(loc=6, column='”bitos', value=dfmun2.loc[0, 'quantidade']) 
+                    df_new.insert(loc=6, column='√ìbitos', value=dfmun2.loc[0, 'quantidade']) 
                     df_new.insert(loc=1, column='Suspeitos', value=dfmun3.loc[0, 'quantidade'])
 
                 # Calcular a taxa de letalidade (%)
                 try:
-                    df_new['Taxa de letalidade (%)'] = round(100*df_new['”bitos']/df_new['Positivo'], 3)
+                    df_new['Taxa de letalidade (%)'] = round(100*df_new['√ìbitos']/df_new['Positivo'], 3)
                 except ZeroDivisionError:
                     df_new['Taxa de letalidade (%)']=0
 
@@ -221,11 +221,11 @@ def job():
     
 
 
-schedule.every(2).hours.do(job)
+schedule.every(5).hours.do(job)
 
 while True:
     data_inicial = datetime.datetime(2020, 3, 1, 0, 0, 0, 0)
-    data_final = datetime.datetime.now() - datetime.timedelta(hours=4)
+    data_final = datetime.datetime.now() - datetime.timedelta(hours=3)
     
     schedule.run_pending()
     time.sleep(1)
