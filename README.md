@@ -1,11 +1,16 @@
 # COVID-19 - Ceará
-Dados, estatísticas e informações relevantes com relação a pandemia de COVID-19 no Ceará/Brasil.
+Extração automática a cada 5 horas de toda a base de dados do sistema oficial de comunicação dos casos de COVID-19 no estado do Ceará a partir da API do integraSUS. 
 
+* [Último resumo dos casos confirmados/óbitos](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/integraSUS_Resumo_CE/DadosCE_2020-04-10_11_33_02.csv)
+* [Última base dos casos confirmados/óbitos por município](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/integraSUS_Municipios_CE/municipios_2020-04-10_11_33_02.csv)
+* [Últimas informações de sexo e faixa etária dos confirmados](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/integraSUS_Faixa_Etaria_CE/Faixa_Etaria_2020-04-10_11_33_02.csv)
+
+Demais informações:
 * [Boletins arquivados](https://github.com/luiseduardobr1/covid19-Ceara/tree/master/boletins)
 * [Notícias relevantes](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/noticias.md)
 * [Perguntas e respostas frequentes](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/Q%26A.md)
 
-OBS: Não foram salvos os boletins do IntegraSUS dos dias 02/04 e 03/04, mas foi colocado a imagem emitida pelo serviço de comunicação da secretaria de saúde do estado com o número de casos confirmados e suspeitos de ambos os dias
+OBS: Não foram salvos os boletins do IntegraSUS dos dias 02/04 e 03/04, mas foi colocado a imagem emitida pelo serviço de comunicação da secretaria de saúde do estado com o número de casos confirmados e suspeitos de ambos os dias.
 
 # Informações extraídas dos boletins epidemiológicos
 * [Casos confirmados e óbitos no Ceará](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/casos-CE.xlsx)
