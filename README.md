@@ -10,7 +10,7 @@ Demais informações:
 * [Notícias relevantes](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/noticias.md)
 * [Perguntas e respostas frequentes](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/Q%26A.md)
 
-OBS: Após o dia 09/04, os [boletins arquivados](https://github.com/luiseduardobr1/covid19-Ceara/tree/master/boletins) não serão atualizados, sendo as informações mais atuais arquivadas automaticamente a cada 4h nas pastas dos três primeiros links desta página. 
+OBS: A partir do dia 09/04, os [boletins arquivados](https://github.com/luiseduardobr1/covid19-Ceara/tree/master/boletins) não serão atualizados, sendo as informações mais atuais arquivadas automaticamente a cada 4h nas pastas dos três primeiros links desta página. 
 
 # Informações extraídas dos boletins epidemiológicos (antes do IntegraSUS)
 * [Casos confirmados e óbitos no Ceará](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/casos-CE.xlsx)
