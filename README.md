@@ -19,6 +19,7 @@ OBS: Não foram salvos os boletins do IntegraSUS dos dias 02/04 e 03/04, mas foi
 # Dados Oficiais
 * [COVID-19 IntegraSUS](https://indicadores.integrasus.saude.ce.gov.br/indicadores/indicadores-coronavirus/coronavirus-ceara)
 * [Boletins epidemiológicos - DESCONTINUADO](https://coronavirus.ceara.gov.br/boletins/)
+* [Monitoramento das internações por COVID-19 no Ceará - 10/04/2020](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/diversos/internacoes_covid19_ce.pdf)
 
 # Base de dados - Nacional/Estadual/Municipal
 * [Dataset Brasil.io](https://brasil.io/api/dataset/covid19/caso/data)
