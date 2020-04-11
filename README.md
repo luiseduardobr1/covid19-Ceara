@@ -12,7 +12,7 @@ Demais informações:
 
 OBS: Não foram salvos os boletins do IntegraSUS dos dias 02/04 e 03/04, mas foi colocado a imagem emitida pelo serviço de comunicação da secretaria de saúde do estado com o número de casos confirmados e suspeitos de ambos os dias.
 
-# Informações extraídas dos boletins epidemiológicos
+# Informações extraídas dos boletins epidemiológicos (antes do IntegraSUS)
 * [Casos confirmados e óbitos no Ceará](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/casos-CE.xlsx)
 * [Microdados - Suspeitos, faixa etária dos suspeitos, faixa etária dos confirmados, exames realizados, dentre outros](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/microdados.xlsx)
 
@@ -23,6 +23,10 @@ OBS: Não foram salvos os boletins do IntegraSUS dos dias 02/04 e 03/04, mas foi
 # Base de dados - Nacional/Estadual/Municipal
 * [Dataset Brasil.io](https://brasil.io/api/dataset/covid19/caso/data)
 * [Monitoramento dos casos de coronavírus no Brasil - Wesley Cota](https://labs.wesleycota.com/sarscov2/br/)
+* [Óbitos por suspeita/confirmação de covid19, pneumonia ou insuficiência respiratória registrados nos cartórios (Brasil.io)](https://brasil.io/dataset/covid19/obito_cartorio)
+* [Óbitos por Insuficiência Respiratória/Pneumonia - Portal da Transparência](https://transparencia.registrocivil.org.br/especial-covid)
+* [Painel de leitos e insumos](https://covid-insumos.saude.gov.br/paineis/insumos/painel.php)
+* [Leitos - Ceará](http://cnes2.datasus.gov.br/Mod_Ind_Tipo_Leito.asp?VEstado=23&VMun=230440)
 
 # Base de dados - Estadual/Municipal
 * [Lapisco COVID-19](http://lapisco.fortaleza.ifce.edu.br:3022/api/covid19stats/historyByBrState?State=CE)
@@ -48,4 +52,4 @@ a informação seja validada pelos meios oficiais.*
 **Fonte**: [Diário do Nordeste 26/03/2020](https://diariodonordeste.verdesmares.com.br/editorias/metro/ceara-tem-uma-das-curvas-mais-altas-de-contagio-de-coronavirus-no-pais-1.2226868)
 
 # Inconsistências no integraSUS
-A partir do dia 02 de março de 2020, o [integraSUS](
+Em breve.
