@@ -20,13 +20,14 @@ OBS: A partir do dia 09/04, os [boletins arquivados](https://github.com/luisedua
 * [COVID-19 IntegraSUS](https://indicadores.integrasus.saude.ce.gov.br/indicadores/indicadores-coronavirus/coronavirus-ceara)
 * [Mapas do Ceará - COVID19](https://indicadores.integrasus.saude.ce.gov.br/indicadores/indicadores-coronavirus/mapas-covid)
 * [Recursos aplicados pelo governo estadual no combate ao coronavírus](https://cearatransparente.ce.gov.br/portal-da-transparencia/paginas/coronavirus-despesas)
-* [Boletins epidemiológicos - DESCONTINUADO](https://coronavirus.ceara.gov.br/boletins/)
 * [Monitoramento das internações por COVID-19 no Ceará - 10/04/2020](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/diversos/internacoes_covid19_ce.pdf)
+* [Boletins epidemiológicos - DESCONTINUADO](https://coronavirus.ceara.gov.br/boletins/)
 
 # Base de dados - Nacional/Estadual/Municipal
 * [Dataset Brasil.io](https://brasil.io/api/dataset/covid19/caso/data)
 * [Monitoramento dos casos de coronavírus no Brasil - Wesley Cota](https://labs.wesleycota.com/sarscov2/br/)
 * [Óbitos por suspeita/confirmação de covid19, pneumonia ou insuficiência respiratória registrados nos cartórios (Brasil.io)](https://brasil.io/dataset/covid19/obito_cartorio)
+* [Informações de mobilidade extraídas do Google](https://github.com/vitorbaptista/google-covid19-mobility-reports/blob/master/data/processed/mobility_reports.csv)
 * [Óbitos por Insuficiência Respiratória/Pneumonia - Portal da Transparência](https://transparencia.registrocivil.org.br/especial-covid)
 * [Painel de leitos e insumos](https://covid-insumos.saude.gov.br/paineis/insumos/painel.php)
 * [Leitos - Ceará](http://cnes2.datasus.gov.br/Mod_Ind_Tipo_Leito.asp?VEstado=23&VMun=230440)
