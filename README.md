@@ -31,6 +31,7 @@ OBS: A partir do dia 09/04, os [boletins arquivados](https://github.com/luisedua
 * [Óbitos por Insuficiência Respiratória/Pneumonia - Portal da Transparência](https://transparencia.registrocivil.org.br/especial-covid)
 * [Painel de leitos e insumos](https://covid-insumos.saude.gov.br/paineis/insumos/painel.php)
 * [Leitos - Ceará](http://cnes2.datasus.gov.br/Mod_Ind_Tipo_Leito.asp?VEstado=23&VMun=230440)
+* [Boletins do Ministério da Saúde](https://coronavirus.saude.gov.br/profissional-gestor)
 
 # Base de dados - Estadual/Municipal
 * [Lapisco COVID-19](http://lapisco.fortaleza.ifce.edu.br:3022/api/covid19stats/historyByBrState?State=CE)
