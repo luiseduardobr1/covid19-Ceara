@@ -21,6 +21,7 @@ Demais informações:
 * [Recursos aplicados pelo governo estadual no combate ao coronavírus](https://cearatransparente.ce.gov.br/portal-da-transparencia/paginas/coronavirus-despesas)
 * [Monitoramento das internações por COVID-19 no Ceará - 10/04/2020](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/diversos/internacoes_covid19_ce.pdf)
 * [Boletins epidemiológicos - DESCONTINUADO](https://coronavirus.ceara.gov.br/boletins/)
+* [Mapa hospitais do Ceará](https://servicounidades.corona.maps.integrasus.saude.ce.gov.br/)
 
 ## Base de dados - Nacional/Estadual/Municipal
 * [Dataset Brasil.io](https://brasil.io/api/dataset/covid19/caso/data)
