@@ -15,7 +15,7 @@ Demais informações:
 * [Casos confirmados e óbitos no Ceará](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/casos-CE.xlsx)
 * [Microdados - Suspeitos, faixa etária dos suspeitos, faixa etária dos confirmados, exames realizados, dentre outros](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/microdados.xlsx)
 
-## Dados Oficiais
+## Dados Oficiais - Ceará
 * [COVID-19 IntegraSUS](https://indicadores.integrasus.saude.ce.gov.br/indicadores/indicadores-coronavirus/coronavirus-ceara)
 * [Mapas do Ceará - COVID19](https://indicadores.integrasus.saude.ce.gov.br/indicadores/indicadores-coronavirus/mapas-covid)
 * [Recursos aplicados pelo governo estadual no combate ao coronavírus](https://cearatransparente.ce.gov.br/portal-da-transparencia/paginas/coronavirus-despesas)
