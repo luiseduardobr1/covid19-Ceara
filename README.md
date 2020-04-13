@@ -3,7 +3,7 @@ Extração automática a cada 4 horas de toda a base de dados do sistema oficial
 
 * [Último resumo dos casos confirmados/óbitos](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/integraSUS_Resumo_CE/DadosCE_2020-04-13_11_19_56.csv)
 * [Última base dos casos confirmados/óbitos por município](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/integraSUS_Municipios_CE/municipios_2020-04-13_11_19_56.csv)
-* [Últimas informações de sexo e faixa etária dos confirmados](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/integraSUS_Faixa_Etaria_CE/Faixa_Etaria_2020-04-13_11_19_56.csv)
+* [Últimas informações de sexo e faixa etária dos confirmados](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/Internacao_Leonardo_da_Vinci/FaixaEtaria_Internados_2020-04-13_11_21_29.csv)
 
 Demais informações:
 * [Boletins arquivados](https://github.com/luiseduardobr1/covid19-Ceara/tree/master/boletins)
