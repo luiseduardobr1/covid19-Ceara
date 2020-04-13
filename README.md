@@ -29,6 +29,7 @@ Demais informações:
 * [Informações de mobilidade extraídas do Google](https://github.com/vitorbaptista/google-covid19-mobility-reports/blob/master/data/processed/mobility_reports.csv)
 * [Óbitos por Insuficiência Respiratória/Pneumonia - Portal da Transparência](https://transparencia.registrocivil.org.br/especial-covid)
 * [Painel de leitos e insumos](https://covid-insumos.saude.gov.br/paineis/insumos/painel.php)
+* [Acompanhamento de óbitos por doenças respiratórias](https://fabdev.shinyapps.io/painel_doencas_respiratorias/)
 * [Leitos - Ceará](http://cnes2.datasus.gov.br/Mod_Ind_Tipo_Leito.asp?VEstado=23&VMun=230440)
 * [Boletins do Ministério da Saúde](https://coronavirus.saude.gov.br/profissional-gestor)
 
@@ -36,6 +37,9 @@ Demais informações:
 * [Lapisco COVID-19](http://lapisco.fortaleza.ifce.edu.br:3022/api/covid19stats/historyByBrState?State=CE)
 * [Mapa COVID-19](https://api.mapacovid19.com/api/v1/api/casos/totalgeral/ce)
 * [Preparação de cada estado para o COVID-19](https://www1.folha.uol.com.br/cotidiano/2020/03/veja-como-seu-estado-esta-preparado-para-o-coronavirus.shtml?utm_source=whatsapp&utm_medium=social&utm_campaign=compwa)
+
+## Estudos
+[COVID-19 VirusScan - CappraLAB (Geral)](https://static1.squarespace.com/static/5c4ca9b7cef372b39c3d9aab/t/5e71665d1491e857a5cfa23a/1584490167127/dossie-covid19-cappralab.pdf)
 
 ## Atraso nas notificações
 Oficialmente, os primeiros casos confirmados de COVID-19 no Ceará ocorreram no dia 15 de março de 2020 com [três infectados](https://veja.abril.com.br/saude/secretaria-de-saude-confirma-3-primeiros-casos-de-coronavirus-no-ceara/). No entanto, posteriormente, na [curva epidemiológica do dia 22 de março de 2020](https://coronavirus.ceara.gov.br/wp-content/uploads/2020/03/COVID-19_ESP_Curva_epidemiol%C3%B3gica_-22_03_20.pdf), foi publicado que um dos suspeitos apresentando sintomas compatíveis com a doença, no dia 15 de fevereiro, foi confirmado com o coronavírus. Desse modo, houve uma "janela" de [28 dias](https://coronavirus.ceara.gov.br/wp-content/uploads/2020/03/COVID-19_ESP_Curva_epidemiol%C3%B3gica_-22_03_20.pdf) (ou 29 dias se considerar o dia 15/03) entre o início dos sintomas do caso com os primeiros confirmados. Entre o dia 15/02/2020 e 15/03/2020 tiveram algumas aglomerações bastante significativas no estado, como [blocos de carnaval de rua nos dias 21/02 a 25/02](https://www.fortaleza.ce.gov.br/noticias/tag/Ciclo%20Carnavalesco%202020), [partida de futebol entre Fortaleza x Independiente com mais de 30 mil torcedores no dia 27/02/2020](https://globoesporte.globo.com/ce/futebol/times/fortaleza/noticia/fortaleza-x-independiente-mais-de-33-mil-torcedores-garantem-presenca-em-duelo-no-castelao.ghtml) e [greve dos policiais militares](https://www.brasildefato.com.br/2020/03/02/greve-de-policiais-no-ceara-termina-sem-anistia-aos-agentes-envolvidos), que podem ter favorecido a disseminação do vírus na população cearense antes mesmo da confirmação do [primeiro caso no país](https://www.saude.gov.br/noticias/agencia-saude/46435-brasil-confirma-primeiro-caso-de-novo-coronavirus) no dia 26/02/2020. 
