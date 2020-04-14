@@ -3,12 +3,12 @@ Extração automática a cada 4 horas de toda a base de dados do sistema oficial
 
 * [Último resumo dos casos confirmados/óbitos](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/integraSUS_Resumo_CE/DadosCE_2020-04-13_23_44_53.csv)
 * [Última base dos casos confirmados/óbitos por município](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/integraSUS_Municipios_CE/municipios_2020-04-13_23_44_53.csv)
-* [Últimas informações de sexo e faixa etária dos confirmados](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/Internacao_Leonardo_da_Vinci/FaixaEtaria_Internados_2020-04-13_20_46_25.csv)
+* [Últimas informações de sexo e faixa etária dos confirmados](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/FaixaEtariaObitos_CE/FaixaEtariaObitos_2020-04-13_23_44_53.csv)
 
 Demais informações:
 * [Boletins arquivados](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/ObitosResumo_CE/ObitosResumo_2020-04-13_23_44_53.csv)
 * [Notícias relevantes](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/Comorbidades_CE/Comorbidades_2020-04-13_23_44_53.csv)
-* [Perguntas e respostas frequentes](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/Q%26A.md)
+* [Perguntas e respostas frequentes](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/FaixaEtariaObitos_CE/FaixaEtariaObitos_2020-04-13_23_44_53.csv)
 
 
 ## Informações extraídas dos boletins epidemiológicos (antes do IntegraSUS)
