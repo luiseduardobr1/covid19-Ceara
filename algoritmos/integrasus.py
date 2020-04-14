@@ -1,4 +1,4 @@
-# -*- coding: latin-1 -*-
+ï»¿# encoding: "ISO-8859-1"
 
 import pandas as pd
 import datetime
@@ -34,9 +34,9 @@ def job():
         raw_data = contents.decoded_content.decode('utf-8')
 
         # Regex completo para URL's
-        URL_REGEX = r"""(?i)\b((?:https?:(?:/{1,3}|[a-z0-9%])|[a-z0-9.\-]+[.](?:com|net|org|edu|gov|mil|aero|asia|biz|cat|coop|info|int|jobs|mobi|museum|name|post|pro|tel|travel|xxx|ac|ad|ae|af|ag|ai|al|am|an|ao|aq|ar|as|at|au|aw|ax|az|ba|bb|bd|be|bf|bg|bh|bi|bj|bm|bn|bo|br|bs|bt|bv|bw|by|bz|ca|cc|cd|cf|cg|ch|ci|ck|cl|cm|cn|co|cr|cs|cu|cv|cx|cy|cz|dd|de|dj|dk|dm|do|dz|ec|ee|eg|eh|er|es|et|eu|fi|fj|fk|fm|fo|fr|ga|gb|gd|ge|gf|gg|gh|gi|gl|gm|gn|gp|gq|gr|gs|gt|gu|gw|gy|hk|hm|hn|hr|ht|hu|id|ie|il|im|in|io|iq|ir|is|it|je|jm|jo|jp|ke|kg|kh|ki|km|kn|kp|kr|kw|ky|kz|la|lb|lc|li|lk|lr|ls|lt|lu|lv|ly|ma|mc|md|me|mg|mh|mk|ml|mm|mn|mo|mp|mq|mr|ms|mt|mu|mv|mw|mx|my|mz|na|nc|ne|nf|ng|ni|nl|no|np|nr|nu|nz|om|pa|pe|pf|pg|ph|pk|pl|pm|pn|pr|ps|pt|pw|py|qa|re|ro|rs|ru|rw|sa|sb|sc|sd|se|sg|sh|si|sj|Ja|sk|sl|sm|sn|so|sr|ss|st|su|sv|sx|sy|sz|tc|td|tf|tg|th|tj|tk|tl|tm|tn|to|tp|tr|tt|tv|tw|tz|ua|ug|uk|us|uy|uz|va|vc|ve|vg|vi|vn|vu|wf|ws|ye|yt|yu|za|zm|zw)/)(?:[^\s()<>{}\[\]]+|\([^\s()]*?\([^\s()]+\)[^\s()]*?\)|\([^\s]+?\))+(?:\([^\s()]*?\([^\s()]+\)[^\s()]*?\)|\([^\s]+?\)|[^\s`!()\[\]{};:\'\".,<>?«»“”‘’])|(?:(?<!@)[a-z0-9]+(?:[.\-][a-z0-9]+)*[.](?:com|net|org|edu|gov|mil|aero|asia|biz|cat|coop|info|int|jobs|mobi|museum|name|post|pro|tel|travel|xxx|ac|ad|ae|af|ag|ai|al|am|an|ao|aq|ar|as|at|au|aw|ax|az|ba|bb|bd|be|bf|bg|bh|bi|bj|bm|bn|bo|br|bs|bt|bv|bw|by|bz|ca|cc|cd|cf|cg|ch|ci|ck|cl|cm|cn|co|cr|cs|cu|cv|cx|cy|cz|dd|de|dj|dk|dm|do|dz|ec|ee|eg|eh|er|es|et|eu|fi|fj|fk|fm|fo|fr|ga|gb|gd|ge|gf|gg|gh|gi|gl|gm|gn|gp|gq|gr|gs|gt|gu|gw|gy|hk|hm|hn|hr|ht|hu|id|ie|il|im|in|io|iq|ir|is|it|je|jm|jo|jp|ke|kg|kh|ki|km|kn|kp|kr|kw|ky|kz|la|lb|lc|li|lk|lr|ls|lt|lu|lv|ly|ma|mc|md|me|mg|mh|mk|ml|mm|mn|mo|mp|mq|mr|ms|mt|mu|mv|mw|mx|my|mz|na|nc|ne|nf|ng|ni|nl|no|np|nr|nu|nz|om|pa|pe|pf|pg|ph|pk|pl|pm|pn|pr|ps|pt|pw|py|qa|re|ro|rs|ru|rw|sa|sb|sc|sd|se|sg|sh|si|sj|Ja|sk|sl|sm|sn|so|sr|ss|st|su|sv|sx|sy|sz|tc|td|tf|tg|th|tj|tk|tl|tm|tn|to|tp|tr|tt|tv|tw|tz|ua|ug|uk|us|uy|uz|va|vc|ve|vg|vi|vn|vu|wf|ws|ye|yt|yu|za|zm|zw)\b/?(?!@)))"""
+        URL_REGEX = r"""(?i)\b((?:https?:(?:/{1,3}|[a-z0-9%])|[a-z0-9.\-]+[.](?:com|net|org|edu|gov|mil|aero|asia|biz|cat|coop|info|int|jobs|mobi|museum|name|post|pro|tel|travel|xxx|ac|ad|ae|af|ag|ai|al|am|an|ao|aq|ar|as|at|au|aw|ax|az|ba|bb|bd|be|bf|bg|bh|bi|bj|bm|bn|bo|br|bs|bt|bv|bw|by|bz|ca|cc|cd|cf|cg|ch|ci|ck|cl|cm|cn|co|cr|cs|cu|cv|cx|cy|cz|dd|de|dj|dk|dm|do|dz|ec|ee|eg|eh|er|es|et|eu|fi|fj|fk|fm|fo|fr|ga|gb|gd|ge|gf|gg|gh|gi|gl|gm|gn|gp|gq|gr|gs|gt|gu|gw|gy|hk|hm|hn|hr|ht|hu|id|ie|il|im|in|io|iq|ir|is|it|je|jm|jo|jp|ke|kg|kh|ki|km|kn|kp|kr|kw|ky|kz|la|lb|lc|li|lk|lr|ls|lt|lu|lv|ly|ma|mc|md|me|mg|mh|mk|ml|mm|mn|mo|mp|mq|mr|ms|mt|mu|mv|mw|mx|my|mz|na|nc|ne|nf|ng|ni|nl|no|np|nr|nu|nz|om|pa|pe|pf|pg|ph|pk|pl|pm|pn|pr|ps|pt|pw|py|qa|re|ro|rs|ru|rw|sa|sb|sc|sd|se|sg|sh|si|sj|Ja|sk|sl|sm|sn|so|sr|ss|st|su|sv|sx|sy|sz|tc|td|tf|tg|th|tj|tk|tl|tm|tn|to|tp|tr|tt|tv|tw|tz|ua|ug|uk|us|uy|uz|va|vc|ve|vg|vi|vn|vu|wf|ws|ye|yt|yu|za|zm|zw)/)(?:[^\s()<>{}\[\]]+|\([^\s()]*?\([^\s()]+\)[^\s()]*?\)|\([^\s]+?\))+(?:\([^\s()]*?\([^\s()]+\)[^\s()]*?\)|\([^\s]+?\)|[^\s`!()\[\]{};:\'\".,<>?Â«Â»Â“Â”Â‘Â’])|(?:(?<!@)[a-z0-9]+(?:[.\-][a-z0-9]+)*[.](?:com|net|org|edu|gov|mil|aero|asia|biz|cat|coop|info|int|jobs|mobi|museum|name|post|pro|tel|travel|xxx|ac|ad|ae|af|ag|ai|al|am|an|ao|aq|ar|as|at|au|aw|ax|az|ba|bb|bd|be|bf|bg|bh|bi|bj|bm|bn|bo|br|bs|bt|bv|bw|by|bz|ca|cc|cd|cf|cg|ch|ci|ck|cl|cm|cn|co|cr|cs|cu|cv|cx|cy|cz|dd|de|dj|dk|dm|do|dz|ec|ee|eg|eh|er|es|et|eu|fi|fj|fk|fm|fo|fr|ga|gb|gd|ge|gf|gg|gh|gi|gl|gm|gn|gp|gq|gr|gs|gt|gu|gw|gy|hk|hm|hn|hr|ht|hu|id|ie|il|im|in|io|iq|ir|is|it|je|jm|jo|jp|ke|kg|kh|ki|km|kn|kp|kr|kw|ky|kz|la|lb|lc|li|lk|lr|ls|lt|lu|lv|ly|ma|mc|md|me|mg|mh|mk|ml|mm|mn|mo|mp|mq|mr|ms|mt|mu|mv|mw|mx|my|mz|na|nc|ne|nf|ng|ni|nl|no|np|nr|nu|nz|om|pa|pe|pf|pg|ph|pk|pl|pm|pn|pr|ps|pt|pw|py|qa|re|ro|rs|ru|rw|sa|sb|sc|sd|se|sg|sh|si|sj|Ja|sk|sl|sm|sn|so|sr|ss|st|su|sv|sx|sy|sz|tc|td|tf|tg|th|tj|tk|tl|tm|tn|to|tp|tr|tt|tv|tw|tz|ua|ug|uk|us|uy|uz|va|vc|ve|vg|vi|vn|vu|wf|ws|ye|yt|yu|za|zm|zw)\b/?(?!@)))"""
 
-        # Atualizar três primeiros links no README.md
+        # Atualizar trÃªs primeiros links no README.md
         resumoCE = re.findall(URL_REGEX, raw_data)[0]
         municipiosCE = re.findall(URL_REGEX, raw_data)[1]
         faixaetariaCE = re.findall(URL_REGEX, raw_data)[2]
@@ -49,7 +49,7 @@ def job():
             raw_data = raw_data.replace(resumoCE,'https://github.com/luiseduardobr1/covid19-Ceara/blob/master/' + name_dest)
         if name_from[:11]=='municipios_':
             raw_data = raw_data.replace(municipiosCE,'https://github.com/luiseduardobr1/covid19-Ceara/blob/master/' + name_dest)
-        if name_from[:5]=='Faixa':
+        if name_from[:13]=='Faixa_Etaria_':
             raw_data = raw_data.replace(faixaetariaCE,'https://github.com/luiseduardobr1/covid19-Ceara/blob/master/' + name_dest)
         if name_from[:6]=='Obitos':
             raw_data = raw_data.replace(obitosCE,'https://github.com/luiseduardobr1/covid19-Ceara/blob/master/' + name_dest)
@@ -85,7 +85,7 @@ def job():
         commit = repo.create_git_commit(commit_message, tree, [parent])
         master_ref.edit(commit.sha)
 
-    # Extrair Municípios
+    # Extrair MunicÃ­pios
     def municipios(data_inicial, data_final):
         date = data_inicial
         writeHeader = True
@@ -97,19 +97,19 @@ def job():
                 #print(date)
                 df.insert(loc=0, column='Data', value=date.date())
 
-                # Óbitos
-                response = requests.get('https://indicadores.integrasus.saude.ce.gov.br/api/coronavirus/qtd-por-municipio?data={}&tipo=Óbito&idMunicipio='.format(date.date()))
+                # Ã“bitos
+                response = requests.get('https://indicadores.integrasus.saude.ce.gov.br/api/coronavirus/qtd-por-municipio?data={}&tipo=Ã“bito&idMunicipio='.format(date.date()))
                 dff = pd.read_json(response.text)
                 #dff.insert(loc=0, column='Data', value=date.date())
 
                 if dff.empty==False:
 
-                    # Juntar dataframes de casos confirmados e óbitos considerando a possibilidade
-                    # de existir óbito em algum município sem nenhum caso confirmado
+                    # Juntar dataframes de casos confirmados e Ã³bitos considerando a possibilidade
+                    # de existir Ã³bito em algum municÃ­pio sem nenhum caso confirmado
                     df = pd.merge(df, dff, how='outer', on='idMunicipio')
                     df['municipio_x'] = np.where(pd.isna(df['municipio_x']), df['municipio_y'], df['municipio_x'])
                     df.drop(columns=['municipio_y', 'tipo_y'], inplace=True)
-                    df['tipo_x'].fillna('Registrado somente óbito', inplace=True)
+                    df['tipo_x'].fillna('Registrado somente Ã³bito', inplace=True)
                     df['Data'].fillna(date.date(), inplace=True)
 
                     # Organizando o dataframe resultante
@@ -147,7 +147,7 @@ def job():
 
             if df.empty==False:
                 
-                # Data do primeiro óbito
+                # Data do primeiro Ã³bito
                 try:
                     response = requests.get('https://indicadores.integrasus.saude.ce.gov.br/api/obitos-covid/limite-data?data=&idMunicipio=')
                     dfinicial = pd.DataFrame([pd.read_json(response.text, typ='series')])
@@ -161,7 +161,7 @@ def job():
                 response = requests.get('https://indicadores.integrasus.saude.ce.gov.br/api/coronavirus/qtd-municipios-casos-confirmados?data={}&tipo=Confirmado&idMunicipio='.format(date))
                 dfmun = pd.read_json(response.text)
 
-                #Óbitos
+                #Ã“bitos
                 response = requests.get('https://indicadores.integrasus.saude.ce.gov.br/api/coronavirus/qtd-obitos?data={}&tipo=Confirmado&idMunicipio='.format(date))
                 dfmun2 = pd.read_json(response.text)
 
@@ -177,11 +177,11 @@ def job():
                 df = df.set_index('tipo').transpose()
                 df_new = df.rename(index={'quantidade': date.date()})
 
-                if not set(['Data', 'Em Análise', 'Inconclusivo', 'Negativo', 'Positivo']).issubset(df_new.columns):
+                if not set(['Data', 'Em AnÃ¡lise', 'Inconclusivo', 'Negativo', 'Positivo']).issubset(df_new.columns):
                     df_new.insert(loc=0, column='Data', value=date.date())  
 
-                    if not {'Em Análise'}.issubset(df_new.columns):
-                        df_new.insert(loc=1, column='Em Análise', value=0)
+                    if not {'Em AnÃ¡lise'}.issubset(df_new.columns):
+                        df_new.insert(loc=1, column='Em AnÃ¡lise', value=0)
                     if not {'Inconclusivo'}.issubset(df_new.columns):
                         df_new.insert(loc=2, column='Inconclusivo', value=0)
                     if not {'Negativo'}.issubset(df_new.columns):
@@ -193,26 +193,26 @@ def job():
                     
                     # Corrigindo data do primeiro obito
                     if date<data_primeiro_obito:
-                        df_new.insert(loc=6, column='Óbitos', value=0) 
+                        df_new.insert(loc=6, column='Ã“bitos', value=0) 
                     else:
-                        df_new.insert(loc=6, column='Óbitos', value=dfmun2.loc[0, 'quantidade'])
+                        df_new.insert(loc=6, column='Ã“bitos', value=dfmun2.loc[0, 'quantidade'])
                         
                     df_new.insert(loc=1, column='Suspeitos', value=dfmun3.loc[0, 'quantidade'])
                     df_new.insert(loc=1, column='Exames realizados', value=dfmun4.loc[0, 'quantidadeExame'])
 
                 # Calcular a taxa de letalidade (%)
                 try:
-                    df_new['Taxa de letalidade (%)'] = round(100*df_new['Óbitos']/df_new['Positivo'], 3)
+                    df_new['Taxa de letalidade (%)'] = round(100*df_new['Ã“bitos']/df_new['Positivo'], 3)
                 except ZeroDivisionError:
                     df_new['Taxa de letalidade (%)']=0
 
                 # Adiciona uma coluna estado = CE
                 df_new['Estado'] = 'CE'
 
-                #Espaço vazio no título do dataframe
+                #EspaÃ§o vazio no tÃ­tulo do dataframe
                 df_new.columns = df_new.columns.fillna('Quantidade analisado')
                 
-                # Ajeitar inconsistência de morte sem caso confirmado
+                # Ajeitar inconsistÃªncia de morte sem caso confirmado
                 
 
                 # Salva como um csv com header
@@ -258,16 +258,16 @@ def job():
         data_final = datas['dataMax'].loc[0]
         atualizado = datetime.datetime.now() - datetime.timedelta(hours=3)
 
-        # Leitos, leitos ocupados e porcentagem ocupação
+        # Leitos, leitos ocupados e porcentagem ocupaÃ§Ã£o
         ocupacao = pd.read_json('https://indicadores.integrasus.saude.ce.gov.br/api/acomp-internacoes/qtd-leitos-ocupados?dataInicio={}&dataFim={}&clinica=&sexo=&idMunicipio='.format(data_inicial, data_final))
         ocupacao['Taxa de Ocupacao (%)'] = round(100*ocupacao['leitosOcup']/ocupacao['qtdLeitos'],3)
         ocupacao.insert(loc=0, column='Data', value=data_final)
 
-        # Tempo médio de internação
+        # Tempo mÃ©dio de internaÃ§Ã£o
         tempo_medio = pd.read_json('https://indicadores.integrasus.saude.ce.gov.br/api/acomp-internacoes/tempo-medio-internacao?dataInicio={}&dataFim={}&clinica=&sexo=&idMunicipio='.format(data_inicial, data_final))
         ocupacao['Tempo medio internacao (dias)'] = tempo_medio['tmpMedioInternacao']
 
-        # Óbitos
+        # Ã“bitos
         obitos = pd.read_json('https://indicadores.integrasus.saude.ce.gov.br/api/acomp-internacoes/qtd-obitos?dataInicio={}&dataFim={}&clinica=&sexo=&idMunicipio='.format(data_inicial, data_final))
         ocupacao['Obitos'] = obitos['quantidade']
 
@@ -284,24 +284,25 @@ def job():
         enviar_github('covid19-Ceara', filename, 'Internacao_Leonardo_da_Vinci/'+filename, 'Atualizado em: ' + atualizado.strftime('%d/%m/%Y %H:%M:%S'))
 
 
-        # Faixa etária
+        # Faixa etÃ¡ria
         faixaet = pd.read_json('https://indicadores.integrasus.saude.ce.gov.br/api/acomp-internacoes/qtd-por-faixa-etaria-e-sexo?dataInicio={}&dataFim={}&clinica=&sexo=&idMunicipio='.format(data_inicial, data_final))
         faixaet.to_csv('FaixaEtaria_Internados_'+atualizado.strftime('%Y-%m-%d_%H_%M_%S')+'.csv', mode='a', encoding='utf-16', index=False)
         filename = 'FaixaEtaria_Internados_'+atualizado.strftime('%Y-%m-%d_%H_%M_%S')+'.csv'
         enviar_github('covid19-Ceara', filename, 'Internacao_Leonardo_da_Vinci/'+filename, 'Atualizado em: ' + atualizado.strftime('%d/%m/%Y %H:%M:%S'))    
 
 
-        # Tipo de internação 
+        # Tipo de internaÃ§Ã£o 
         internacaotipo = pd.read_json('https://indicadores.integrasus.saude.ce.gov.br/api/acomp-internacoes/panorama-ocup-leitos?dataInicio={}&dataFim={}&clinica=&sexo=&idMunicipio='.format(data_inicial, data_final))
         internacaotipo.to_csv('Tipo_Internacao_'+atualizado.strftime('%Y-%m-%d_%H_%M_%S')+'.csv', mode='a', encoding='utf-16', index=False)
         filename = 'Tipo_Internacao_'+atualizado.strftime('%Y-%m-%d_%H_%M_%S')+'.csv'
         enviar_github('covid19-Ceara', filename, 'Internacao_Leonardo_da_Vinci/'+filename, 'Atualizado em: ' + atualizado.strftime('%d/%m/%Y %H:%M:%S'))  
     
-    def obitos_resumo(data_final):       
+    def obitos_resumo(data_final):
         response = requests.get('https://indicadores.integrasus.saude.ce.gov.br/api/obitos-covid/limite-data?data=&idMunicipio=')
         dfinicial = pd.DataFrame([pd.read_json(response.text, typ='series')])
         date = dfinicial['dataMin'][0]
         date = datetime.datetime.strptime(str(date), '%Y-%m-%d %H:%M:%S')
+        datainicialteste = datetime.datetime.strptime(str(date), '%Y-%m-%d %H:%M:%S')
         writeHeader = True
         while date<=data_final:
             # Qntd confirmados, obitos e letalidade
@@ -314,27 +315,29 @@ def job():
             response = requests.get('https://indicadores.integrasus.saude.ce.gov.br/api/obitos-covid/media?data={}&idMunicipio='.format(date.date()))
             df2 = pd.DataFrame([pd.read_json(response.text, typ='series')])
             df1['Media Obitos por Dia'] = round(df2['mediaObitos'],3)
-
-            # Tempo entre internação e óbito
+            
+            # Tempo medio de internacao ao obito
+            '''
             response = requests.get('https://indicadores.integrasus.saude.ce.gov.br/api/obitos-covid/tempo-medio-internacao?data={}&idMunicipio='.format(date.date()))
             df3 = pd.DataFrame([pd.read_json(response.text, typ='series')])
-            if 'tempoMedio' not in df3 or df3['tempoMedio'].values<0:
-                df1['Tempo Medio Internacao ao Obito'] = 0
+            if not 'tempoMedio' in df3:
+                df1['Tempo Medio Internacao ao Obito']=0
             else:
                 df1['Tempo Medio Internacao ao Obito'] = round(df3['tempoMedio'],3)
+            '''       
 
             # Porcentagem de comorbidade
             response = requests.get('https://indicadores.integrasus.saude.ce.gov.br/api/obitos-covid/proporcao-comorbidades?data={}&idMunicipio='.format(date.date()))
             df4 = pd.DataFrame([pd.read_json(response.text, typ='series')])
             df1['Comorbidade (%)'] = df4['proporcaoComorbidade']
 
-            # Idade média e mediana óbito
+            # Idade mÃ©dia e mediana Ã³bito
             response = requests.get('https://indicadores.integrasus.saude.ce.gov.br/api/obitos-covid/media-idade?data={}&idMunicipio='.format(date.date()))
             df5 = pd.DataFrame([pd.read_json(response.text, typ='series')])
             df1['Idade media obito'] = df5['idadeMedia']    
             df1['Idade mediana obito'] = df5['idadeMediana']
 
-            # Óbitos suspeitos
+            # Ã“bitos suspeitos
             response = requests.get('https://indicadores.integrasus.saude.ce.gov.br/api/obitos-covid/obitos-suspeitos?data={}&idMunicipio='.format(date.date()))
             df6 = pd.DataFrame([pd.read_json(response.text, typ='series')])
             df1['Obitos suspeitos'] = df6['quantidadeObitos']    
@@ -346,19 +349,19 @@ def job():
             df1['Dias entre inicio sintomas ate resultado do exame'] = df7['tempoMedio'][1]   
             df1['Dias entre inicio sintomas ate obito'] = df7['tempoMedio'][2]   
 
-            # Local do óbito
+            # Local do Ã³bito
             response = requests.get('https://indicadores.integrasus.saude.ce.gov.br/api/obitos-covid/local-obito?data={}&idMunicipio='.format(date.date()))
             df8 = pd.read_json(response.text)
             if 'Hospital' in df8['localObito'].values:
                 df1['Obitos na hospital'] = df8.loc[df8['localObito'] == 'Hospital', 'quantidadeObitos'].iloc[0]
             else:
                 df1['Obitos no hospital'] = 0
-            if 'Residência' in df8['localObito'].values:
-                df1['Obitos na residencia'] = df8.loc[df8['localObito'] == 'Residência', 'quantidadeObitos'].iloc[0]
+            if 'ResidÃªncia' in df8['localObito'].values:
+                df1['Obitos na residencia'] = df8.loc[df8['localObito'] == 'ResidÃªncia', 'quantidadeObitos'].iloc[0]
             else:
                 df1['Obitos na residencia'] = 0
-            if 'Sem informação' in df8['localObito'].values:
-                df1['Obitos sem informacao local'] = df8.loc[df8['localObito'] == 'Sem informação', 'quantidadeObitos'].iloc[0]
+            if 'Sem informaÃ§Ã£o' in df8['localObito'].values:
+                df1['Obitos sem informacao local'] = df8.loc[df8['localObito'] == 'Sem informaÃ§Ã£o', 'quantidadeObitos'].iloc[0]
             else:
                 df1['Obitos sem informacao local'] = 0
 
@@ -377,6 +380,7 @@ def job():
             date += datetime.timedelta(days=1)
         enviar_github('covid19-Ceara', filename, 'ObitosResumo_CE/'+filename, 'Atualizado em: ' + data_final.strftime('%d/%m/%Y %H:%M:%S'))
 
+        
     def obitos_comorbidades(data_final):
         response = requests.get('https://indicadores.integrasus.saude.ce.gov.br/api/obitos-covid/limite-data?data=&idMunicipio=')
         dfinicial = pd.DataFrame([pd.read_json(response.text, typ='series')])
@@ -437,9 +441,11 @@ def job():
     toc = time.time()
     get_time=round(toc-tic,3)
     print('Finished in ' + str(get_time) + ' seconds')
+    
 
 schedule.every(3).hours.do(job)
 
+# CUIDADO SE FOR COPIAR PARA O HEROKU AJUSTAR FUSO
 while True:
     data_inicial = datetime.datetime(2020, 2, 15, 0, 0, 0, 0)
     data_final = datetime.datetime.now() - datetime.timedelta(hours=3)
