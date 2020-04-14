@@ -6,7 +6,7 @@ Extração automática a cada 4 horas de toda a base de dados do sistema oficial
 * [Últimas informações de sexo e faixa etária dos confirmados](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/Internacao_Leonardo_da_Vinci/FaixaEtaria_Internados_2020-04-13_20_46_25.csv)
 
 Demais informações:
-* [Boletins arquivados](https://github.com/luiseduardobr1/covid19-Ceara/tree/master/boletins)
+* [Boletins arquivados](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/ObitosResumo_CE/ObitosResumo_2020-04-13_23_44_53.csv)
 * [Notícias relevantes](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/noticias.md)
 * [Perguntas e respostas frequentes](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/Q%26A.md)
 
