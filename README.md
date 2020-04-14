@@ -45,6 +45,7 @@ Demais informações:
 
 ## Estudos
 [COVID-19 VirusScan - CappraLAB (Geral)](https://static1.squarespace.com/static/5c4ca9b7cef372b39c3d9aab/t/5e71665d1491e857a5cfa23a/1584490167127/dossie-covid19-cappralab.pdf)
+
 [NOIS - PUC Rio](https://sites.google.com/view/nois-pucrio/publica%C3%A7%C3%B5es?authuser=0)
 
 ## Atraso nas notificações
