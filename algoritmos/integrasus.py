@@ -24,7 +24,7 @@ def job():
     
     def enviar_github(repository, name_from, name_dest, commit_msg):
         # TOKEN da minha conta
-        token = 'YOUR TOKEN'
+        token = 'YOUR TOKEN HERE'
         g = Github(token)
 
         repo = g.get_user().get_repo(repository)
@@ -40,12 +40,23 @@ def job():
         resumoCE = re.findall(URL_REGEX, raw_data)[0]
         municipiosCE = re.findall(URL_REGEX, raw_data)[1]
         faixaetariaCE = re.findall(URL_REGEX, raw_data)[2]
+        obitosCE = re.findall(URL_REGEX, raw_data)[3]
+        comorbidadesCE = re.findall(URL_REGEX, raw_data)[4]
+        faixaetariaobitosCE = re.findall(URL_REGEX, raw_data)[5]
+        
+        
         if name_from[:8]=='DadosCE_':
             raw_data = raw_data.replace(resumoCE,'https://github.com/luiseduardobr1/covid19-Ceara/blob/master/' + name_dest)
         if name_from[:11]=='municipios_':
             raw_data = raw_data.replace(municipiosCE,'https://github.com/luiseduardobr1/covid19-Ceara/blob/master/' + name_dest)
         if name_from[:5]=='Faixa':
             raw_data = raw_data.replace(faixaetariaCE,'https://github.com/luiseduardobr1/covid19-Ceara/blob/master/' + name_dest)
+        if name_from[:6]=='Obitos':
+            raw_data = raw_data.replace(obitosCE,'https://github.com/luiseduardobr1/covid19-Ceara/blob/master/' + name_dest)
+        if name_from[:5]=='Comor':
+            raw_data = raw_data.replace(comorbidadesCE,'https://github.com/luiseduardobr1/covid19-Ceara/blob/master/' + name_dest)
+        if name_from[:18]=='FaixaEtariaObitos_':
+            raw_data = raw_data.replace(faixaetariaobitosCE,'https://github.com/luiseduardobr1/covid19-Ceara/blob/master/' + name_dest)
 
         # Update Readme.md
         repo.update_file(contents.path, commit_msg, raw_data, contents.sha)
@@ -135,6 +146,17 @@ def job():
             df = pd.read_json(response.text)
 
             if df.empty==False:
+                
+                # Data do primeiro óbito
+                try:
+                    response = requests.get('https://indicadores.integrasus.saude.ce.gov.br/api/obitos-covid/limite-data?data=&idMunicipio=')
+                    dfinicial = pd.DataFrame([pd.read_json(response.text, typ='series')])
+                    data_primeiro_obito = dfinicial['dataMin'][0]
+                    data_primeiro_obito = datetime.datetime.strptime(str(data_primeiro_obito), '%Y-%m-%d %H:%M:%S')
+                except:
+                    pass
+
+                
                 # Municipios Afetados
                 response = requests.get('https://indicadores.integrasus.saude.ce.gov.br/api/coronavirus/qtd-municipios-casos-confirmados?data={}&tipo=Confirmado&idMunicipio='.format(date))
                 dfmun = pd.read_json(response.text)
@@ -146,6 +168,10 @@ def job():
                 #Suspeitos
                 response = requests.get('https://indicadores.integrasus.saude.ce.gov.br/api/coronavirus/qtd-suspeitos?data={}&tipo=Confirmado&idMunicipio='.format(date))
                 dfmun3 = pd.read_json(response.text)
+
+                #Exames realizados
+                response = requests.get('https://indicadores.integrasus.saude.ce.gov.br/api/coronavirus/qtd-exames?data={}&tipo=Confirmado&idMunicipio='.format(date))
+                dfmun4 = pd.read_json(response.text)
 
                 # Transposta e alterar nome
                 df = df.set_index('tipo').transpose()
@@ -164,8 +190,15 @@ def job():
                         df_new.insert(loc=4, column='Positivo', value=0)
 
                     df_new.insert(loc=5, column='Municios Afetados', value=dfmun.loc[0, 'quantidade']) 
-                    df_new.insert(loc=6, column='Óbitos', value=dfmun2.loc[0, 'quantidade']) 
+                    
+                    # Corrigindo data do primeiro obito
+                    if date<data_primeiro_obito:
+                        df_new.insert(loc=6, column='Óbitos', value=0) 
+                    else:
+                        df_new.insert(loc=6, column='Óbitos', value=dfmun2.loc[0, 'quantidade'])
+                        
                     df_new.insert(loc=1, column='Suspeitos', value=dfmun3.loc[0, 'quantidade'])
+                    df_new.insert(loc=1, column='Exames realizados', value=dfmun4.loc[0, 'quantidadeExame'])
 
                 # Calcular a taxa de letalidade (%)
                 try:
@@ -175,6 +208,12 @@ def job():
 
                 # Adiciona uma coluna estado = CE
                 df_new['Estado'] = 'CE'
+
+                #Espaço vazio no título do dataframe
+                df_new.columns = df_new.columns.fillna('Quantidade analisado')
+                
+                # Ajeitar inconsistência de morte sem caso confirmado
+                
 
                 # Salva como um csv com header
                 filename = r'DadosCE_'+data_final.strftime('%Y-%m-%d_%H_%M_%S')+'.csv'
@@ -240,40 +279,169 @@ def job():
         sexo = pd.read_json('https://indicadores.integrasus.saude.ce.gov.br/api/acomp-internacoes/qtd-por-sexo?dataInicio={}&dataFim={}&clinica=&sexo=&idMunicipio='.format(data_inicial, data_final))
         ocupacao['Mulheres'] = sexo['quantidade'].loc[0] #Feminino
         ocupacao['Homens'] = sexo['quantidade'].loc[1] #Masculino
-        ocupacao.to_csv('Ocupacao_Leitos_'+data_final+'.csv', mode='a', encoding='utf-16', index=False)
+        ocupacao.to_csv('Ocupacao_Leitos_'+atualizado.strftime('%Y-%m-%d_%H_%M_%S')+'.csv', mode='a', encoding='utf-16', index=False)
         filename = 'Ocupacao_Leitos_'+atualizado.strftime('%Y-%m-%d_%H_%M_%S')+'.csv'
         enviar_github('covid19-Ceara', filename, 'Internacao_Leonardo_da_Vinci/'+filename, 'Atualizado em: ' + atualizado.strftime('%d/%m/%Y %H:%M:%S'))
 
 
         # Faixa etária
         faixaet = pd.read_json('https://indicadores.integrasus.saude.ce.gov.br/api/acomp-internacoes/qtd-por-faixa-etaria-e-sexo?dataInicio={}&dataFim={}&clinica=&sexo=&idMunicipio='.format(data_inicial, data_final))
-        faixaet.to_csv('FaixaEtaria_Internados_'+data_final+'.csv', mode='a', encoding='utf-16', index=False)
+        faixaet.to_csv('FaixaEtaria_Internados_'+atualizado.strftime('%Y-%m-%d_%H_%M_%S')+'.csv', mode='a', encoding='utf-16', index=False)
         filename = 'FaixaEtaria_Internados_'+atualizado.strftime('%Y-%m-%d_%H_%M_%S')+'.csv'
         enviar_github('covid19-Ceara', filename, 'Internacao_Leonardo_da_Vinci/'+filename, 'Atualizado em: ' + atualizado.strftime('%d/%m/%Y %H:%M:%S'))    
 
 
         # Tipo de internação 
         internacaotipo = pd.read_json('https://indicadores.integrasus.saude.ce.gov.br/api/acomp-internacoes/panorama-ocup-leitos?dataInicio={}&dataFim={}&clinica=&sexo=&idMunicipio='.format(data_inicial, data_final))
-        internacaotipo.to_csv('Tipo_Internacao_'+data_final+'.csv', mode='a', encoding='utf-16', index=False)
+        internacaotipo.to_csv('Tipo_Internacao_'+atualizado.strftime('%Y-%m-%d_%H_%M_%S')+'.csv', mode='a', encoding='utf-16', index=False)
         filename = 'Tipo_Internacao_'+atualizado.strftime('%Y-%m-%d_%H_%M_%S')+'.csv'
         enviar_github('covid19-Ceara', filename, 'Internacao_Leonardo_da_Vinci/'+filename, 'Atualizado em: ' + atualizado.strftime('%d/%m/%Y %H:%M:%S'))  
     
+    def obitos_resumo(data_final):       
+        response = requests.get('https://indicadores.integrasus.saude.ce.gov.br/api/obitos-covid/limite-data?data=&idMunicipio=')
+        dfinicial = pd.DataFrame([pd.read_json(response.text, typ='series')])
+        date = dfinicial['dataMin'][0]
+        date = datetime.datetime.strptime(str(date), '%Y-%m-%d %H:%M:%S')
+        writeHeader = True
+        while date<=data_final:
+            # Qntd confirmados, obitos e letalidade
+            response = requests.get('https://indicadores.integrasus.saude.ce.gov.br/api/obitos-covid/total?data={}&idMunicipio='.format(date.date()))
+            df1 = pd.DataFrame([pd.read_json(response.text, typ='series')])
+            df1.rename(columns={"quantidade":"Casos confirmados","quantidadeObitos": "Total obitos", "letalidade": "Letalidade (%)"}, inplace=True)
+            df1['Letalidade (%)']=round(df1['Letalidade (%)'],3)
+
+            # Media obitos por dia
+            response = requests.get('https://indicadores.integrasus.saude.ce.gov.br/api/obitos-covid/media?data={}&idMunicipio='.format(date.date()))
+            df2 = pd.DataFrame([pd.read_json(response.text, typ='series')])
+            df1['Media Obitos por Dia'] = round(df2['mediaObitos'],3)
+
+            # Tempo entre internação e óbito
+            response = requests.get('https://indicadores.integrasus.saude.ce.gov.br/api/obitos-covid/tempo-medio-internacao?data={}&idMunicipio='.format(date.date()))
+            df3 = pd.DataFrame([pd.read_json(response.text, typ='series')])
+            if 'tempoMedio' not in df3 or df3['tempoMedio'].values<0:
+                df1['Tempo Medio Internacao ao Obito'] = 0
+            else:
+                df1['Tempo Medio Internacao ao Obito'] = round(df3['tempoMedio'],3)
+
+            # Porcentagem de comorbidade
+            response = requests.get('https://indicadores.integrasus.saude.ce.gov.br/api/obitos-covid/proporcao-comorbidades?data={}&idMunicipio='.format(date.date()))
+            df4 = pd.DataFrame([pd.read_json(response.text, typ='series')])
+            df1['Comorbidade (%)'] = df4['proporcaoComorbidade']
+
+            # Idade média e mediana óbito
+            response = requests.get('https://indicadores.integrasus.saude.ce.gov.br/api/obitos-covid/media-idade?data={}&idMunicipio='.format(date.date()))
+            df5 = pd.DataFrame([pd.read_json(response.text, typ='series')])
+            df1['Idade media obito'] = df5['idadeMedia']    
+            df1['Idade mediana obito'] = df5['idadeMediana']
+
+            # Óbitos suspeitos
+            response = requests.get('https://indicadores.integrasus.saude.ce.gov.br/api/obitos-covid/obitos-suspeitos?data={}&idMunicipio='.format(date.date()))
+            df6 = pd.DataFrame([pd.read_json(response.text, typ='series')])
+            df1['Obitos suspeitos'] = df6['quantidadeObitos']    
+
+            # Tempo medio internacao, obito e resultado exame
+            response = requests.get('https://indicadores.integrasus.saude.ce.gov.br/api/obitos-covid/tempo-medio-espera?data={}&idMunicipio='.format(date.date()))
+            df7 = pd.read_json(response.text)
+            df1['Dias entre inicio sintomas ate internacao'] = df7['tempoMedio'][0]
+            df1['Dias entre inicio sintomas ate resultado do exame'] = df7['tempoMedio'][1]   
+            df1['Dias entre inicio sintomas ate obito'] = df7['tempoMedio'][2]   
+
+            # Local do óbito
+            response = requests.get('https://indicadores.integrasus.saude.ce.gov.br/api/obitos-covid/local-obito?data={}&idMunicipio='.format(date.date()))
+            df8 = pd.read_json(response.text)
+            if 'Hospital' in df8['localObito'].values:
+                df1['Obitos na hospital'] = df8.loc[df8['localObito'] == 'Hospital', 'quantidadeObitos'].iloc[0]
+            else:
+                df1['Obitos no hospital'] = 0
+            if 'Residência' in df8['localObito'].values:
+                df1['Obitos na residencia'] = df8.loc[df8['localObito'] == 'Residência', 'quantidadeObitos'].iloc[0]
+            else:
+                df1['Obitos na residencia'] = 0
+            if 'Sem informação' in df8['localObito'].values:
+                df1['Obitos sem informacao local'] = df8.loc[df8['localObito'] == 'Sem informação', 'quantidadeObitos'].iloc[0]
+            else:
+                df1['Obitos sem informacao local'] = 0
+
+            #Colocar data
+            df1.insert(loc=0, column='Data', value=date.date())
+            df1['Casos confirmados'] = df1['Casos confirmados'].astype(int)
+            df1['Total obitos'] = df1['Total obitos'].astype(int)
+
+            filename = r'ObitosResumo_'+data_final.strftime('%Y-%m-%d_%H_%M_%S')+'.csv'
+            if writeHeader is True:
+                df1.to_csv(filename, mode='a', encoding='utf-16', index=None)
+                writeHeader = False
+            else:
+                df1.to_csv(filename, mode='a', encoding='utf-16', header=False, index=None)
+
+            date += datetime.timedelta(days=1)
+        enviar_github('covid19-Ceara', filename, 'ObitosResumo_CE/'+filename, 'Atualizado em: ' + data_final.strftime('%d/%m/%Y %H:%M:%S'))
+
+    def obitos_comorbidades(data_final):
+        response = requests.get('https://indicadores.integrasus.saude.ce.gov.br/api/obitos-covid/limite-data?data=&idMunicipio=')
+        dfinicial = pd.DataFrame([pd.read_json(response.text, typ='series')])
+        date = dfinicial['dataMin'][0]
+        date = datetime.datetime.strptime(str(date), '%Y-%m-%d %H:%M:%S')
+        writeHeader = True
+
+        while date<=data_final:
+            #print(date.date())
+            response = requests.get('https://indicadores.integrasus.saude.ce.gov.br/api/obitos-covid/comorbidade?data={}&idMunicipio='.format(date.date()))
+            df1 = pd.read_json(response.text)
+            df2 = df1[df1['situacaoComorbidade']=='Sim']
+            df2.insert(loc=0, column='Data', value=date.date())
+            df2 = df2.sort_values(by=['quantidadeObitos'], ascending=False)
+
+            filename = r'Comorbidades_'+data_final.strftime('%Y-%m-%d_%H_%M_%S')+'.csv'
+            if writeHeader is True:
+                df2.to_csv(filename, mode='a', encoding='utf-16', index=None)
+                writeHeader = False
+            else:
+                df2.to_csv(filename, mode='a', encoding='utf-16', header=False, index=None)
+            date += datetime.timedelta(days=1)
+        enviar_github('covid19-Ceara', filename, 'Comorbidades_CE/'+filename, 'Atualizado em: ' + data_final.strftime('%d/%m/%Y %H:%M:%S'))
+
+    def faixa_etaria_obitos(data_final):
+        response = requests.get('https://indicadores.integrasus.saude.ce.gov.br/api/obitos-covid/limite-data?data=&idMunicipio=')
+        dfinicial = pd.DataFrame([pd.read_json(response.text, typ='series')])
+        date = dfinicial['dataMin'][0]
+        date = datetime.datetime.strptime(str(date), '%Y-%m-%d %H:%M:%S')
+        writeHeader = True
+
+        while date<=data_final:
+            #print(date.date())
+            response = requests.get('https://indicadores.integrasus.saude.ce.gov.br/api/obitos-covid/faixa-etaria?data={}&idMunicipio='.format(date.date()))
+            df1 = pd.read_json(response.text)
+
+            df1.insert(loc=0, column='Data', value=date.date())
+
+            filename = r'FaixaEtariaObitos_'+data_final.strftime('%Y-%m-%d_%H_%M_%S')+'.csv'
+            if writeHeader is True:
+                df1.to_csv(filename, mode='a', encoding='utf-16', index=None)
+                writeHeader = False
+            else:
+                df1.to_csv(filename, mode='a', encoding='utf-16', header=False, index=None)
+            date += datetime.timedelta(days=1)
+        enviar_github('covid19-Ceara', filename, 'FaixaEtariaObitos_CE/'+filename, 'Atualizado em: ' + data_final.strftime('%d/%m/%Y %H:%M:%S'))
+
     
     # --- EXECUTAR ---
     municipios(data_inicial, data_final)
     resultados_exames(data_inicial, data_final)
     faixa_etaria(data_inicial, data_final)
     hospital_vinci()
+    obitos_resumo(data_final)
+    obitos_comorbidades(data_final)
+    faixa_etaria_obitos(data_final)
 
     toc = time.time()
     get_time=round(toc-tic,3)
     print('Finished in ' + str(get_time) + ' seconds')
-    
 
-schedule.every(4).hours.do(job)
+schedule.every(3).hours.do(job)
 
 while True:
-    data_inicial = datetime.datetime(2020, 3, 1, 0, 0, 0, 0)
+    data_inicial = datetime.datetime(2020, 2, 15, 0, 0, 0, 0)
     data_final = datetime.datetime.now() - datetime.timedelta(hours=3)
     
     schedule.run_pending()
