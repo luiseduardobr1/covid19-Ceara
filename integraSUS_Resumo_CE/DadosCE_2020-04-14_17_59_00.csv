@@ -1,0 +1,7 @@
+Data,Exames realizados,Suspeitos,Em Análise,Inconclusivo,Negativo,Positivo,Municios Afetados,Óbitos,Quantidade analisado,Taxa de letalidade (%),Estado
+2020-02-15,1593,59,3,0,3,0,0,0,19,,CE
+2020-02-16,1593,59,3,0,3,0,0,0,19,,CE
+2020-02-17,1593,59,3,0,4,0,0,0,21,,CE
+2020-02-18,1593,59,3,0,4,1,1,0,22,0.0,CE
+2020-02-19,1593,59,3,0,5,1,1,0,23,0.0,CE
+2020-02-20,0,59,3,0,6,1,1,0,26,0.0,CE
