@@ -7,7 +7,7 @@ Extração automática a cada 4 horas de toda a base de dados do sistema oficial
 
 Demais informações:
 * [Boletins arquivados](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/ObitosResumo_CE/ObitosResumo_2020-04-13_23_44_53.csv)
-* [Notícias relevantes](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/noticias.md)
+* [Notícias relevantes](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/Comorbidades_CE/Comorbidades_2020-04-13_23_44_53.csv)
 * [Perguntas e respostas frequentes](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/Q%26A.md)
 
 
