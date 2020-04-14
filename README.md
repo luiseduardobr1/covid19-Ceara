@@ -1,14 +1,18 @@
 # COVID-19 - Ceará
 Extração automática a cada 4 horas de toda a base de dados do sistema oficial de comunicação dos casos de COVID-19 no estado do Ceará a partir da API do integraSUS. 
 
-* [Último resumo dos casos confirmados/óbitos](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/integraSUS_Resumo_CE/DadosCE_2020-04-13_23_44_53.csv)
-* [Última base dos casos confirmados/óbitos por município](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/integraSUS_Municipios_CE/municipios_2020-04-13_23_44_53.csv)
-* [Últimas informações de sexo e faixa etária dos confirmados](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/FaixaEtariaObitos_CE/FaixaEtariaObitos_2020-04-13_23_44_53.csv)
+* [Último resumo dos casos confirmados/óbitos](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/integraSUS_Resumo_CE/DadosCE_2020-04-13_20_26_31.csv)
+* [Última base dos casos confirmados/óbitos por município](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/integraSUS_Municipios_CE/municipios_2020-04-13_20_26_31.csv)
+* [Últimas informações de sexo e faixa etária dos confirmados](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/FaixaEtariaObitos_CE/FaixaEtariaObitos_2020-04-13_21_56_00.csv)
+* [Último resumo dos óbitos no estado](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/ObitosResumo_CE/ObitosResumo_2020-04-13_21_56_00.csv)
+* [Comorbidades confirmadas](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/Comorbidades_CE/Comorbidades_2020-04-13_21_56_00.csv)
+* [Faixa etária dos óbitos](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/FaixaEtariaObitos_CE/FaixaEtariaObitos_2020-04-13_21_56_00.csv)
+* [Situação das internações no hospital Leonardo da Vinci](https://github.com/luiseduardobr1/covid19-Ceara/tree/master/Internacao_Leonardo_da_Vinci)
 
 Demais informações:
-* [Boletins arquivados](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/ObitosResumo_CE/ObitosResumo_2020-04-13_23_44_53.csv)
-* [Notícias relevantes](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/Comorbidades_CE/Comorbidades_2020-04-13_23_44_53.csv)
-* [Perguntas e respostas frequentes](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/FaixaEtariaObitos_CE/FaixaEtariaObitos_2020-04-13_23_44_53.csv)
+* [Boletins arquivados](https://github.com/luiseduardobr1/covid19-Ceara/tree/master/boletins)
+* [Notícias relevantes](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/noticias.md)
+* [Perguntas e respostas frequentes](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/Q%26A.md)
 
 
 ## Informações extraídas dos boletins epidemiológicos (antes do IntegraSUS)
