@@ -5,7 +5,7 @@ Extração automática a cada 4 horas de toda a base de dados do sistema oficial
 * [Última base dos casos confirmados/óbitos por município](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/integraSUS_Municipios_CE/municipios_2020-04-15_02_23_40.csv)
 * [Últimas informações de sexo e faixa etária dos confirmados](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/integraSUS_Faixa_Etaria_CE/Faixa_Etaria_2020-04-15_02_23_40.csv)
 * [Último resumo dos óbitos no estado](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/ObitosResumo_CE/ObitosResumo_2020-04-15_02_23_40.csv)
-* [Comorbidades confirmadas](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/Comorbidades_CE/Comorbidades_2020-04-14_22_10_35.csv)
+* [Comorbidades confirmadas](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/Comorbidades_CE/Comorbidades_2020-04-15_02_23_40.csv)
 * [Faixa etária dos óbitos](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/FaixaEtariaObitos_CE/FaixaEtariaObitos_2020-04-14_22_10_35.csv)
 * [Situação das internações no hospital Leonardo da Vinci](https://github.com/luiseduardobr1/covid19-Ceara/tree/master/Internacao_Leonardo_da_Vinci)
 
