@@ -20,6 +20,7 @@ Demais informações:
 * [Microdados - Suspeitos, faixa etária dos suspeitos, faixa etária dos confirmados, exames realizados, dentre outros](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/microdados.xlsx)
 
 ## Dados Oficiais - Ceará
+* [API - COVID-CE](https://github.com/integrasus/api-covid-ce)
 * [COVID-19 IntegraSUS](https://indicadores.integrasus.saude.ce.gov.br/indicadores/indicadores-coronavirus/coronavirus-ceara)
 * [Mapas do Ceará - COVID19](https://indicadores.integrasus.saude.ce.gov.br/indicadores/indicadores-coronavirus/mapas-covid)
 * [Recursos aplicados pelo governo estadual no combate ao coronavírus](https://cearatransparente.ce.gov.br/portal-da-transparencia/paginas/coronavirus-despesas)
@@ -42,6 +43,12 @@ Demais informações:
 * [Lapisco COVID-19](http://lapisco.fortaleza.ifce.edu.br:3022/api/covid19stats/historyByBrState?State=CE)
 * [Mapa COVID-19](https://api.mapacovid19.com/api/v1/api/casos/totalgeral/ce)
 * [Preparação de cada estado para o COVID-19](https://www1.folha.uol.com.br/cotidiano/2020/03/veja-como-seu-estado-esta-preparado-para-o-coronavirus.shtml?utm_source=whatsapp&utm_medium=social&utm_campaign=compwa)
+
+## Base nos demais países
+* [Our World in Data](https://ourworldindata.org/coronavirus-source-data)
+* [CDS](https://coronadatascraper.com/#timeseries.csv)
+* [CSSEGISandData](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv)
+
 
 ## Estudos
 [COVID-19 VirusScan - CappraLAB (Geral)](https://static1.squarespace.com/static/5c4ca9b7cef372b39c3d9aab/t/5e71665d1491e857a5cfa23a/1584490167127/dossie-covid19-cappralab.pdf)
