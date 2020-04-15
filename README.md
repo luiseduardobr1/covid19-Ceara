@@ -43,6 +43,7 @@ Demais informações:
 * [Lapisco COVID-19](http://lapisco.fortaleza.ifce.edu.br:3022/api/covid19stats/historyByBrState?State=CE)
 * [Mapa COVID-19](https://api.mapacovid19.com/api/v1/api/casos/totalgeral/ce)
 * [Preparação de cada estado para o COVID-19](https://www1.folha.uol.com.br/cotidiano/2020/03/veja-como-seu-estado-esta-preparado-para-o-coronavirus.shtml?utm_source=whatsapp&utm_medium=social&utm_campaign=compwa)
+* [Análise Exploratória do COVID-19 no Estado do Ceará](https://github.com/andreloc/painel-covid-19-ce)
 
 ## Base nos demais países
 * [Our World in Data](https://ourworldindata.org/coronavirus-source-data)
