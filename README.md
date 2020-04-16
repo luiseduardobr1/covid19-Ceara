@@ -38,6 +38,7 @@ Demais informações:
 * [Acompanhamento de óbitos por doenças respiratórias](https://fabdev.shinyapps.io/painel_doencas_respiratorias/)
 * [Leitos - Ceará](http://cnes2.datasus.gov.br/Mod_Ind_Tipo_Leito.asp?VEstado=23&VMun=230440)
 * [Boletins do Ministério da Saúde](https://coronavirus.saude.gov.br/profissional-gestor)
+* [Dados de SRAG no Brasil](https://github.com/belisards/srag_brasil)
 
 ## Base de dados - Estadual/Municipal
 * [Lapisco COVID-19](http://lapisco.fortaleza.ifce.edu.br:3022/api/covid19stats/historyByBrState?State=CE)
