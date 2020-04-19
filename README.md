@@ -39,6 +39,7 @@ Demais informações:
 * [Leitos - Ceará](http://cnes2.datasus.gov.br/Mod_Ind_Tipo_Leito.asp?VEstado=23&VMun=230440)
 * [Boletins do Ministério da Saúde](https://coronavirus.saude.gov.br/profissional-gestor)
 * [Dados de SRAG no Brasil](https://github.com/belisards/srag_brasil)
+* [Monitor Fiocruz](https://bigdata-covid19.icict.fiocruz.br/)
 
 ## Base de dados - Estadual/Municipal
 * [Lapisco COVID-19](http://lapisco.fortaleza.ifce.edu.br:3022/api/covid19stats/historyByBrState?State=CE)
@@ -54,9 +55,7 @@ Demais informações:
 
 ## Estudos
 * [COVID-19 VirusScan - CappraLAB (Geral)](https://static1.squarespace.com/static/5c4ca9b7cef372b39c3d9aab/t/5e71665d1491e857a5cfa23a/1584490167127/dossie-covid19-cappralab.pdf)
-
 * [NOIS - PUC Rio](https://sites.google.com/view/nois-pucrio/publica%C3%A7%C3%B5es?authuser=0)
-
 * [COVID-19 USP](https://ciis.fmrp.usp.br/covid19/)
 
 ## Atraso nas notificações
