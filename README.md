@@ -10,8 +10,8 @@ Extração automática a cada 3 horas de toda a base de dados do sistema oficial
 * [Situação das internações no hospital Leonardo da Vinci](https://github.com/luiseduardobr1/covid19-Ceara/tree/master/Internacao_Leonardo_da_Vinci)
 
 Demais informações:
-* [Boletins arquivados](https://github.com/luiseduardobr1/covid19-Ceara/tree/master/boletins)
 * [Notícias relevantes](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/noticias.md)
+* [Boletins arquivados](https://github.com/luiseduardobr1/covid19-Ceara/tree/master/boletins)
 * [Perguntas e respostas frequentes](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/Q%26A.md)
 
 
@@ -78,5 +78,3 @@ a informação seja validada pelos meios oficiais.*
 
 **Fonte**: [Diário do Nordeste 26/03/2020](https://diariodonordeste.verdesmares.com.br/editorias/metro/ceara-tem-uma-das-curvas-mais-altas-de-contagio-de-coronavirus-no-pais-1.2226868)
 
-## Inconsistências no integraSUS
-Em breve.
