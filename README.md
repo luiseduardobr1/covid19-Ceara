@@ -40,6 +40,7 @@ Demais informações:
 * [Boletins do Ministério da Saúde](https://coronavirus.saude.gov.br/profissional-gestor)
 * [Dados de SRAG no Brasil](https://github.com/belisards/srag_brasil)
 * [Monitor Fiocruz](https://bigdata-covid19.icict.fiocruz.br/)
+* [Observatório COVID-19 BR](https://covid19br.github.io/)
 
 ## Base de dados - Estadual/Municipal
 * [Lapisco COVID-19](http://lapisco.fortaleza.ifce.edu.br:3022/api/covid19stats/historyByBrState?State=CE)
