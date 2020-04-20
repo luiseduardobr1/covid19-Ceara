@@ -1,0 +1,207 @@
+Data,quantidadeObitos,situacaoComorbidade,descComorbidade
+2020-03-24,1,Sim,Diabetes mellitus
+2020-03-24,1,Sim,Doença Cardiovascular Crônica
+2020-03-24,1,Sim,Outra Pneumopatia Crônica
+2020-03-25,3,Sim,Diabetes mellitus
+2020-03-25,3,Sim,Doença Cardiovascular Crônica
+2020-03-25,1,Sim,Outra Pneumopatia Crônica
+2020-03-26,5,Sim,Doença Cardiovascular Crônica
+2020-03-26,4,Sim,Diabetes mellitus
+2020-03-26,1,Sim,Outra Pneumopatia Crônica
+2020-03-27,7,Sim,Doença Cardiovascular Crônica
+2020-03-27,4,Sim,Diabetes mellitus
+2020-03-27,1,Sim,Outra Pneumopatia Crônica
+2020-03-28,9,Sim,Doença Cardiovascular Crônica
+2020-03-28,6,Sim,Diabetes mellitus
+2020-03-28,2,Sim,Outra Pneumopatia Crônica
+2020-03-29,11,Sim,Doença Cardiovascular Crônica
+2020-03-29,6,Sim,Diabetes mellitus
+2020-03-29,2,Sim,Outra Pneumopatia Crônica
+2020-03-29,1,Sim,Doença Neurológica Crônica
+2020-03-30,14,Sim,Doença Cardiovascular Crônica
+2020-03-30,6,Sim,Diabetes mellitus
+2020-03-30,2,Sim,Doença Neurológica Crônica
+2020-03-30,2,Sim,Outra Pneumopatia Crônica
+2020-03-30,1,Sim,Doença Renal Crônica
+2020-03-31,17,Sim,Doença Cardiovascular Crônica
+2020-03-31,9,Sim,Diabetes mellitus
+2020-03-31,2,Sim,Doença Neurológica Crônica
+2020-03-31,2,Sim,Outra Pneumopatia Crônica
+2020-03-31,1,Sim,Doença Renal Crônica
+2020-04-01,19,Sim,Doença Cardiovascular Crônica
+2020-04-01,10,Sim,Diabetes mellitus
+2020-04-01,2,Sim,Doença Neurológica Crônica
+2020-04-01,2,Sim,Outra Pneumopatia Crônica
+2020-04-01,1,Sim,Doença Renal Crônica
+2020-04-02,22,Sim,Doença Cardiovascular Crônica
+2020-04-02,13,Sim,Diabetes mellitus
+2020-04-02,3,Sim,Doença Neurológica Crônica
+2020-04-02,3,Sim,Doença Renal Crônica
+2020-04-02,2,Sim,Outra Pneumopatia Crônica
+2020-04-03,26,Sim,Doença Cardiovascular Crônica
+2020-04-03,15,Sim,Diabetes mellitus
+2020-04-03,3,Sim,Doença Neurológica Crônica
+2020-04-03,3,Sim,Doença Renal Crônica
+2020-04-03,3,Sim,Outra Pneumopatia Crônica
+2020-04-04,29,Sim,Doença Cardiovascular Crônica
+2020-04-04,18,Sim,Diabetes mellitus
+2020-04-04,6,Sim,Outra Pneumopatia Crônica
+2020-04-04,3,Sim,Doença Neurológica Crônica
+2020-04-04,3,Sim,Doença Renal Crônica
+2020-04-04,1,Sim,Asma
+2020-04-04,1,Sim,Doença Hepática Crônica
+2020-04-04,1,Sim,Obesidade
+2020-04-05,37,Sim,Doença Cardiovascular Crônica
+2020-04-05,22,Sim,Diabetes mellitus
+2020-04-05,7,Sim,Outra Pneumopatia Crônica
+2020-04-05,3,Sim,Doença Neurológica Crônica
+2020-04-05,3,Sim,Doença Renal Crônica
+2020-04-05,1,Sim,Asma
+2020-04-05,1,Sim,Doença Hepática Crônica
+2020-04-05,1,Sim,Obesidade
+2020-04-06,44,Sim,Doença Cardiovascular Crônica
+2020-04-06,26,Sim,Diabetes mellitus
+2020-04-06,8,Sim,Outra Pneumopatia Crônica
+2020-04-06,4,Sim,Doença Renal Crônica
+2020-04-06,3,Sim,Doença Neurológica Crônica
+2020-04-06,1,Sim,Asma
+2020-04-06,1,Sim,Doença Hematológica Crônica
+2020-04-06,1,Sim,Doença Hepática Crônica
+2020-04-06,1,Sim,Obesidade
+2020-04-07,49,Sim,Doença Cardiovascular Crônica
+2020-04-07,29,Sim,Diabetes mellitus
+2020-04-07,8,Sim,Outra Pneumopatia Crônica
+2020-04-07,6,Sim,Doença Renal Crônica
+2020-04-07,4,Sim,Doença Neurológica Crônica
+2020-04-07,2,Sim,Doença Hematológica Crônica
+2020-04-07,2,Sim,Doença Hepática Crônica
+2020-04-07,1,Sim,Asma
+2020-04-07,1,Sim,Obesidade
+2020-04-08,53,Sim,Doença Cardiovascular Crônica
+2020-04-08,33,Sim,Diabetes mellitus
+2020-04-08,10,Sim,Outra Pneumopatia Crônica
+2020-04-08,6,Sim,Doença Renal Crônica
+2020-04-08,5,Sim,Doença Neurológica Crônica
+2020-04-08,2,Sim,Doença Hematológica Crônica
+2020-04-08,2,Sim,Doença Hepática Crônica
+2020-04-08,2,Sim,Obesidade
+2020-04-08,1,Sim,Asma
+2020-04-09,56,Sim,Doença Cardiovascular Crônica
+2020-04-09,36,Sim,Diabetes mellitus
+2020-04-09,12,Sim,Outra Pneumopatia Crônica
+2020-04-09,7,Sim,Doença Renal Crônica
+2020-04-09,6,Sim,Doença Neurológica Crônica
+2020-04-09,2,Sim,Doença Hematológica Crônica
+2020-04-09,2,Sim,Doença Hepática Crônica
+2020-04-09,2,Sim,Obesidade
+2020-04-09,1,Sim,Asma
+2020-04-10,60,Sim,Doença Cardiovascular Crônica
+2020-04-10,39,Sim,Diabetes mellitus
+2020-04-10,14,Sim,Outra Pneumopatia Crônica
+2020-04-10,7,Sim,Doença Neurológica Crônica
+2020-04-10,7,Sim,Doença Renal Crônica
+2020-04-10,2,Sim,Asma
+2020-04-10,2,Sim,Doença Hematológica Crônica
+2020-04-10,2,Sim,Doença Hepática Crônica
+2020-04-10,2,Sim,Obesidade
+2020-04-10,1,Sim,Imunodeficiência/Imunodepressão
+2020-04-11,66,Sim,Doença Cardiovascular Crônica
+2020-04-11,43,Sim,Diabetes mellitus
+2020-04-11,14,Sim,Outra Pneumopatia Crônica
+2020-04-11,8,Sim,Doença Neurológica Crônica
+2020-04-11,7,Sim,Doença Renal Crônica
+2020-04-11,2,Sim,Asma
+2020-04-11,2,Sim,Doença Hematológica Crônica
+2020-04-11,2,Sim,Doença Hepática Crônica
+2020-04-11,2,Sim,Obesidade
+2020-04-11,1,Sim,Imunodeficiência/Imunodepressão
+2020-04-12,72,Sim,Doença Cardiovascular Crônica
+2020-04-12,49,Sim,Diabetes mellitus
+2020-04-12,15,Sim,Outra Pneumopatia Crônica
+2020-04-12,11,Sim,Doença Neurológica Crônica
+2020-04-12,7,Sim,Doença Renal Crônica
+2020-04-12,2,Sim,Asma
+2020-04-12,2,Sim,Doença Hematológica Crônica
+2020-04-12,2,Sim,Doença Hepática Crônica
+2020-04-12,2,Sim,Obesidade
+2020-04-12,1,Sim,Imunodeficiência/Imunodepressão
+2020-04-13,74,Sim,Doença Cardiovascular Crônica
+2020-04-13,51,Sim,Diabetes mellitus
+2020-04-13,15,Sim,Outra Pneumopatia Crônica
+2020-04-13,11,Sim,Doença Neurológica Crônica
+2020-04-13,7,Sim,Doença Renal Crônica
+2020-04-13,2,Sim,Asma
+2020-04-13,2,Sim,Doença Hematológica Crônica
+2020-04-13,2,Sim,Doença Hepática Crônica
+2020-04-13,2,Sim,Obesidade
+2020-04-13,1,Sim,Imunodeficiência/Imunodepressão
+2020-04-14,85,Sim,Doença Cardiovascular Crônica
+2020-04-14,58,Sim,Diabetes mellitus
+2020-04-14,15,Sim,Outra Pneumopatia Crônica
+2020-04-14,13,Sim,Doença Neurológica Crônica
+2020-04-14,7,Sim,Doença Renal Crônica
+2020-04-14,3,Sim,Doença Hepática Crônica
+2020-04-14,3,Sim,Imunodeficiência/Imunodepressão
+2020-04-14,2,Sim,Asma
+2020-04-14,2,Sim,Doença Hematológica Crônica
+2020-04-14,2,Sim,Obesidade
+2020-04-15,95,Sim,Doença Cardiovascular Crônica
+2020-04-15,64,Sim,Diabetes mellitus
+2020-04-15,16,Sim,Doença Neurológica Crônica
+2020-04-15,15,Sim,Outra Pneumopatia Crônica
+2020-04-15,9,Sim,Doença Renal Crônica
+2020-04-15,4,Sim,Imunodeficiência/Imunodepressão
+2020-04-15,3,Sim,Doença Hepática Crônica
+2020-04-15,2,Sim,Asma
+2020-04-15,2,Sim,Doença Hematológica Crônica
+2020-04-15,2,Sim,Obesidade
+2020-04-16,99,Sim,Doença Cardiovascular Crônica
+2020-04-16,67,Sim,Diabetes mellitus
+2020-04-16,16,Sim,Doença Neurológica Crônica
+2020-04-16,16,Sim,Outra Pneumopatia Crônica
+2020-04-16,9,Sim,Doença Renal Crônica
+2020-04-16,4,Sim,Imunodeficiência/Imunodepressão
+2020-04-16,3,Sim,Doença Hepática Crônica
+2020-04-16,2,Sim,Asma
+2020-04-16,2,Sim,Doença Hematológica Crônica
+2020-04-16,2,Sim,Obesidade
+2020-04-17,107,Sim,Doença Cardiovascular Crônica
+2020-04-17,72,Sim,Diabetes mellitus
+2020-04-17,18,Sim,Outra Pneumopatia Crônica
+2020-04-17,17,Sim,Doença Neurológica Crônica
+2020-04-17,13,Sim,Doença Renal Crônica
+2020-04-17,4,Sim,Imunodeficiência/Imunodepressão
+2020-04-17,3,Sim,Doença Hepática Crônica
+2020-04-17,2,Sim,Asma
+2020-04-17,2,Sim,Doença Hematológica Crônica
+2020-04-17,2,Sim,Obesidade
+2020-04-18,111,Sim,Doença Cardiovascular Crônica
+2020-04-18,73,Sim,Diabetes mellitus
+2020-04-18,19,Sim,Outra Pneumopatia Crônica
+2020-04-18,18,Sim,Doença Neurológica Crônica
+2020-04-18,13,Sim,Doença Renal Crônica
+2020-04-18,4,Sim,Imunodeficiência/Imunodepressão
+2020-04-18,3,Sim,Doença Hepática Crônica
+2020-04-18,2,Sim,Asma
+2020-04-18,2,Sim,Doença Hematológica Crônica
+2020-04-18,2,Sim,Obesidade
+2020-04-19,112,Sim,Doença Cardiovascular Crônica
+2020-04-19,73,Sim,Diabetes mellitus
+2020-04-19,19,Sim,Outra Pneumopatia Crônica
+2020-04-19,18,Sim,Doença Neurológica Crônica
+2020-04-19,13,Sim,Doença Renal Crônica
+2020-04-19,4,Sim,Imunodeficiência/Imunodepressão
+2020-04-19,3,Sim,Doença Hepática Crônica
+2020-04-19,2,Sim,Asma
+2020-04-19,2,Sim,Doença Hematológica Crônica
+2020-04-19,2,Sim,Obesidade
+2020-04-20,112,Sim,Doença Cardiovascular Crônica
+2020-04-20,73,Sim,Diabetes mellitus
+2020-04-20,19,Sim,Outra Pneumopatia Crônica
+2020-04-20,18,Sim,Doença Neurológica Crônica
+2020-04-20,13,Sim,Doença Renal Crônica
+2020-04-20,4,Sim,Imunodeficiência/Imunodepressão
+2020-04-20,3,Sim,Doença Hepática Crônica
+2020-04-20,2,Sim,Asma
+2020-04-20,2,Sim,Doença Hematológica Crônica
+2020-04-20,2,Sim,Obesidade
