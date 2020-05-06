@@ -1,7 +1,7 @@
 # COVID-19 - Ceará
 Extração automática a cada 3 horas de toda a base de dados do sistema oficial de comunicação dos casos de COVID-19 no estado do Ceará a partir da API do integraSUS. 
 
-* [Último resumo dos casos confirmados/óbitos](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/integraSUS_Resumo_CE/DadosCE_2020-05-05_19_58_24.csv)
+* [Último resumo dos casos confirmados/óbitos](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/integraSUS_Resumo_CE/DadosCE_2020-05-05_23_16_22.csv)
 * [Última base dos casos confirmados/óbitos por município](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/integraSUS_Municipios_CE/municipios_2020-05-05_23_16_22.csv)
 * [Últimas informações de sexo e faixa etária dos confirmados](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/integraSUS_Faixa_Etaria_CE/Faixa_Etaria_2020-05-05_19_58_24.csv)
 * [Último resumo dos óbitos no estado](https://github.com/luiseduardobr1/covid19-Ceara/blob/master/ObitosResumo_CE/ObitosResumo_2020-05-05_19_58_24.csv)
