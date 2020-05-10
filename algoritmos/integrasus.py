@@ -24,7 +24,7 @@ def job():
 
     def enviar_github(repository, name_from, name_dest, commit_msg):
         # TOKEN da minha conta
-        token = '1bee05dc0c01ca5476f9b0a29e9501124e539ca0'
+        token = 'YOUR TOKEN'
         g = Github(token)
 
         repo = g.get_user().get_repo(repository)
