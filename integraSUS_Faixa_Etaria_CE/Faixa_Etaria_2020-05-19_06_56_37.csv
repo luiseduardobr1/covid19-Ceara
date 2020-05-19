@@ -1,0 +1,4759 @@
+Data,quantidade,faixaEtaria,sexo
+2020-01-01,1,10 a 14 anos,Masculino
+2020-01-01,1,15 a 19 anos,Masculino
+2020-01-01,1,20 a 24 anos,Masculino
+2020-01-01,2,20 a 24 anos,Feminino
+2020-01-01,4,25 a 29 anos,Feminino
+2020-01-01,1,25 a 29 anos,Masculino
+2020-01-01,9,30 a 34 anos,Masculino
+2020-01-01,8,30 a 34 anos,Feminino
+2020-01-01,4,35 a 39 anos,Masculino
+2020-01-01,8,35 a 39 anos,Feminino
+2020-01-01,2,40 a 44 anos,Feminino
+2020-01-01,4,40 a 44 anos,Masculino
+2020-01-01,12,45 a 49 anos,Feminino
+2020-01-01,7,45 a 49 anos,Masculino
+2020-01-01,4,50 a 54 anos,Masculino
+2020-01-01,7,50 a 54 anos,Feminino
+2020-01-01,4,55 a 59 anos,Masculino
+2020-01-01,4,55 a 59 anos,Feminino
+2020-01-01,7,60 a 64 anos,Feminino
+2020-01-01,2,65 a 69 anos,Feminino
+2020-01-01,3,65 a 69 anos,Masculino
+2020-01-01,1,70 a 74 anos,Feminino
+2020-01-01,3,70 a 74 anos,Masculino
+2020-01-01,1,75 a 79 anos,Masculino
+2020-01-01,10,Indefinido,Masculino
+2020-01-01,3,80 ou mais,Feminino
+2020-01-01,11,Indefinido,Feminino
+2020-01-01,2,80 ou mais,Masculino
+2020-01-01,1,05 a 09 anos,Feminino
+2020-01-02,1,10 a 14 anos,Masculino
+2020-01-02,1,15 a 19 anos,Masculino
+2020-01-02,1,20 a 24 anos,Masculino
+2020-01-02,2,20 a 24 anos,Feminino
+2020-01-02,4,25 a 29 anos,Feminino
+2020-01-02,1,25 a 29 anos,Masculino
+2020-01-02,9,30 a 34 anos,Masculino
+2020-01-02,8,30 a 34 anos,Feminino
+2020-01-02,4,35 a 39 anos,Masculino
+2020-01-02,8,35 a 39 anos,Feminino
+2020-01-02,2,40 a 44 anos,Feminino
+2020-01-02,4,40 a 44 anos,Masculino
+2020-01-02,12,45 a 49 anos,Feminino
+2020-01-02,7,45 a 49 anos,Masculino
+2020-01-02,4,50 a 54 anos,Masculino
+2020-01-02,7,50 a 54 anos,Feminino
+2020-01-02,4,55 a 59 anos,Masculino
+2020-01-02,4,55 a 59 anos,Feminino
+2020-01-02,7,60 a 64 anos,Feminino
+2020-01-02,2,65 a 69 anos,Feminino
+2020-01-02,3,65 a 69 anos,Masculino
+2020-01-02,1,70 a 74 anos,Feminino
+2020-01-02,3,70 a 74 anos,Masculino
+2020-01-02,1,75 a 79 anos,Masculino
+2020-01-02,10,Indefinido,Masculino
+2020-01-02,3,80 ou mais,Feminino
+2020-01-02,11,Indefinido,Feminino
+2020-01-02,2,80 ou mais,Masculino
+2020-01-02,1,05 a 09 anos,Feminino
+2020-01-03,1,10 a 14 anos,Masculino
+2020-01-03,1,15 a 19 anos,Masculino
+2020-01-03,1,20 a 24 anos,Masculino
+2020-01-03,2,20 a 24 anos,Feminino
+2020-01-03,4,25 a 29 anos,Feminino
+2020-01-03,1,25 a 29 anos,Masculino
+2020-01-03,9,30 a 34 anos,Masculino
+2020-01-03,8,30 a 34 anos,Feminino
+2020-01-03,4,35 a 39 anos,Masculino
+2020-01-03,8,35 a 39 anos,Feminino
+2020-01-03,2,40 a 44 anos,Feminino
+2020-01-03,4,40 a 44 anos,Masculino
+2020-01-03,12,45 a 49 anos,Feminino
+2020-01-03,7,45 a 49 anos,Masculino
+2020-01-03,4,50 a 54 anos,Masculino
+2020-01-03,7,50 a 54 anos,Feminino
+2020-01-03,4,55 a 59 anos,Masculino
+2020-01-03,4,55 a 59 anos,Feminino
+2020-01-03,7,60 a 64 anos,Feminino
+2020-01-03,2,65 a 69 anos,Feminino
+2020-01-03,3,65 a 69 anos,Masculino
+2020-01-03,1,70 a 74 anos,Feminino
+2020-01-03,3,70 a 74 anos,Masculino
+2020-01-03,1,75 a 79 anos,Masculino
+2020-01-03,10,Indefinido,Masculino
+2020-01-03,3,80 ou mais,Feminino
+2020-01-03,11,Indefinido,Feminino
+2020-01-03,2,80 ou mais,Masculino
+2020-01-03,1,05 a 09 anos,Feminino
+2020-01-04,1,10 a 14 anos,Masculino
+2020-01-04,1,15 a 19 anos,Masculino
+2020-01-04,1,20 a 24 anos,Masculino
+2020-01-04,2,20 a 24 anos,Feminino
+2020-01-04,4,25 a 29 anos,Feminino
+2020-01-04,1,25 a 29 anos,Masculino
+2020-01-04,9,30 a 34 anos,Masculino
+2020-01-04,8,30 a 34 anos,Feminino
+2020-01-04,4,35 a 39 anos,Masculino
+2020-01-04,8,35 a 39 anos,Feminino
+2020-01-04,2,40 a 44 anos,Feminino
+2020-01-04,4,40 a 44 anos,Masculino
+2020-01-04,12,45 a 49 anos,Feminino
+2020-01-04,7,45 a 49 anos,Masculino
+2020-01-04,4,50 a 54 anos,Masculino
+2020-01-04,7,50 a 54 anos,Feminino
+2020-01-04,4,55 a 59 anos,Masculino
+2020-01-04,4,55 a 59 anos,Feminino
+2020-01-04,7,60 a 64 anos,Feminino
+2020-01-04,2,65 a 69 anos,Feminino
+2020-01-04,3,65 a 69 anos,Masculino
+2020-01-04,1,70 a 74 anos,Feminino
+2020-01-04,3,70 a 74 anos,Masculino
+2020-01-04,1,75 a 79 anos,Masculino
+2020-01-04,10,Indefinido,Masculino
+2020-01-04,3,80 ou mais,Feminino
+2020-01-04,11,Indefinido,Feminino
+2020-01-04,2,80 ou mais,Masculino
+2020-01-04,1,05 a 09 anos,Feminino
+2020-01-05,1,10 a 14 anos,Masculino
+2020-01-05,1,15 a 19 anos,Masculino
+2020-01-05,1,20 a 24 anos,Masculino
+2020-01-05,2,20 a 24 anos,Feminino
+2020-01-05,4,25 a 29 anos,Feminino
+2020-01-05,1,25 a 29 anos,Masculino
+2020-01-05,9,30 a 34 anos,Masculino
+2020-01-05,8,30 a 34 anos,Feminino
+2020-01-05,4,35 a 39 anos,Masculino
+2020-01-05,8,35 a 39 anos,Feminino
+2020-01-05,2,40 a 44 anos,Feminino
+2020-01-05,4,40 a 44 anos,Masculino
+2020-01-05,12,45 a 49 anos,Feminino
+2020-01-05,7,45 a 49 anos,Masculino
+2020-01-05,5,50 a 54 anos,Masculino
+2020-01-05,7,50 a 54 anos,Feminino
+2020-01-05,4,55 a 59 anos,Masculino
+2020-01-05,4,55 a 59 anos,Feminino
+2020-01-05,7,60 a 64 anos,Feminino
+2020-01-05,2,65 a 69 anos,Feminino
+2020-01-05,3,65 a 69 anos,Masculino
+2020-01-05,1,70 a 74 anos,Feminino
+2020-01-05,3,70 a 74 anos,Masculino
+2020-01-05,1,75 a 79 anos,Masculino
+2020-01-05,10,Indefinido,Masculino
+2020-01-05,3,80 ou mais,Feminino
+2020-01-05,11,Indefinido,Feminino
+2020-01-05,2,80 ou mais,Masculino
+2020-01-05,1,05 a 09 anos,Feminino
+2020-01-06,1,10 a 14 anos,Masculino
+2020-01-06,1,15 a 19 anos,Masculino
+2020-01-06,1,20 a 24 anos,Masculino
+2020-01-06,2,20 a 24 anos,Feminino
+2020-01-06,4,25 a 29 anos,Feminino
+2020-01-06,1,25 a 29 anos,Masculino
+2020-01-06,9,30 a 34 anos,Masculino
+2020-01-06,8,30 a 34 anos,Feminino
+2020-01-06,4,35 a 39 anos,Masculino
+2020-01-06,8,35 a 39 anos,Feminino
+2020-01-06,2,40 a 44 anos,Feminino
+2020-01-06,4,40 a 44 anos,Masculino
+2020-01-06,12,45 a 49 anos,Feminino
+2020-01-06,7,45 a 49 anos,Masculino
+2020-01-06,5,50 a 54 anos,Masculino
+2020-01-06,7,50 a 54 anos,Feminino
+2020-01-06,4,55 a 59 anos,Masculino
+2020-01-06,4,55 a 59 anos,Feminino
+2020-01-06,7,60 a 64 anos,Feminino
+2020-01-06,2,65 a 69 anos,Feminino
+2020-01-06,3,65 a 69 anos,Masculino
+2020-01-06,1,70 a 74 anos,Feminino
+2020-01-06,3,70 a 74 anos,Masculino
+2020-01-06,1,75 a 79 anos,Masculino
+2020-01-06,10,Indefinido,Masculino
+2020-01-06,3,80 ou mais,Feminino
+2020-01-06,11,Indefinido,Feminino
+2020-01-06,2,80 ou mais,Masculino
+2020-01-06,1,05 a 09 anos,Feminino
+2020-01-07,1,10 a 14 anos,Masculino
+2020-01-07,1,15 a 19 anos,Masculino
+2020-01-07,1,20 a 24 anos,Masculino
+2020-01-07,2,20 a 24 anos,Feminino
+2020-01-07,4,25 a 29 anos,Feminino
+2020-01-07,1,25 a 29 anos,Masculino
+2020-01-07,9,30 a 34 anos,Masculino
+2020-01-07,8,30 a 34 anos,Feminino
+2020-01-07,4,35 a 39 anos,Masculino
+2020-01-07,8,35 a 39 anos,Feminino
+2020-01-07,2,40 a 44 anos,Feminino
+2020-01-07,4,40 a 44 anos,Masculino
+2020-01-07,12,45 a 49 anos,Feminino
+2020-01-07,7,45 a 49 anos,Masculino
+2020-01-07,5,50 a 54 anos,Masculino
+2020-01-07,7,50 a 54 anos,Feminino
+2020-01-07,4,55 a 59 anos,Masculino
+2020-01-07,4,55 a 59 anos,Feminino
+2020-01-07,7,60 a 64 anos,Feminino
+2020-01-07,2,65 a 69 anos,Feminino
+2020-01-07,3,65 a 69 anos,Masculino
+2020-01-07,1,70 a 74 anos,Feminino
+2020-01-07,3,70 a 74 anos,Masculino
+2020-01-07,1,75 a 79 anos,Masculino
+2020-01-07,10,Indefinido,Masculino
+2020-01-07,3,80 ou mais,Feminino
+2020-01-07,11,Indefinido,Feminino
+2020-01-07,2,80 ou mais,Masculino
+2020-01-07,1,05 a 09 anos,Feminino
+2020-01-08,1,10 a 14 anos,Masculino
+2020-01-08,1,15 a 19 anos,Masculino
+2020-01-08,1,20 a 24 anos,Masculino
+2020-01-08,2,20 a 24 anos,Feminino
+2020-01-08,4,25 a 29 anos,Feminino
+2020-01-08,1,25 a 29 anos,Masculino
+2020-01-08,9,30 a 34 anos,Masculino
+2020-01-08,8,30 a 34 anos,Feminino
+2020-01-08,4,35 a 39 anos,Masculino
+2020-01-08,8,35 a 39 anos,Feminino
+2020-01-08,2,40 a 44 anos,Feminino
+2020-01-08,4,40 a 44 anos,Masculino
+2020-01-08,12,45 a 49 anos,Feminino
+2020-01-08,7,45 a 49 anos,Masculino
+2020-01-08,5,50 a 54 anos,Masculino
+2020-01-08,7,50 a 54 anos,Feminino
+2020-01-08,4,55 a 59 anos,Masculino
+2020-01-08,4,55 a 59 anos,Feminino
+2020-01-08,7,60 a 64 anos,Feminino
+2020-01-08,2,65 a 69 anos,Feminino
+2020-01-08,3,65 a 69 anos,Masculino
+2020-01-08,1,70 a 74 anos,Feminino
+2020-01-08,3,70 a 74 anos,Masculino
+2020-01-08,1,75 a 79 anos,Masculino
+2020-01-08,10,Indefinido,Masculino
+2020-01-08,3,80 ou mais,Feminino
+2020-01-08,11,Indefinido,Feminino
+2020-01-08,2,80 ou mais,Masculino
+2020-01-08,1,05 a 09 anos,Feminino
+2020-01-09,1,10 a 14 anos,Masculino
+2020-01-09,1,15 a 19 anos,Masculino
+2020-01-09,1,20 a 24 anos,Masculino
+2020-01-09,2,20 a 24 anos,Feminino
+2020-01-09,4,25 a 29 anos,Feminino
+2020-01-09,1,25 a 29 anos,Masculino
+2020-01-09,10,30 a 34 anos,Masculino
+2020-01-09,8,30 a 34 anos,Feminino
+2020-01-09,4,35 a 39 anos,Masculino
+2020-01-09,8,35 a 39 anos,Feminino
+2020-01-09,2,40 a 44 anos,Feminino
+2020-01-09,4,40 a 44 anos,Masculino
+2020-01-09,12,45 a 49 anos,Feminino
+2020-01-09,7,45 a 49 anos,Masculino
+2020-01-09,5,50 a 54 anos,Masculino
+2020-01-09,7,50 a 54 anos,Feminino
+2020-01-09,4,55 a 59 anos,Masculino
+2020-01-09,4,55 a 59 anos,Feminino
+2020-01-09,7,60 a 64 anos,Feminino
+2020-01-09,2,65 a 69 anos,Feminino
+2020-01-09,3,65 a 69 anos,Masculino
+2020-01-09,1,70 a 74 anos,Feminino
+2020-01-09,3,70 a 74 anos,Masculino
+2020-01-09,1,75 a 79 anos,Masculino
+2020-01-09,10,Indefinido,Masculino
+2020-01-09,3,80 ou mais,Feminino
+2020-01-09,11,Indefinido,Feminino
+2020-01-09,2,80 ou mais,Masculino
+2020-01-09,1,05 a 09 anos,Feminino
+2020-01-10,1,10 a 14 anos,Masculino
+2020-01-10,1,15 a 19 anos,Masculino
+2020-01-10,1,20 a 24 anos,Masculino
+2020-01-10,2,20 a 24 anos,Feminino
+2020-01-10,4,25 a 29 anos,Feminino
+2020-01-10,1,25 a 29 anos,Masculino
+2020-01-10,10,30 a 34 anos,Masculino
+2020-01-10,8,30 a 34 anos,Feminino
+2020-01-10,4,35 a 39 anos,Masculino
+2020-01-10,8,35 a 39 anos,Feminino
+2020-01-10,2,40 a 44 anos,Feminino
+2020-01-10,4,40 a 44 anos,Masculino
+2020-01-10,12,45 a 49 anos,Feminino
+2020-01-10,7,45 a 49 anos,Masculino
+2020-01-10,5,50 a 54 anos,Masculino
+2020-01-10,7,50 a 54 anos,Feminino
+2020-01-10,4,55 a 59 anos,Masculino
+2020-01-10,4,55 a 59 anos,Feminino
+2020-01-10,7,60 a 64 anos,Feminino
+2020-01-10,2,65 a 69 anos,Feminino
+2020-01-10,3,65 a 69 anos,Masculino
+2020-01-10,1,70 a 74 anos,Feminino
+2020-01-10,3,70 a 74 anos,Masculino
+2020-01-10,1,75 a 79 anos,Masculino
+2020-01-10,10,Indefinido,Masculino
+2020-01-10,3,80 ou mais,Feminino
+2020-01-10,11,Indefinido,Feminino
+2020-01-10,2,80 ou mais,Masculino
+2020-01-10,1,05 a 09 anos,Feminino
+2020-01-11,1,10 a 14 anos,Masculino
+2020-01-11,1,15 a 19 anos,Masculino
+2020-01-11,1,20 a 24 anos,Masculino
+2020-01-11,2,20 a 24 anos,Feminino
+2020-01-11,4,25 a 29 anos,Feminino
+2020-01-11,1,25 a 29 anos,Masculino
+2020-01-11,10,30 a 34 anos,Masculino
+2020-01-11,8,30 a 34 anos,Feminino
+2020-01-11,4,35 a 39 anos,Masculino
+2020-01-11,8,35 a 39 anos,Feminino
+2020-01-11,2,40 a 44 anos,Feminino
+2020-01-11,4,40 a 44 anos,Masculino
+2020-01-11,12,45 a 49 anos,Feminino
+2020-01-11,7,45 a 49 anos,Masculino
+2020-01-11,5,50 a 54 anos,Masculino
+2020-01-11,7,50 a 54 anos,Feminino
+2020-01-11,4,55 a 59 anos,Masculino
+2020-01-11,4,55 a 59 anos,Feminino
+2020-01-11,7,60 a 64 anos,Feminino
+2020-01-11,2,65 a 69 anos,Feminino
+2020-01-11,3,65 a 69 anos,Masculino
+2020-01-11,1,70 a 74 anos,Feminino
+2020-01-11,3,70 a 74 anos,Masculino
+2020-01-11,1,75 a 79 anos,Masculino
+2020-01-11,10,Indefinido,Masculino
+2020-01-11,3,80 ou mais,Feminino
+2020-01-11,11,Indefinido,Feminino
+2020-01-11,2,80 ou mais,Masculino
+2020-01-11,1,05 a 09 anos,Feminino
+2020-01-12,1,10 a 14 anos,Masculino
+2020-01-12,1,15 a 19 anos,Masculino
+2020-01-12,1,20 a 24 anos,Masculino
+2020-01-12,2,20 a 24 anos,Feminino
+2020-01-12,4,25 a 29 anos,Feminino
+2020-01-12,1,25 a 29 anos,Masculino
+2020-01-12,10,30 a 34 anos,Masculino
+2020-01-12,8,30 a 34 anos,Feminino
+2020-01-12,4,35 a 39 anos,Masculino
+2020-01-12,8,35 a 39 anos,Feminino
+2020-01-12,2,40 a 44 anos,Feminino
+2020-01-12,4,40 a 44 anos,Masculino
+2020-01-12,12,45 a 49 anos,Feminino
+2020-01-12,7,45 a 49 anos,Masculino
+2020-01-12,5,50 a 54 anos,Masculino
+2020-01-12,7,50 a 54 anos,Feminino
+2020-01-12,4,55 a 59 anos,Masculino
+2020-01-12,4,55 a 59 anos,Feminino
+2020-01-12,7,60 a 64 anos,Feminino
+2020-01-12,2,65 a 69 anos,Feminino
+2020-01-12,3,65 a 69 anos,Masculino
+2020-01-12,1,70 a 74 anos,Feminino
+2020-01-12,3,70 a 74 anos,Masculino
+2020-01-12,1,75 a 79 anos,Masculino
+2020-01-12,10,Indefinido,Masculino
+2020-01-12,3,80 ou mais,Feminino
+2020-01-12,11,Indefinido,Feminino
+2020-01-12,2,80 ou mais,Masculino
+2020-01-12,1,05 a 09 anos,Feminino
+2020-01-13,1,10 a 14 anos,Masculino
+2020-01-13,1,15 a 19 anos,Masculino
+2020-01-13,1,20 a 24 anos,Masculino
+2020-01-13,2,20 a 24 anos,Feminino
+2020-01-13,4,25 a 29 anos,Feminino
+2020-01-13,1,25 a 29 anos,Masculino
+2020-01-13,10,30 a 34 anos,Masculino
+2020-01-13,8,30 a 34 anos,Feminino
+2020-01-13,4,35 a 39 anos,Masculino
+2020-01-13,8,35 a 39 anos,Feminino
+2020-01-13,2,40 a 44 anos,Feminino
+2020-01-13,4,40 a 44 anos,Masculino
+2020-01-13,12,45 a 49 anos,Feminino
+2020-01-13,7,45 a 49 anos,Masculino
+2020-01-13,5,50 a 54 anos,Masculino
+2020-01-13,7,50 a 54 anos,Feminino
+2020-01-13,4,55 a 59 anos,Masculino
+2020-01-13,4,55 a 59 anos,Feminino
+2020-01-13,7,60 a 64 anos,Feminino
+2020-01-13,2,65 a 69 anos,Feminino
+2020-01-13,3,65 a 69 anos,Masculino
+2020-01-13,1,70 a 74 anos,Feminino
+2020-01-13,3,70 a 74 anos,Masculino
+2020-01-13,1,75 a 79 anos,Masculino
+2020-01-13,10,Indefinido,Masculino
+2020-01-13,3,80 ou mais,Feminino
+2020-01-13,11,Indefinido,Feminino
+2020-01-13,2,80 ou mais,Masculino
+2020-01-13,1,05 a 09 anos,Feminino
+2020-01-14,1,10 a 14 anos,Masculino
+2020-01-14,1,15 a 19 anos,Masculino
+2020-01-14,1,20 a 24 anos,Masculino
+2020-01-14,2,20 a 24 anos,Feminino
+2020-01-14,4,25 a 29 anos,Feminino
+2020-01-14,1,25 a 29 anos,Masculino
+2020-01-14,10,30 a 34 anos,Masculino
+2020-01-14,8,30 a 34 anos,Feminino
+2020-01-14,4,35 a 39 anos,Masculino
+2020-01-14,8,35 a 39 anos,Feminino
+2020-01-14,2,40 a 44 anos,Feminino
+2020-01-14,4,40 a 44 anos,Masculino
+2020-01-14,12,45 a 49 anos,Feminino
+2020-01-14,7,45 a 49 anos,Masculino
+2020-01-14,5,50 a 54 anos,Masculino
+2020-01-14,7,50 a 54 anos,Feminino
+2020-01-14,4,55 a 59 anos,Masculino
+2020-01-14,4,55 a 59 anos,Feminino
+2020-01-14,7,60 a 64 anos,Feminino
+2020-01-14,2,65 a 69 anos,Feminino
+2020-01-14,3,65 a 69 anos,Masculino
+2020-01-14,1,70 a 74 anos,Feminino
+2020-01-14,3,70 a 74 anos,Masculino
+2020-01-14,1,75 a 79 anos,Masculino
+2020-01-14,10,Indefinido,Masculino
+2020-01-14,3,80 ou mais,Feminino
+2020-01-14,11,Indefinido,Feminino
+2020-01-14,2,80 ou mais,Masculino
+2020-01-14,1,05 a 09 anos,Feminino
+2020-01-15,1,10 a 14 anos,Masculino
+2020-01-15,1,15 a 19 anos,Masculino
+2020-01-15,1,20 a 24 anos,Masculino
+2020-01-15,2,20 a 24 anos,Feminino
+2020-01-15,4,25 a 29 anos,Feminino
+2020-01-15,1,25 a 29 anos,Masculino
+2020-01-15,10,30 a 34 anos,Masculino
+2020-01-15,8,30 a 34 anos,Feminino
+2020-01-15,4,35 a 39 anos,Masculino
+2020-01-15,8,35 a 39 anos,Feminino
+2020-01-15,2,40 a 44 anos,Feminino
+2020-01-15,4,40 a 44 anos,Masculino
+2020-01-15,12,45 a 49 anos,Feminino
+2020-01-15,7,45 a 49 anos,Masculino
+2020-01-15,5,50 a 54 anos,Masculino
+2020-01-15,7,50 a 54 anos,Feminino
+2020-01-15,4,55 a 59 anos,Masculino
+2020-01-15,4,55 a 59 anos,Feminino
+2020-01-15,7,60 a 64 anos,Feminino
+2020-01-15,2,65 a 69 anos,Feminino
+2020-01-15,3,65 a 69 anos,Masculino
+2020-01-15,1,70 a 74 anos,Feminino
+2020-01-15,3,70 a 74 anos,Masculino
+2020-01-15,1,75 a 79 anos,Masculino
+2020-01-15,10,Indefinido,Masculino
+2020-01-15,3,80 ou mais,Feminino
+2020-01-15,11,Indefinido,Feminino
+2020-01-15,2,80 ou mais,Masculino
+2020-01-15,1,05 a 09 anos,Feminino
+2020-01-16,1,10 a 14 anos,Masculino
+2020-01-16,1,15 a 19 anos,Masculino
+2020-01-16,1,20 a 24 anos,Masculino
+2020-01-16,2,20 a 24 anos,Feminino
+2020-01-16,4,25 a 29 anos,Feminino
+2020-01-16,1,25 a 29 anos,Masculino
+2020-01-16,10,30 a 34 anos,Masculino
+2020-01-16,8,30 a 34 anos,Feminino
+2020-01-16,4,35 a 39 anos,Masculino
+2020-01-16,8,35 a 39 anos,Feminino
+2020-01-16,2,40 a 44 anos,Feminino
+2020-01-16,4,40 a 44 anos,Masculino
+2020-01-16,12,45 a 49 anos,Feminino
+2020-01-16,7,45 a 49 anos,Masculino
+2020-01-16,5,50 a 54 anos,Masculino
+2020-01-16,7,50 a 54 anos,Feminino
+2020-01-16,4,55 a 59 anos,Masculino
+2020-01-16,4,55 a 59 anos,Feminino
+2020-01-16,7,60 a 64 anos,Feminino
+2020-01-16,2,65 a 69 anos,Feminino
+2020-01-16,3,65 a 69 anos,Masculino
+2020-01-16,1,70 a 74 anos,Feminino
+2020-01-16,3,70 a 74 anos,Masculino
+2020-01-16,1,75 a 79 anos,Masculino
+2020-01-16,10,Indefinido,Masculino
+2020-01-16,3,80 ou mais,Feminino
+2020-01-16,11,Indefinido,Feminino
+2020-01-16,2,80 ou mais,Masculino
+2020-01-16,1,05 a 09 anos,Feminino
+2020-01-17,1,10 a 14 anos,Masculino
+2020-01-17,1,15 a 19 anos,Masculino
+2020-01-17,1,20 a 24 anos,Masculino
+2020-01-17,2,20 a 24 anos,Feminino
+2020-01-17,4,25 a 29 anos,Feminino
+2020-01-17,1,25 a 29 anos,Masculino
+2020-01-17,10,30 a 34 anos,Masculino
+2020-01-17,8,30 a 34 anos,Feminino
+2020-01-17,4,35 a 39 anos,Masculino
+2020-01-17,8,35 a 39 anos,Feminino
+2020-01-17,2,40 a 44 anos,Feminino
+2020-01-17,4,40 a 44 anos,Masculino
+2020-01-17,12,45 a 49 anos,Feminino
+2020-01-17,7,45 a 49 anos,Masculino
+2020-01-17,5,50 a 54 anos,Masculino
+2020-01-17,7,50 a 54 anos,Feminino
+2020-01-17,4,55 a 59 anos,Masculino
+2020-01-17,4,55 a 59 anos,Feminino
+2020-01-17,7,60 a 64 anos,Feminino
+2020-01-17,2,65 a 69 anos,Feminino
+2020-01-17,3,65 a 69 anos,Masculino
+2020-01-17,1,70 a 74 anos,Feminino
+2020-01-17,3,70 a 74 anos,Masculino
+2020-01-17,1,75 a 79 anos,Masculino
+2020-01-17,10,Indefinido,Masculino
+2020-01-17,3,80 ou mais,Feminino
+2020-01-17,11,Indefinido,Feminino
+2020-01-17,2,80 ou mais,Masculino
+2020-01-17,1,05 a 09 anos,Feminino
+2020-01-18,1,10 a 14 anos,Masculino
+2020-01-18,1,15 a 19 anos,Masculino
+2020-01-18,1,20 a 24 anos,Masculino
+2020-01-18,2,20 a 24 anos,Feminino
+2020-01-18,4,25 a 29 anos,Feminino
+2020-01-18,1,25 a 29 anos,Masculino
+2020-01-18,10,30 a 34 anos,Masculino
+2020-01-18,8,30 a 34 anos,Feminino
+2020-01-18,4,35 a 39 anos,Masculino
+2020-01-18,8,35 a 39 anos,Feminino
+2020-01-18,2,40 a 44 anos,Feminino
+2020-01-18,4,40 a 44 anos,Masculino
+2020-01-18,12,45 a 49 anos,Feminino
+2020-01-18,7,45 a 49 anos,Masculino
+2020-01-18,5,50 a 54 anos,Masculino
+2020-01-18,7,50 a 54 anos,Feminino
+2020-01-18,4,55 a 59 anos,Masculino
+2020-01-18,4,55 a 59 anos,Feminino
+2020-01-18,7,60 a 64 anos,Feminino
+2020-01-18,2,65 a 69 anos,Feminino
+2020-01-18,3,65 a 69 anos,Masculino
+2020-01-18,1,70 a 74 anos,Feminino
+2020-01-18,3,70 a 74 anos,Masculino
+2020-01-18,1,75 a 79 anos,Masculino
+2020-01-18,10,Indefinido,Masculino
+2020-01-18,3,80 ou mais,Feminino
+2020-01-18,11,Indefinido,Feminino
+2020-01-18,2,80 ou mais,Masculino
+2020-01-18,1,05 a 09 anos,Feminino
+2020-01-19,1,10 a 14 anos,Masculino
+2020-01-19,1,15 a 19 anos,Masculino
+2020-01-19,1,20 a 24 anos,Masculino
+2020-01-19,2,20 a 24 anos,Feminino
+2020-01-19,4,25 a 29 anos,Feminino
+2020-01-19,1,25 a 29 anos,Masculino
+2020-01-19,10,30 a 34 anos,Masculino
+2020-01-19,8,30 a 34 anos,Feminino
+2020-01-19,4,35 a 39 anos,Masculino
+2020-01-19,8,35 a 39 anos,Feminino
+2020-01-19,2,40 a 44 anos,Feminino
+2020-01-19,4,40 a 44 anos,Masculino
+2020-01-19,12,45 a 49 anos,Feminino
+2020-01-19,7,45 a 49 anos,Masculino
+2020-01-19,5,50 a 54 anos,Masculino
+2020-01-19,7,50 a 54 anos,Feminino
+2020-01-19,4,55 a 59 anos,Masculino
+2020-01-19,4,55 a 59 anos,Feminino
+2020-01-19,7,60 a 64 anos,Feminino
+2020-01-19,2,65 a 69 anos,Feminino
+2020-01-19,3,65 a 69 anos,Masculino
+2020-01-19,1,70 a 74 anos,Feminino
+2020-01-19,3,70 a 74 anos,Masculino
+2020-01-19,1,75 a 79 anos,Masculino
+2020-01-19,10,Indefinido,Masculino
+2020-01-19,3,80 ou mais,Feminino
+2020-01-19,11,Indefinido,Feminino
+2020-01-19,2,80 ou mais,Masculino
+2020-01-19,1,05 a 09 anos,Feminino
+2020-01-20,1,10 a 14 anos,Masculino
+2020-01-20,1,15 a 19 anos,Masculino
+2020-01-20,2,20 a 24 anos,Masculino
+2020-01-20,2,20 a 24 anos,Feminino
+2020-01-20,4,25 a 29 anos,Feminino
+2020-01-20,1,25 a 29 anos,Masculino
+2020-01-20,10,30 a 34 anos,Masculino
+2020-01-20,8,30 a 34 anos,Feminino
+2020-01-20,4,35 a 39 anos,Masculino
+2020-01-20,8,35 a 39 anos,Feminino
+2020-01-20,2,40 a 44 anos,Feminino
+2020-01-20,4,40 a 44 anos,Masculino
+2020-01-20,12,45 a 49 anos,Feminino
+2020-01-20,7,45 a 49 anos,Masculino
+2020-01-20,5,50 a 54 anos,Masculino
+2020-01-20,7,50 a 54 anos,Feminino
+2020-01-20,4,55 a 59 anos,Masculino
+2020-01-20,4,55 a 59 anos,Feminino
+2020-01-20,7,60 a 64 anos,Feminino
+2020-01-20,2,65 a 69 anos,Feminino
+2020-01-20,3,65 a 69 anos,Masculino
+2020-01-20,1,70 a 74 anos,Feminino
+2020-01-20,3,70 a 74 anos,Masculino
+2020-01-20,1,75 a 79 anos,Masculino
+2020-01-20,10,Indefinido,Masculino
+2020-01-20,3,80 ou mais,Feminino
+2020-01-20,11,Indefinido,Feminino
+2020-01-20,2,80 ou mais,Masculino
+2020-01-20,1,05 a 09 anos,Feminino
+2020-01-21,1,10 a 14 anos,Masculino
+2020-01-21,1,15 a 19 anos,Masculino
+2020-01-21,2,20 a 24 anos,Masculino
+2020-01-21,2,20 a 24 anos,Feminino
+2020-01-21,4,25 a 29 anos,Feminino
+2020-01-21,1,25 a 29 anos,Masculino
+2020-01-21,10,30 a 34 anos,Masculino
+2020-01-21,8,30 a 34 anos,Feminino
+2020-01-21,4,35 a 39 anos,Masculino
+2020-01-21,8,35 a 39 anos,Feminino
+2020-01-21,2,40 a 44 anos,Feminino
+2020-01-21,4,40 a 44 anos,Masculino
+2020-01-21,12,45 a 49 anos,Feminino
+2020-01-21,7,45 a 49 anos,Masculino
+2020-01-21,5,50 a 54 anos,Masculino
+2020-01-21,7,50 a 54 anos,Feminino
+2020-01-21,4,55 a 59 anos,Masculino
+2020-01-21,4,55 a 59 anos,Feminino
+2020-01-21,7,60 a 64 anos,Feminino
+2020-01-21,2,65 a 69 anos,Feminino
+2020-01-21,3,65 a 69 anos,Masculino
+2020-01-21,1,70 a 74 anos,Feminino
+2020-01-21,3,70 a 74 anos,Masculino
+2020-01-21,1,75 a 79 anos,Masculino
+2020-01-21,10,Indefinido,Masculino
+2020-01-21,3,80 ou mais,Feminino
+2020-01-21,11,Indefinido,Feminino
+2020-01-21,2,80 ou mais,Masculino
+2020-01-21,1,05 a 09 anos,Feminino
+2020-01-22,1,10 a 14 anos,Masculino
+2020-01-22,1,15 a 19 anos,Masculino
+2020-01-22,2,20 a 24 anos,Masculino
+2020-01-22,2,20 a 24 anos,Feminino
+2020-01-22,4,25 a 29 anos,Feminino
+2020-01-22,1,25 a 29 anos,Masculino
+2020-01-22,10,30 a 34 anos,Masculino
+2020-01-22,8,30 a 34 anos,Feminino
+2020-01-22,5,35 a 39 anos,Masculino
+2020-01-22,8,35 a 39 anos,Feminino
+2020-01-22,2,40 a 44 anos,Feminino
+2020-01-22,4,40 a 44 anos,Masculino
+2020-01-22,12,45 a 49 anos,Feminino
+2020-01-22,7,45 a 49 anos,Masculino
+2020-01-22,5,50 a 54 anos,Masculino
+2020-01-22,7,50 a 54 anos,Feminino
+2020-01-22,4,55 a 59 anos,Masculino
+2020-01-22,4,55 a 59 anos,Feminino
+2020-01-22,7,60 a 64 anos,Feminino
+2020-01-22,2,65 a 69 anos,Feminino
+2020-01-22,3,65 a 69 anos,Masculino
+2020-01-22,1,70 a 74 anos,Feminino
+2020-01-22,3,70 a 74 anos,Masculino
+2020-01-22,1,75 a 79 anos,Masculino
+2020-01-22,10,Indefinido,Masculino
+2020-01-22,3,80 ou mais,Feminino
+2020-01-22,11,Indefinido,Feminino
+2020-01-22,2,80 ou mais,Masculino
+2020-01-22,1,05 a 09 anos,Feminino
+2020-01-23,1,10 a 14 anos,Masculino
+2020-01-23,1,15 a 19 anos,Masculino
+2020-01-23,2,20 a 24 anos,Masculino
+2020-01-23,2,20 a 24 anos,Feminino
+2020-01-23,4,25 a 29 anos,Feminino
+2020-01-23,1,25 a 29 anos,Masculino
+2020-01-23,10,30 a 34 anos,Masculino
+2020-01-23,8,30 a 34 anos,Feminino
+2020-01-23,5,35 a 39 anos,Masculino
+2020-01-23,8,35 a 39 anos,Feminino
+2020-01-23,2,40 a 44 anos,Feminino
+2020-01-23,4,40 a 44 anos,Masculino
+2020-01-23,12,45 a 49 anos,Feminino
+2020-01-23,7,45 a 49 anos,Masculino
+2020-01-23,5,50 a 54 anos,Masculino
+2020-01-23,7,50 a 54 anos,Feminino
+2020-01-23,4,55 a 59 anos,Masculino
+2020-01-23,4,55 a 59 anos,Feminino
+2020-01-23,7,60 a 64 anos,Feminino
+2020-01-23,2,65 a 69 anos,Feminino
+2020-01-23,3,65 a 69 anos,Masculino
+2020-01-23,1,70 a 74 anos,Feminino
+2020-01-23,3,70 a 74 anos,Masculino
+2020-01-23,1,75 a 79 anos,Masculino
+2020-01-23,10,Indefinido,Masculino
+2020-01-23,3,80 ou mais,Feminino
+2020-01-23,11,Indefinido,Feminino
+2020-01-23,2,80 ou mais,Masculino
+2020-01-23,1,05 a 09 anos,Feminino
+2020-01-24,1,10 a 14 anos,Masculino
+2020-01-24,1,15 a 19 anos,Masculino
+2020-01-24,2,20 a 24 anos,Masculino
+2020-01-24,2,20 a 24 anos,Feminino
+2020-01-24,4,25 a 29 anos,Feminino
+2020-01-24,1,25 a 29 anos,Masculino
+2020-01-24,10,30 a 34 anos,Masculino
+2020-01-24,8,30 a 34 anos,Feminino
+2020-01-24,5,35 a 39 anos,Masculino
+2020-01-24,8,35 a 39 anos,Feminino
+2020-01-24,2,40 a 44 anos,Feminino
+2020-01-24,4,40 a 44 anos,Masculino
+2020-01-24,12,45 a 49 anos,Feminino
+2020-01-24,7,45 a 49 anos,Masculino
+2020-01-24,5,50 a 54 anos,Masculino
+2020-01-24,7,50 a 54 anos,Feminino
+2020-01-24,4,55 a 59 anos,Masculino
+2020-01-24,4,55 a 59 anos,Feminino
+2020-01-24,7,60 a 64 anos,Feminino
+2020-01-24,2,65 a 69 anos,Feminino
+2020-01-24,3,65 a 69 anos,Masculino
+2020-01-24,1,70 a 74 anos,Feminino
+2020-01-24,3,70 a 74 anos,Masculino
+2020-01-24,1,75 a 79 anos,Masculino
+2020-01-24,10,Indefinido,Masculino
+2020-01-24,3,80 ou mais,Feminino
+2020-01-24,11,Indefinido,Feminino
+2020-01-24,2,80 ou mais,Masculino
+2020-01-24,1,05 a 09 anos,Feminino
+2020-01-25,1,10 a 14 anos,Masculino
+2020-01-25,1,15 a 19 anos,Masculino
+2020-01-25,2,20 a 24 anos,Masculino
+2020-01-25,2,20 a 24 anos,Feminino
+2020-01-25,4,25 a 29 anos,Feminino
+2020-01-25,1,25 a 29 anos,Masculino
+2020-01-25,10,30 a 34 anos,Masculino
+2020-01-25,8,30 a 34 anos,Feminino
+2020-01-25,5,35 a 39 anos,Masculino
+2020-01-25,8,35 a 39 anos,Feminino
+2020-01-25,2,40 a 44 anos,Feminino
+2020-01-25,4,40 a 44 anos,Masculino
+2020-01-25,12,45 a 49 anos,Feminino
+2020-01-25,7,45 a 49 anos,Masculino
+2020-01-25,5,50 a 54 anos,Masculino
+2020-01-25,7,50 a 54 anos,Feminino
+2020-01-25,4,55 a 59 anos,Masculino
+2020-01-25,4,55 a 59 anos,Feminino
+2020-01-25,7,60 a 64 anos,Feminino
+2020-01-25,2,65 a 69 anos,Feminino
+2020-01-25,3,65 a 69 anos,Masculino
+2020-01-25,1,70 a 74 anos,Feminino
+2020-01-25,3,70 a 74 anos,Masculino
+2020-01-25,1,75 a 79 anos,Masculino
+2020-01-25,10,Indefinido,Masculino
+2020-01-25,3,80 ou mais,Feminino
+2020-01-25,11,Indefinido,Feminino
+2020-01-25,2,80 ou mais,Masculino
+2020-01-25,1,05 a 09 anos,Feminino
+2020-01-26,1,10 a 14 anos,Masculino
+2020-01-26,1,15 a 19 anos,Masculino
+2020-01-26,2,20 a 24 anos,Masculino
+2020-01-26,2,20 a 24 anos,Feminino
+2020-01-26,4,25 a 29 anos,Feminino
+2020-01-26,1,25 a 29 anos,Masculino
+2020-01-26,10,30 a 34 anos,Masculino
+2020-01-26,8,30 a 34 anos,Feminino
+2020-01-26,5,35 a 39 anos,Masculino
+2020-01-26,8,35 a 39 anos,Feminino
+2020-01-26,2,40 a 44 anos,Feminino
+2020-01-26,4,40 a 44 anos,Masculino
+2020-01-26,12,45 a 49 anos,Feminino
+2020-01-26,7,45 a 49 anos,Masculino
+2020-01-26,5,50 a 54 anos,Masculino
+2020-01-26,7,50 a 54 anos,Feminino
+2020-01-26,4,55 a 59 anos,Masculino
+2020-01-26,5,55 a 59 anos,Feminino
+2020-01-26,7,60 a 64 anos,Feminino
+2020-01-26,2,65 a 69 anos,Feminino
+2020-01-26,3,65 a 69 anos,Masculino
+2020-01-26,1,70 a 74 anos,Feminino
+2020-01-26,3,70 a 74 anos,Masculino
+2020-01-26,1,75 a 79 anos,Masculino
+2020-01-26,10,Indefinido,Masculino
+2020-01-26,3,80 ou mais,Feminino
+2020-01-26,11,Indefinido,Feminino
+2020-01-26,2,80 ou mais,Masculino
+2020-01-26,1,05 a 09 anos,Feminino
+2020-01-27,1,10 a 14 anos,Masculino
+2020-01-27,1,15 a 19 anos,Masculino
+2020-01-27,2,20 a 24 anos,Masculino
+2020-01-27,2,20 a 24 anos,Feminino
+2020-01-27,4,25 a 29 anos,Feminino
+2020-01-27,1,25 a 29 anos,Masculino
+2020-01-27,10,30 a 34 anos,Masculino
+2020-01-27,8,30 a 34 anos,Feminino
+2020-01-27,5,35 a 39 anos,Masculino
+2020-01-27,8,35 a 39 anos,Feminino
+2020-01-27,2,40 a 44 anos,Feminino
+2020-01-27,4,40 a 44 anos,Masculino
+2020-01-27,12,45 a 49 anos,Feminino
+2020-01-27,7,45 a 49 anos,Masculino
+2020-01-27,5,50 a 54 anos,Masculino
+2020-01-27,7,50 a 54 anos,Feminino
+2020-01-27,4,55 a 59 anos,Masculino
+2020-01-27,5,55 a 59 anos,Feminino
+2020-01-27,7,60 a 64 anos,Feminino
+2020-01-27,2,65 a 69 anos,Feminino
+2020-01-27,3,65 a 69 anos,Masculino
+2020-01-27,1,70 a 74 anos,Feminino
+2020-01-27,3,70 a 74 anos,Masculino
+2020-01-27,1,75 a 79 anos,Masculino
+2020-01-27,10,Indefinido,Masculino
+2020-01-27,3,80 ou mais,Feminino
+2020-01-27,11,Indefinido,Feminino
+2020-01-27,2,80 ou mais,Masculino
+2020-01-27,1,05 a 09 anos,Feminino
+2020-01-28,1,10 a 14 anos,Masculino
+2020-01-28,1,15 a 19 anos,Masculino
+2020-01-28,2,20 a 24 anos,Masculino
+2020-01-28,2,20 a 24 anos,Feminino
+2020-01-28,4,25 a 29 anos,Feminino
+2020-01-28,1,25 a 29 anos,Masculino
+2020-01-28,10,30 a 34 anos,Masculino
+2020-01-28,8,30 a 34 anos,Feminino
+2020-01-28,5,35 a 39 anos,Masculino
+2020-01-28,8,35 a 39 anos,Feminino
+2020-01-28,2,40 a 44 anos,Feminino
+2020-01-28,4,40 a 44 anos,Masculino
+2020-01-28,12,45 a 49 anos,Feminino
+2020-01-28,7,45 a 49 anos,Masculino
+2020-01-28,5,50 a 54 anos,Masculino
+2020-01-28,7,50 a 54 anos,Feminino
+2020-01-28,4,55 a 59 anos,Masculino
+2020-01-28,5,55 a 59 anos,Feminino
+2020-01-28,7,60 a 64 anos,Feminino
+2020-01-28,2,65 a 69 anos,Feminino
+2020-01-28,3,65 a 69 anos,Masculino
+2020-01-28,1,70 a 74 anos,Feminino
+2020-01-28,3,70 a 74 anos,Masculino
+2020-01-28,1,75 a 79 anos,Masculino
+2020-01-28,10,Indefinido,Masculino
+2020-01-28,3,80 ou mais,Feminino
+2020-01-28,11,Indefinido,Feminino
+2020-01-28,2,80 ou mais,Masculino
+2020-01-28,1,05 a 09 anos,Feminino
+2020-01-29,1,10 a 14 anos,Masculino
+2020-01-29,1,15 a 19 anos,Masculino
+2020-01-29,2,20 a 24 anos,Masculino
+2020-01-29,2,20 a 24 anos,Feminino
+2020-01-29,4,25 a 29 anos,Feminino
+2020-01-29,1,25 a 29 anos,Masculino
+2020-01-29,10,30 a 34 anos,Masculino
+2020-01-29,8,30 a 34 anos,Feminino
+2020-01-29,5,35 a 39 anos,Masculino
+2020-01-29,8,35 a 39 anos,Feminino
+2020-01-29,2,40 a 44 anos,Feminino
+2020-01-29,4,40 a 44 anos,Masculino
+2020-01-29,12,45 a 49 anos,Feminino
+2020-01-29,7,45 a 49 anos,Masculino
+2020-01-29,5,50 a 54 anos,Masculino
+2020-01-29,7,50 a 54 anos,Feminino
+2020-01-29,4,55 a 59 anos,Masculino
+2020-01-29,5,55 a 59 anos,Feminino
+2020-01-29,7,60 a 64 anos,Feminino
+2020-01-29,2,65 a 69 anos,Feminino
+2020-01-29,3,65 a 69 anos,Masculino
+2020-01-29,1,70 a 74 anos,Feminino
+2020-01-29,3,70 a 74 anos,Masculino
+2020-01-29,1,75 a 79 anos,Masculino
+2020-01-29,10,Indefinido,Masculino
+2020-01-29,3,80 ou mais,Feminino
+2020-01-29,11,Indefinido,Feminino
+2020-01-29,2,80 ou mais,Masculino
+2020-01-29,1,05 a 09 anos,Feminino
+2020-01-30,1,10 a 14 anos,Masculino
+2020-01-30,1,15 a 19 anos,Masculino
+2020-01-30,2,20 a 24 anos,Masculino
+2020-01-30,2,20 a 24 anos,Feminino
+2020-01-30,4,25 a 29 anos,Feminino
+2020-01-30,1,25 a 29 anos,Masculino
+2020-01-30,10,30 a 34 anos,Masculino
+2020-01-30,8,30 a 34 anos,Feminino
+2020-01-30,5,35 a 39 anos,Masculino
+2020-01-30,8,35 a 39 anos,Feminino
+2020-01-30,2,40 a 44 anos,Feminino
+2020-01-30,4,40 a 44 anos,Masculino
+2020-01-30,12,45 a 49 anos,Feminino
+2020-01-30,7,45 a 49 anos,Masculino
+2020-01-30,5,50 a 54 anos,Masculino
+2020-01-30,7,50 a 54 anos,Feminino
+2020-01-30,4,55 a 59 anos,Masculino
+2020-01-30,5,55 a 59 anos,Feminino
+2020-01-30,7,60 a 64 anos,Feminino
+2020-01-30,2,65 a 69 anos,Feminino
+2020-01-30,3,65 a 69 anos,Masculino
+2020-01-30,1,70 a 74 anos,Feminino
+2020-01-30,3,70 a 74 anos,Masculino
+2020-01-30,1,75 a 79 anos,Masculino
+2020-01-30,10,Indefinido,Masculino
+2020-01-30,3,80 ou mais,Feminino
+2020-01-30,11,Indefinido,Feminino
+2020-01-30,2,80 ou mais,Masculino
+2020-01-30,1,05 a 09 anos,Feminino
+2020-01-31,1,10 a 14 anos,Masculino
+2020-01-31,1,15 a 19 anos,Masculino
+2020-01-31,2,20 a 24 anos,Masculino
+2020-01-31,2,20 a 24 anos,Feminino
+2020-01-31,4,25 a 29 anos,Feminino
+2020-01-31,1,25 a 29 anos,Masculino
+2020-01-31,10,30 a 34 anos,Masculino
+2020-01-31,8,30 a 34 anos,Feminino
+2020-01-31,5,35 a 39 anos,Masculino
+2020-01-31,8,35 a 39 anos,Feminino
+2020-01-31,2,40 a 44 anos,Feminino
+2020-01-31,4,40 a 44 anos,Masculino
+2020-01-31,12,45 a 49 anos,Feminino
+2020-01-31,7,45 a 49 anos,Masculino
+2020-01-31,5,50 a 54 anos,Masculino
+2020-01-31,7,50 a 54 anos,Feminino
+2020-01-31,4,55 a 59 anos,Masculino
+2020-01-31,5,55 a 59 anos,Feminino
+2020-01-31,7,60 a 64 anos,Feminino
+2020-01-31,2,65 a 69 anos,Feminino
+2020-01-31,3,65 a 69 anos,Masculino
+2020-01-31,1,70 a 74 anos,Feminino
+2020-01-31,3,70 a 74 anos,Masculino
+2020-01-31,1,75 a 79 anos,Masculino
+2020-01-31,10,Indefinido,Masculino
+2020-01-31,3,80 ou mais,Feminino
+2020-01-31,11,Indefinido,Feminino
+2020-01-31,2,80 ou mais,Masculino
+2020-01-31,1,05 a 09 anos,Feminino
+2020-02-01,1,10 a 14 anos,Masculino
+2020-02-01,1,15 a 19 anos,Masculino
+2020-02-01,2,20 a 24 anos,Masculino
+2020-02-01,2,20 a 24 anos,Feminino
+2020-02-01,4,25 a 29 anos,Feminino
+2020-02-01,1,25 a 29 anos,Masculino
+2020-02-01,10,30 a 34 anos,Masculino
+2020-02-01,8,30 a 34 anos,Feminino
+2020-02-01,5,35 a 39 anos,Masculino
+2020-02-01,8,35 a 39 anos,Feminino
+2020-02-01,3,40 a 44 anos,Feminino
+2020-02-01,4,40 a 44 anos,Masculino
+2020-02-01,12,45 a 49 anos,Feminino
+2020-02-01,7,45 a 49 anos,Masculino
+2020-02-01,5,50 a 54 anos,Masculino
+2020-02-01,7,50 a 54 anos,Feminino
+2020-02-01,4,55 a 59 anos,Masculino
+2020-02-01,5,55 a 59 anos,Feminino
+2020-02-01,7,60 a 64 anos,Feminino
+2020-02-01,2,65 a 69 anos,Feminino
+2020-02-01,3,65 a 69 anos,Masculino
+2020-02-01,1,70 a 74 anos,Feminino
+2020-02-01,3,70 a 74 anos,Masculino
+2020-02-01,1,75 a 79 anos,Masculino
+2020-02-01,10,Indefinido,Masculino
+2020-02-01,3,80 ou mais,Feminino
+2020-02-01,11,Indefinido,Feminino
+2020-02-01,2,80 ou mais,Masculino
+2020-02-01,1,05 a 09 anos,Feminino
+2020-02-02,1,10 a 14 anos,Masculino
+2020-02-02,1,15 a 19 anos,Masculino
+2020-02-02,2,20 a 24 anos,Masculino
+2020-02-02,2,20 a 24 anos,Feminino
+2020-02-02,4,25 a 29 anos,Feminino
+2020-02-02,1,25 a 29 anos,Masculino
+2020-02-02,10,30 a 34 anos,Masculino
+2020-02-02,9,30 a 34 anos,Feminino
+2020-02-02,5,35 a 39 anos,Masculino
+2020-02-02,8,35 a 39 anos,Feminino
+2020-02-02,3,40 a 44 anos,Feminino
+2020-02-02,4,40 a 44 anos,Masculino
+2020-02-02,12,45 a 49 anos,Feminino
+2020-02-02,7,45 a 49 anos,Masculino
+2020-02-02,5,50 a 54 anos,Masculino
+2020-02-02,7,50 a 54 anos,Feminino
+2020-02-02,4,55 a 59 anos,Masculino
+2020-02-02,5,55 a 59 anos,Feminino
+2020-02-02,7,60 a 64 anos,Feminino
+2020-02-02,2,65 a 69 anos,Feminino
+2020-02-02,3,65 a 69 anos,Masculino
+2020-02-02,1,70 a 74 anos,Feminino
+2020-02-02,3,70 a 74 anos,Masculino
+2020-02-02,1,75 a 79 anos,Masculino
+2020-02-02,10,Indefinido,Masculino
+2020-02-02,3,80 ou mais,Feminino
+2020-02-02,11,Indefinido,Feminino
+2020-02-02,2,80 ou mais,Masculino
+2020-02-02,1,05 a 09 anos,Feminino
+2020-02-03,1,10 a 14 anos,Masculino
+2020-02-03,1,15 a 19 anos,Masculino
+2020-02-03,2,20 a 24 anos,Masculino
+2020-02-03,2,20 a 24 anos,Feminino
+2020-02-03,4,25 a 29 anos,Feminino
+2020-02-03,1,25 a 29 anos,Masculino
+2020-02-03,10,30 a 34 anos,Masculino
+2020-02-03,9,30 a 34 anos,Feminino
+2020-02-03,5,35 a 39 anos,Masculino
+2020-02-03,8,35 a 39 anos,Feminino
+2020-02-03,3,40 a 44 anos,Feminino
+2020-02-03,4,40 a 44 anos,Masculino
+2020-02-03,13,45 a 49 anos,Feminino
+2020-02-03,8,45 a 49 anos,Masculino
+2020-02-03,5,50 a 54 anos,Masculino
+2020-02-03,7,50 a 54 anos,Feminino
+2020-02-03,4,55 a 59 anos,Masculino
+2020-02-03,5,55 a 59 anos,Feminino
+2020-02-03,7,60 a 64 anos,Feminino
+2020-02-03,2,65 a 69 anos,Feminino
+2020-02-03,3,65 a 69 anos,Masculino
+2020-02-03,1,70 a 74 anos,Feminino
+2020-02-03,3,70 a 74 anos,Masculino
+2020-02-03,1,75 a 79 anos,Masculino
+2020-02-03,10,Indefinido,Masculino
+2020-02-03,3,80 ou mais,Feminino
+2020-02-03,11,Indefinido,Feminino
+2020-02-03,2,80 ou mais,Masculino
+2020-02-03,1,05 a 09 anos,Feminino
+2020-02-04,1,10 a 14 anos,Masculino
+2020-02-04,1,15 a 19 anos,Masculino
+2020-02-04,2,20 a 24 anos,Masculino
+2020-02-04,2,20 a 24 anos,Feminino
+2020-02-04,4,25 a 29 anos,Feminino
+2020-02-04,1,25 a 29 anos,Masculino
+2020-02-04,10,30 a 34 anos,Masculino
+2020-02-04,9,30 a 34 anos,Feminino
+2020-02-04,5,35 a 39 anos,Masculino
+2020-02-04,8,35 a 39 anos,Feminino
+2020-02-04,3,40 a 44 anos,Feminino
+2020-02-04,4,40 a 44 anos,Masculino
+2020-02-04,13,45 a 49 anos,Feminino
+2020-02-04,8,45 a 49 anos,Masculino
+2020-02-04,5,50 a 54 anos,Masculino
+2020-02-04,7,50 a 54 anos,Feminino
+2020-02-04,4,55 a 59 anos,Masculino
+2020-02-04,5,55 a 59 anos,Feminino
+2020-02-04,7,60 a 64 anos,Feminino
+2020-02-04,2,65 a 69 anos,Feminino
+2020-02-04,3,65 a 69 anos,Masculino
+2020-02-04,1,70 a 74 anos,Feminino
+2020-02-04,3,70 a 74 anos,Masculino
+2020-02-04,1,75 a 79 anos,Masculino
+2020-02-04,10,Indefinido,Masculino
+2020-02-04,3,80 ou mais,Feminino
+2020-02-04,11,Indefinido,Feminino
+2020-02-04,2,80 ou mais,Masculino
+2020-02-04,1,05 a 09 anos,Feminino
+2020-02-05,1,10 a 14 anos,Masculino
+2020-02-05,1,15 a 19 anos,Masculino
+2020-02-05,2,20 a 24 anos,Masculino
+2020-02-05,2,20 a 24 anos,Feminino
+2020-02-05,4,25 a 29 anos,Feminino
+2020-02-05,1,25 a 29 anos,Masculino
+2020-02-05,10,30 a 34 anos,Masculino
+2020-02-05,10,30 a 34 anos,Feminino
+2020-02-05,5,35 a 39 anos,Masculino
+2020-02-05,8,35 a 39 anos,Feminino
+2020-02-05,3,40 a 44 anos,Feminino
+2020-02-05,4,40 a 44 anos,Masculino
+2020-02-05,14,45 a 49 anos,Feminino
+2020-02-05,8,45 a 49 anos,Masculino
+2020-02-05,5,50 a 54 anos,Masculino
+2020-02-05,7,50 a 54 anos,Feminino
+2020-02-05,4,55 a 59 anos,Masculino
+2020-02-05,5,55 a 59 anos,Feminino
+2020-02-05,7,60 a 64 anos,Feminino
+2020-02-05,2,65 a 69 anos,Feminino
+2020-02-05,3,65 a 69 anos,Masculino
+2020-02-05,1,70 a 74 anos,Feminino
+2020-02-05,3,70 a 74 anos,Masculino
+2020-02-05,1,75 a 79 anos,Masculino
+2020-02-05,10,Indefinido,Masculino
+2020-02-05,3,80 ou mais,Feminino
+2020-02-05,11,Indefinido,Feminino
+2020-02-05,2,80 ou mais,Masculino
+2020-02-05,1,05 a 09 anos,Feminino
+2020-02-06,1,10 a 14 anos,Masculino
+2020-02-06,1,15 a 19 anos,Masculino
+2020-02-06,2,20 a 24 anos,Masculino
+2020-02-06,3,20 a 24 anos,Feminino
+2020-02-06,4,25 a 29 anos,Feminino
+2020-02-06,1,25 a 29 anos,Masculino
+2020-02-06,10,30 a 34 anos,Masculino
+2020-02-06,10,30 a 34 anos,Feminino
+2020-02-06,5,35 a 39 anos,Masculino
+2020-02-06,8,35 a 39 anos,Feminino
+2020-02-06,3,40 a 44 anos,Feminino
+2020-02-06,4,40 a 44 anos,Masculino
+2020-02-06,14,45 a 49 anos,Feminino
+2020-02-06,8,45 a 49 anos,Masculino
+2020-02-06,5,50 a 54 anos,Masculino
+2020-02-06,7,50 a 54 anos,Feminino
+2020-02-06,4,55 a 59 anos,Masculino
+2020-02-06,5,55 a 59 anos,Feminino
+2020-02-06,7,60 a 64 anos,Feminino
+2020-02-06,2,65 a 69 anos,Feminino
+2020-02-06,3,65 a 69 anos,Masculino
+2020-02-06,1,70 a 74 anos,Feminino
+2020-02-06,3,70 a 74 anos,Masculino
+2020-02-06,1,75 a 79 anos,Masculino
+2020-02-06,10,Indefinido,Masculino
+2020-02-06,3,80 ou mais,Feminino
+2020-02-06,11,Indefinido,Feminino
+2020-02-06,2,80 ou mais,Masculino
+2020-02-06,1,05 a 09 anos,Feminino
+2020-02-07,1,10 a 14 anos,Masculino
+2020-02-07,1,15 a 19 anos,Masculino
+2020-02-07,2,20 a 24 anos,Masculino
+2020-02-07,3,20 a 24 anos,Feminino
+2020-02-07,4,25 a 29 anos,Feminino
+2020-02-07,1,25 a 29 anos,Masculino
+2020-02-07,10,30 a 34 anos,Masculino
+2020-02-07,10,30 a 34 anos,Feminino
+2020-02-07,6,35 a 39 anos,Masculino
+2020-02-07,8,35 a 39 anos,Feminino
+2020-02-07,3,40 a 44 anos,Feminino
+2020-02-07,4,40 a 44 anos,Masculino
+2020-02-07,14,45 a 49 anos,Feminino
+2020-02-07,8,45 a 49 anos,Masculino
+2020-02-07,5,50 a 54 anos,Masculino
+2020-02-07,7,50 a 54 anos,Feminino
+2020-02-07,4,55 a 59 anos,Masculino
+2020-02-07,6,55 a 59 anos,Feminino
+2020-02-07,7,60 a 64 anos,Feminino
+2020-02-07,2,65 a 69 anos,Feminino
+2020-02-07,3,65 a 69 anos,Masculino
+2020-02-07,1,70 a 74 anos,Feminino
+2020-02-07,3,70 a 74 anos,Masculino
+2020-02-07,1,75 a 79 anos,Masculino
+2020-02-07,10,Indefinido,Masculino
+2020-02-07,3,80 ou mais,Feminino
+2020-02-07,11,Indefinido,Feminino
+2020-02-07,2,80 ou mais,Masculino
+2020-02-07,1,05 a 09 anos,Feminino
+2020-02-08,1,10 a 14 anos,Masculino
+2020-02-08,1,15 a 19 anos,Masculino
+2020-02-08,2,20 a 24 anos,Masculino
+2020-02-08,3,20 a 24 anos,Feminino
+2020-02-08,4,25 a 29 anos,Feminino
+2020-02-08,1,25 a 29 anos,Masculino
+2020-02-08,10,30 a 34 anos,Masculino
+2020-02-08,10,30 a 34 anos,Feminino
+2020-02-08,6,35 a 39 anos,Masculino
+2020-02-08,8,35 a 39 anos,Feminino
+2020-02-08,3,40 a 44 anos,Feminino
+2020-02-08,4,40 a 44 anos,Masculino
+2020-02-08,14,45 a 49 anos,Feminino
+2020-02-08,8,45 a 49 anos,Masculino
+2020-02-08,5,50 a 54 anos,Masculino
+2020-02-08,7,50 a 54 anos,Feminino
+2020-02-08,4,55 a 59 anos,Masculino
+2020-02-08,6,55 a 59 anos,Feminino
+2020-02-08,7,60 a 64 anos,Feminino
+2020-02-08,2,65 a 69 anos,Feminino
+2020-02-08,3,65 a 69 anos,Masculino
+2020-02-08,1,70 a 74 anos,Feminino
+2020-02-08,3,70 a 74 anos,Masculino
+2020-02-08,1,75 a 79 anos,Masculino
+2020-02-08,10,Indefinido,Masculino
+2020-02-08,3,80 ou mais,Feminino
+2020-02-08,11,Indefinido,Feminino
+2020-02-08,2,80 ou mais,Masculino
+2020-02-08,1,05 a 09 anos,Feminino
+2020-02-09,1,10 a 14 anos,Masculino
+2020-02-09,1,15 a 19 anos,Masculino
+2020-02-09,2,20 a 24 anos,Masculino
+2020-02-09,3,20 a 24 anos,Feminino
+2020-02-09,4,25 a 29 anos,Feminino
+2020-02-09,1,25 a 29 anos,Masculino
+2020-02-09,10,30 a 34 anos,Masculino
+2020-02-09,10,30 a 34 anos,Feminino
+2020-02-09,6,35 a 39 anos,Masculino
+2020-02-09,8,35 a 39 anos,Feminino
+2020-02-09,4,40 a 44 anos,Feminino
+2020-02-09,4,40 a 44 anos,Masculino
+2020-02-09,14,45 a 49 anos,Feminino
+2020-02-09,8,45 a 49 anos,Masculino
+2020-02-09,5,50 a 54 anos,Masculino
+2020-02-09,7,50 a 54 anos,Feminino
+2020-02-09,4,55 a 59 anos,Masculino
+2020-02-09,6,55 a 59 anos,Feminino
+2020-02-09,7,60 a 64 anos,Feminino
+2020-02-09,2,65 a 69 anos,Feminino
+2020-02-09,3,65 a 69 anos,Masculino
+2020-02-09,1,70 a 74 anos,Feminino
+2020-02-09,3,70 a 74 anos,Masculino
+2020-02-09,1,75 a 79 anos,Masculino
+2020-02-09,10,Indefinido,Masculino
+2020-02-09,3,80 ou mais,Feminino
+2020-02-09,11,Indefinido,Feminino
+2020-02-09,2,80 ou mais,Masculino
+2020-02-09,1,05 a 09 anos,Feminino
+2020-02-10,1,10 a 14 anos,Masculino
+2020-02-10,1,15 a 19 anos,Masculino
+2020-02-10,2,20 a 24 anos,Masculino
+2020-02-10,3,20 a 24 anos,Feminino
+2020-02-10,4,25 a 29 anos,Feminino
+2020-02-10,1,25 a 29 anos,Masculino
+2020-02-10,10,30 a 34 anos,Masculino
+2020-02-10,10,30 a 34 anos,Feminino
+2020-02-10,6,35 a 39 anos,Masculino
+2020-02-10,8,35 a 39 anos,Feminino
+2020-02-10,4,40 a 44 anos,Feminino
+2020-02-10,4,40 a 44 anos,Masculino
+2020-02-10,14,45 a 49 anos,Feminino
+2020-02-10,8,45 a 49 anos,Masculino
+2020-02-10,5,50 a 54 anos,Masculino
+2020-02-10,7,50 a 54 anos,Feminino
+2020-02-10,4,55 a 59 anos,Masculino
+2020-02-10,6,55 a 59 anos,Feminino
+2020-02-10,7,60 a 64 anos,Feminino
+2020-02-10,2,65 a 69 anos,Feminino
+2020-02-10,3,65 a 69 anos,Masculino
+2020-02-10,1,70 a 74 anos,Feminino
+2020-02-10,3,70 a 74 anos,Masculino
+2020-02-10,1,75 a 79 anos,Masculino
+2020-02-10,10,Indefinido,Masculino
+2020-02-10,3,80 ou mais,Feminino
+2020-02-10,11,Indefinido,Feminino
+2020-02-10,3,80 ou mais,Masculino
+2020-02-10,1,05 a 09 anos,Feminino
+2020-02-11,1,10 a 14 anos,Masculino
+2020-02-11,1,15 a 19 anos,Masculino
+2020-02-11,2,20 a 24 anos,Masculino
+2020-02-11,3,20 a 24 anos,Feminino
+2020-02-11,4,25 a 29 anos,Feminino
+2020-02-11,1,25 a 29 anos,Masculino
+2020-02-11,10,30 a 34 anos,Masculino
+2020-02-11,10,30 a 34 anos,Feminino
+2020-02-11,6,35 a 39 anos,Masculino
+2020-02-11,8,35 a 39 anos,Feminino
+2020-02-11,4,40 a 44 anos,Feminino
+2020-02-11,4,40 a 44 anos,Masculino
+2020-02-11,14,45 a 49 anos,Feminino
+2020-02-11,8,45 a 49 anos,Masculino
+2020-02-11,6,50 a 54 anos,Masculino
+2020-02-11,7,50 a 54 anos,Feminino
+2020-02-11,4,55 a 59 anos,Masculino
+2020-02-11,6,55 a 59 anos,Feminino
+2020-02-11,7,60 a 64 anos,Feminino
+2020-02-11,2,65 a 69 anos,Feminino
+2020-02-11,3,65 a 69 anos,Masculino
+2020-02-11,1,70 a 74 anos,Feminino
+2020-02-11,3,70 a 74 anos,Masculino
+2020-02-11,1,75 a 79 anos,Masculino
+2020-02-11,10,Indefinido,Masculino
+2020-02-11,3,80 ou mais,Feminino
+2020-02-11,11,Indefinido,Feminino
+2020-02-11,3,80 ou mais,Masculino
+2020-02-11,1,05 a 09 anos,Feminino
+2020-02-12,1,10 a 14 anos,Masculino
+2020-02-12,1,15 a 19 anos,Masculino
+2020-02-12,2,20 a 24 anos,Masculino
+2020-02-12,3,20 a 24 anos,Feminino
+2020-02-12,4,25 a 29 anos,Feminino
+2020-02-12,1,25 a 29 anos,Masculino
+2020-02-12,10,30 a 34 anos,Masculino
+2020-02-12,10,30 a 34 anos,Feminino
+2020-02-12,7,35 a 39 anos,Masculino
+2020-02-12,8,35 a 39 anos,Feminino
+2020-02-12,4,40 a 44 anos,Feminino
+2020-02-12,4,40 a 44 anos,Masculino
+2020-02-12,14,45 a 49 anos,Feminino
+2020-02-12,8,45 a 49 anos,Masculino
+2020-02-12,6,50 a 54 anos,Masculino
+2020-02-12,7,50 a 54 anos,Feminino
+2020-02-12,4,55 a 59 anos,Masculino
+2020-02-12,6,55 a 59 anos,Feminino
+2020-02-12,7,60 a 64 anos,Feminino
+2020-02-12,2,65 a 69 anos,Feminino
+2020-02-12,3,65 a 69 anos,Masculino
+2020-02-12,1,70 a 74 anos,Feminino
+2020-02-12,3,70 a 74 anos,Masculino
+2020-02-12,1,75 a 79 anos,Masculino
+2020-02-12,10,Indefinido,Masculino
+2020-02-12,3,80 ou mais,Feminino
+2020-02-12,11,Indefinido,Feminino
+2020-02-12,3,80 ou mais,Masculino
+2020-02-12,1,05 a 09 anos,Feminino
+2020-02-13,1,10 a 14 anos,Masculino
+2020-02-13,1,15 a 19 anos,Masculino
+2020-02-13,2,20 a 24 anos,Masculino
+2020-02-13,3,20 a 24 anos,Feminino
+2020-02-13,4,25 a 29 anos,Feminino
+2020-02-13,1,25 a 29 anos,Masculino
+2020-02-13,10,30 a 34 anos,Masculino
+2020-02-13,10,30 a 34 anos,Feminino
+2020-02-13,7,35 a 39 anos,Masculino
+2020-02-13,8,35 a 39 anos,Feminino
+2020-02-13,4,40 a 44 anos,Feminino
+2020-02-13,4,40 a 44 anos,Masculino
+2020-02-13,14,45 a 49 anos,Feminino
+2020-02-13,8,45 a 49 anos,Masculino
+2020-02-13,6,50 a 54 anos,Masculino
+2020-02-13,7,50 a 54 anos,Feminino
+2020-02-13,4,55 a 59 anos,Masculino
+2020-02-13,6,55 a 59 anos,Feminino
+2020-02-13,7,60 a 64 anos,Feminino
+2020-02-13,2,65 a 69 anos,Feminino
+2020-02-13,3,65 a 69 anos,Masculino
+2020-02-13,1,70 a 74 anos,Feminino
+2020-02-13,3,70 a 74 anos,Masculino
+2020-02-13,1,75 a 79 anos,Masculino
+2020-02-13,10,Indefinido,Masculino
+2020-02-13,3,80 ou mais,Feminino
+2020-02-13,11,Indefinido,Feminino
+2020-02-13,3,80 ou mais,Masculino
+2020-02-13,1,05 a 09 anos,Feminino
+2020-02-14,1,10 a 14 anos,Masculino
+2020-02-14,1,15 a 19 anos,Masculino
+2020-02-14,2,20 a 24 anos,Masculino
+2020-02-14,3,20 a 24 anos,Feminino
+2020-02-14,4,25 a 29 anos,Feminino
+2020-02-14,1,25 a 29 anos,Masculino
+2020-02-14,12,30 a 34 anos,Masculino
+2020-02-14,10,30 a 34 anos,Feminino
+2020-02-14,8,35 a 39 anos,Masculino
+2020-02-14,8,35 a 39 anos,Feminino
+2020-02-14,4,40 a 44 anos,Feminino
+2020-02-14,4,40 a 44 anos,Masculino
+2020-02-14,14,45 a 49 anos,Feminino
+2020-02-14,8,45 a 49 anos,Masculino
+2020-02-14,6,50 a 54 anos,Masculino
+2020-02-14,7,50 a 54 anos,Feminino
+2020-02-14,4,55 a 59 anos,Masculino
+2020-02-14,6,55 a 59 anos,Feminino
+2020-02-14,7,60 a 64 anos,Feminino
+2020-02-14,2,65 a 69 anos,Feminino
+2020-02-14,3,65 a 69 anos,Masculino
+2020-02-14,1,70 a 74 anos,Feminino
+2020-02-14,3,70 a 74 anos,Masculino
+2020-02-14,1,75 a 79 anos,Masculino
+2020-02-14,10,Indefinido,Masculino
+2020-02-14,3,80 ou mais,Feminino
+2020-02-14,11,Indefinido,Feminino
+2020-02-14,3,80 ou mais,Masculino
+2020-02-14,1,05 a 09 anos,Feminino
+2020-02-15,1,10 a 14 anos,Masculino
+2020-02-15,1,15 a 19 anos,Masculino
+2020-02-15,2,20 a 24 anos,Masculino
+2020-02-15,3,20 a 24 anos,Feminino
+2020-02-15,4,25 a 29 anos,Feminino
+2020-02-15,1,25 a 29 anos,Masculino
+2020-02-15,12,30 a 34 anos,Masculino
+2020-02-15,10,30 a 34 anos,Feminino
+2020-02-15,8,35 a 39 anos,Masculino
+2020-02-15,8,35 a 39 anos,Feminino
+2020-02-15,4,40 a 44 anos,Feminino
+2020-02-15,4,40 a 44 anos,Masculino
+2020-02-15,14,45 a 49 anos,Feminino
+2020-02-15,8,45 a 49 anos,Masculino
+2020-02-15,6,50 a 54 anos,Masculino
+2020-02-15,7,50 a 54 anos,Feminino
+2020-02-15,4,55 a 59 anos,Masculino
+2020-02-15,6,55 a 59 anos,Feminino
+2020-02-15,7,60 a 64 anos,Feminino
+2020-02-15,2,65 a 69 anos,Feminino
+2020-02-15,3,65 a 69 anos,Masculino
+2020-02-15,1,70 a 74 anos,Feminino
+2020-02-15,3,70 a 74 anos,Masculino
+2020-02-15,1,75 a 79 anos,Masculino
+2020-02-15,10,Indefinido,Masculino
+2020-02-15,3,80 ou mais,Feminino
+2020-02-15,11,Indefinido,Feminino
+2020-02-15,3,80 ou mais,Masculino
+2020-02-15,1,05 a 09 anos,Feminino
+2020-02-16,1,10 a 14 anos,Masculino
+2020-02-16,1,15 a 19 anos,Masculino
+2020-02-16,2,20 a 24 anos,Masculino
+2020-02-16,3,20 a 24 anos,Feminino
+2020-02-16,4,25 a 29 anos,Feminino
+2020-02-16,1,25 a 29 anos,Masculino
+2020-02-16,12,30 a 34 anos,Masculino
+2020-02-16,10,30 a 34 anos,Feminino
+2020-02-16,8,35 a 39 anos,Masculino
+2020-02-16,8,35 a 39 anos,Feminino
+2020-02-16,4,40 a 44 anos,Feminino
+2020-02-16,4,40 a 44 anos,Masculino
+2020-02-16,14,45 a 49 anos,Feminino
+2020-02-16,8,45 a 49 anos,Masculino
+2020-02-16,6,50 a 54 anos,Masculino
+2020-02-16,7,50 a 54 anos,Feminino
+2020-02-16,4,55 a 59 anos,Masculino
+2020-02-16,6,55 a 59 anos,Feminino
+2020-02-16,7,60 a 64 anos,Feminino
+2020-02-16,2,65 a 69 anos,Feminino
+2020-02-16,3,65 a 69 anos,Masculino
+2020-02-16,1,70 a 74 anos,Feminino
+2020-02-16,4,70 a 74 anos,Masculino
+2020-02-16,1,75 a 79 anos,Masculino
+2020-02-16,10,Indefinido,Masculino
+2020-02-16,3,80 ou mais,Feminino
+2020-02-16,11,Indefinido,Feminino
+2020-02-16,3,80 ou mais,Masculino
+2020-02-16,1,05 a 09 anos,Feminino
+2020-02-17,1,10 a 14 anos,Masculino
+2020-02-17,1,15 a 19 anos,Masculino
+2020-02-17,2,20 a 24 anos,Masculino
+2020-02-17,3,20 a 24 anos,Feminino
+2020-02-17,5,25 a 29 anos,Feminino
+2020-02-17,1,25 a 29 anos,Masculino
+2020-02-17,12,30 a 34 anos,Masculino
+2020-02-17,10,30 a 34 anos,Feminino
+2020-02-17,8,35 a 39 anos,Masculino
+2020-02-17,8,35 a 39 anos,Feminino
+2020-02-17,4,40 a 44 anos,Feminino
+2020-02-17,4,40 a 44 anos,Masculino
+2020-02-17,14,45 a 49 anos,Feminino
+2020-02-17,8,45 a 49 anos,Masculino
+2020-02-17,6,50 a 54 anos,Masculino
+2020-02-17,7,50 a 54 anos,Feminino
+2020-02-17,4,55 a 59 anos,Masculino
+2020-02-17,6,55 a 59 anos,Feminino
+2020-02-17,7,60 a 64 anos,Feminino
+2020-02-17,2,65 a 69 anos,Feminino
+2020-02-17,3,65 a 69 anos,Masculino
+2020-02-17,1,70 a 74 anos,Feminino
+2020-02-17,4,70 a 74 anos,Masculino
+2020-02-17,1,75 a 79 anos,Masculino
+2020-02-17,10,Indefinido,Masculino
+2020-02-17,3,80 ou mais,Feminino
+2020-02-17,11,Indefinido,Feminino
+2020-02-17,3,80 ou mais,Masculino
+2020-02-17,1,05 a 09 anos,Feminino
+2020-02-18,1,10 a 14 anos,Masculino
+2020-02-18,1,15 a 19 anos,Masculino
+2020-02-18,2,20 a 24 anos,Masculino
+2020-02-18,3,20 a 24 anos,Feminino
+2020-02-18,5,25 a 29 anos,Feminino
+2020-02-18,1,25 a 29 anos,Masculino
+2020-02-18,12,30 a 34 anos,Masculino
+2020-02-18,10,30 a 34 anos,Feminino
+2020-02-18,9,35 a 39 anos,Masculino
+2020-02-18,8,35 a 39 anos,Feminino
+2020-02-18,4,40 a 44 anos,Feminino
+2020-02-18,4,40 a 44 anos,Masculino
+2020-02-18,14,45 a 49 anos,Feminino
+2020-02-18,8,45 a 49 anos,Masculino
+2020-02-18,6,50 a 54 anos,Masculino
+2020-02-18,7,50 a 54 anos,Feminino
+2020-02-18,4,55 a 59 anos,Masculino
+2020-02-18,6,55 a 59 anos,Feminino
+2020-02-18,7,60 a 64 anos,Feminino
+2020-02-18,2,65 a 69 anos,Feminino
+2020-02-18,3,65 a 69 anos,Masculino
+2020-02-18,1,70 a 74 anos,Feminino
+2020-02-18,4,70 a 74 anos,Masculino
+2020-02-18,1,75 a 79 anos,Masculino
+2020-02-18,10,Indefinido,Masculino
+2020-02-18,3,80 ou mais,Feminino
+2020-02-18,11,Indefinido,Feminino
+2020-02-18,3,80 ou mais,Masculino
+2020-02-18,1,05 a 09 anos,Feminino
+2020-02-19,1,10 a 14 anos,Masculino
+2020-02-19,1,15 a 19 anos,Masculino
+2020-02-19,2,20 a 24 anos,Masculino
+2020-02-19,3,20 a 24 anos,Feminino
+2020-02-19,5,25 a 29 anos,Feminino
+2020-02-19,1,25 a 29 anos,Masculino
+2020-02-19,12,30 a 34 anos,Masculino
+2020-02-19,10,30 a 34 anos,Feminino
+2020-02-19,9,35 a 39 anos,Masculino
+2020-02-19,8,35 a 39 anos,Feminino
+2020-02-19,4,40 a 44 anos,Feminino
+2020-02-19,4,40 a 44 anos,Masculino
+2020-02-19,14,45 a 49 anos,Feminino
+2020-02-19,8,45 a 49 anos,Masculino
+2020-02-19,6,50 a 54 anos,Masculino
+2020-02-19,7,50 a 54 anos,Feminino
+2020-02-19,4,55 a 59 anos,Masculino
+2020-02-19,6,55 a 59 anos,Feminino
+2020-02-19,7,60 a 64 anos,Feminino
+2020-02-19,2,65 a 69 anos,Feminino
+2020-02-19,3,65 a 69 anos,Masculino
+2020-02-19,1,70 a 74 anos,Feminino
+2020-02-19,4,70 a 74 anos,Masculino
+2020-02-19,1,75 a 79 anos,Masculino
+2020-02-19,10,Indefinido,Masculino
+2020-02-19,3,80 ou mais,Feminino
+2020-02-19,11,Indefinido,Feminino
+2020-02-19,3,80 ou mais,Masculino
+2020-02-19,1,05 a 09 anos,Feminino
+2020-02-20,1,10 a 14 anos,Masculino
+2020-02-20,1,15 a 19 anos,Masculino
+2020-02-20,2,20 a 24 anos,Masculino
+2020-02-20,3,20 a 24 anos,Feminino
+2020-02-20,5,25 a 29 anos,Feminino
+2020-02-20,1,25 a 29 anos,Masculino
+2020-02-20,12,30 a 34 anos,Masculino
+2020-02-20,10,30 a 34 anos,Feminino
+2020-02-20,9,35 a 39 anos,Masculino
+2020-02-20,9,35 a 39 anos,Feminino
+2020-02-20,4,40 a 44 anos,Feminino
+2020-02-20,4,40 a 44 anos,Masculino
+2020-02-20,14,45 a 49 anos,Feminino
+2020-02-20,8,45 a 49 anos,Masculino
+2020-02-20,6,50 a 54 anos,Masculino
+2020-02-20,7,50 a 54 anos,Feminino
+2020-02-20,4,55 a 59 anos,Masculino
+2020-02-20,6,55 a 59 anos,Feminino
+2020-02-20,7,60 a 64 anos,Feminino
+2020-02-20,2,65 a 69 anos,Feminino
+2020-02-20,3,65 a 69 anos,Masculino
+2020-02-20,1,70 a 74 anos,Feminino
+2020-02-20,4,70 a 74 anos,Masculino
+2020-02-20,1,75 a 79 anos,Masculino
+2020-02-20,10,Indefinido,Masculino
+2020-02-20,3,80 ou mais,Feminino
+2020-02-20,11,Indefinido,Feminino
+2020-02-20,3,80 ou mais,Masculino
+2020-02-20,1,05 a 09 anos,Feminino
+2020-02-21,1,10 a 14 anos,Masculino
+2020-02-21,1,15 a 19 anos,Masculino
+2020-02-21,2,20 a 24 anos,Masculino
+2020-02-21,3,20 a 24 anos,Feminino
+2020-02-21,6,25 a 29 anos,Feminino
+2020-02-21,1,25 a 29 anos,Masculino
+2020-02-21,12,30 a 34 anos,Masculino
+2020-02-21,11,30 a 34 anos,Feminino
+2020-02-21,9,35 a 39 anos,Masculino
+2020-02-21,9,35 a 39 anos,Feminino
+2020-02-21,4,40 a 44 anos,Feminino
+2020-02-21,4,40 a 44 anos,Masculino
+2020-02-21,14,45 a 49 anos,Feminino
+2020-02-21,8,45 a 49 anos,Masculino
+2020-02-21,6,50 a 54 anos,Masculino
+2020-02-21,7,50 a 54 anos,Feminino
+2020-02-21,4,55 a 59 anos,Masculino
+2020-02-21,6,55 a 59 anos,Feminino
+2020-02-21,7,60 a 64 anos,Feminino
+2020-02-21,2,65 a 69 anos,Feminino
+2020-02-21,3,65 a 69 anos,Masculino
+2020-02-21,1,70 a 74 anos,Feminino
+2020-02-21,4,70 a 74 anos,Masculino
+2020-02-21,1,75 a 79 anos,Masculino
+2020-02-21,10,Indefinido,Masculino
+2020-02-21,3,80 ou mais,Feminino
+2020-02-21,11,Indefinido,Feminino
+2020-02-21,3,80 ou mais,Masculino
+2020-02-21,1,05 a 09 anos,Feminino
+2020-02-22,1,10 a 14 anos,Masculino
+2020-02-22,1,15 a 19 anos,Masculino
+2020-02-22,2,20 a 24 anos,Masculino
+2020-02-22,3,20 a 24 anos,Feminino
+2020-02-22,6,25 a 29 anos,Feminino
+2020-02-22,1,25 a 29 anos,Masculino
+2020-02-22,12,30 a 34 anos,Masculino
+2020-02-22,11,30 a 34 anos,Feminino
+2020-02-22,9,35 a 39 anos,Masculino
+2020-02-22,10,35 a 39 anos,Feminino
+2020-02-22,5,40 a 44 anos,Feminino
+2020-02-22,4,40 a 44 anos,Masculino
+2020-02-22,14,45 a 49 anos,Feminino
+2020-02-22,10,45 a 49 anos,Masculino
+2020-02-22,6,50 a 54 anos,Masculino
+2020-02-22,7,50 a 54 anos,Feminino
+2020-02-22,4,55 a 59 anos,Masculino
+2020-02-22,6,55 a 59 anos,Feminino
+2020-02-22,7,60 a 64 anos,Feminino
+2020-02-22,2,65 a 69 anos,Feminino
+2020-02-22,3,65 a 69 anos,Masculino
+2020-02-22,2,70 a 74 anos,Feminino
+2020-02-22,4,70 a 74 anos,Masculino
+2020-02-22,1,75 a 79 anos,Masculino
+2020-02-22,10,Indefinido,Masculino
+2020-02-22,3,80 ou mais,Feminino
+2020-02-22,11,Indefinido,Feminino
+2020-02-22,3,80 ou mais,Masculino
+2020-02-22,1,05 a 09 anos,Feminino
+2020-02-23,1,10 a 14 anos,Masculino
+2020-02-23,1,15 a 19 anos,Masculino
+2020-02-23,2,20 a 24 anos,Masculino
+2020-02-23,4,20 a 24 anos,Feminino
+2020-02-23,6,25 a 29 anos,Feminino
+2020-02-23,1,25 a 29 anos,Masculino
+2020-02-23,12,30 a 34 anos,Masculino
+2020-02-23,11,30 a 34 anos,Feminino
+2020-02-23,9,35 a 39 anos,Masculino
+2020-02-23,10,35 a 39 anos,Feminino
+2020-02-23,6,40 a 44 anos,Feminino
+2020-02-23,4,40 a 44 anos,Masculino
+2020-02-23,14,45 a 49 anos,Feminino
+2020-02-23,10,45 a 49 anos,Masculino
+2020-02-23,6,50 a 54 anos,Masculino
+2020-02-23,7,50 a 54 anos,Feminino
+2020-02-23,4,55 a 59 anos,Masculino
+2020-02-23,6,55 a 59 anos,Feminino
+2020-02-23,7,60 a 64 anos,Feminino
+2020-02-23,2,65 a 69 anos,Feminino
+2020-02-23,3,65 a 69 anos,Masculino
+2020-02-23,2,70 a 74 anos,Feminino
+2020-02-23,4,70 a 74 anos,Masculino
+2020-02-23,1,75 a 79 anos,Masculino
+2020-02-23,10,Indefinido,Masculino
+2020-02-23,3,80 ou mais,Feminino
+2020-02-23,11,Indefinido,Feminino
+2020-02-23,3,80 ou mais,Masculino
+2020-02-23,1,05 a 09 anos,Feminino
+2020-02-24,1,10 a 14 anos,Masculino
+2020-02-24,1,15 a 19 anos,Masculino
+2020-02-24,2,20 a 24 anos,Masculino
+2020-02-24,4,20 a 24 anos,Feminino
+2020-02-24,7,25 a 29 anos,Feminino
+2020-02-24,1,25 a 29 anos,Masculino
+2020-02-24,12,30 a 34 anos,Masculino
+2020-02-24,11,30 a 34 anos,Feminino
+2020-02-24,9,35 a 39 anos,Masculino
+2020-02-24,10,35 a 39 anos,Feminino
+2020-02-24,6,40 a 44 anos,Feminino
+2020-02-24,4,40 a 44 anos,Masculino
+2020-02-24,15,45 a 49 anos,Feminino
+2020-02-24,10,45 a 49 anos,Masculino
+2020-02-24,6,50 a 54 anos,Masculino
+2020-02-24,7,50 a 54 anos,Feminino
+2020-02-24,4,55 a 59 anos,Masculino
+2020-02-24,6,55 a 59 anos,Feminino
+2020-02-24,7,60 a 64 anos,Feminino
+2020-02-24,2,65 a 69 anos,Feminino
+2020-02-24,3,65 a 69 anos,Masculino
+2020-02-24,2,70 a 74 anos,Feminino
+2020-02-24,4,70 a 74 anos,Masculino
+2020-02-24,1,75 a 79 anos,Masculino
+2020-02-24,10,Indefinido,Masculino
+2020-02-24,3,80 ou mais,Feminino
+2020-02-24,11,Indefinido,Feminino
+2020-02-24,3,80 ou mais,Masculino
+2020-02-24,1,05 a 09 anos,Feminino
+2020-02-25,1,10 a 14 anos,Masculino
+2020-02-25,1,15 a 19 anos,Masculino
+2020-02-25,2,20 a 24 anos,Masculino
+2020-02-25,4,20 a 24 anos,Feminino
+2020-02-25,8,25 a 29 anos,Feminino
+2020-02-25,2,25 a 29 anos,Masculino
+2020-02-25,12,30 a 34 anos,Masculino
+2020-02-25,11,30 a 34 anos,Feminino
+2020-02-25,9,35 a 39 anos,Masculino
+2020-02-25,10,35 a 39 anos,Feminino
+2020-02-25,6,40 a 44 anos,Feminino
+2020-02-25,4,40 a 44 anos,Masculino
+2020-02-25,15,45 a 49 anos,Feminino
+2020-02-25,10,45 a 49 anos,Masculino
+2020-02-25,6,50 a 54 anos,Masculino
+2020-02-25,7,50 a 54 anos,Feminino
+2020-02-25,4,55 a 59 anos,Masculino
+2020-02-25,6,55 a 59 anos,Feminino
+2020-02-25,7,60 a 64 anos,Feminino
+2020-02-25,2,65 a 69 anos,Feminino
+2020-02-25,3,65 a 69 anos,Masculino
+2020-02-25,2,70 a 74 anos,Feminino
+2020-02-25,4,70 a 74 anos,Masculino
+2020-02-25,1,75 a 79 anos,Masculino
+2020-02-25,10,Indefinido,Masculino
+2020-02-25,3,80 ou mais,Feminino
+2020-02-25,11,Indefinido,Feminino
+2020-02-25,3,80 ou mais,Masculino
+2020-02-25,1,05 a 09 anos,Feminino
+2020-02-26,1,10 a 14 anos,Masculino
+2020-02-26,1,15 a 19 anos,Masculino
+2020-02-26,2,20 a 24 anos,Masculino
+2020-02-26,4,20 a 24 anos,Feminino
+2020-02-26,8,25 a 29 anos,Feminino
+2020-02-26,2,25 a 29 anos,Masculino
+2020-02-26,12,30 a 34 anos,Masculino
+2020-02-26,12,30 a 34 anos,Feminino
+2020-02-26,9,35 a 39 anos,Masculino
+2020-02-26,10,35 a 39 anos,Feminino
+2020-02-26,6,40 a 44 anos,Feminino
+2020-02-26,4,40 a 44 anos,Masculino
+2020-02-26,15,45 a 49 anos,Feminino
+2020-02-26,10,45 a 49 anos,Masculino
+2020-02-26,6,50 a 54 anos,Masculino
+2020-02-26,7,50 a 54 anos,Feminino
+2020-02-26,4,55 a 59 anos,Masculino
+2020-02-26,6,55 a 59 anos,Feminino
+2020-02-26,7,60 a 64 anos,Feminino
+2020-02-26,2,65 a 69 anos,Feminino
+2020-02-26,3,65 a 69 anos,Masculino
+2020-02-26,2,70 a 74 anos,Feminino
+2020-02-26,4,70 a 74 anos,Masculino
+2020-02-26,1,75 a 79 anos,Masculino
+2020-02-26,10,Indefinido,Masculino
+2020-02-26,3,80 ou mais,Feminino
+2020-02-26,11,Indefinido,Feminino
+2020-02-26,3,80 ou mais,Masculino
+2020-02-26,1,05 a 09 anos,Feminino
+2020-02-27,1,10 a 14 anos,Masculino
+2020-02-27,1,15 a 19 anos,Masculino
+2020-02-27,2,20 a 24 anos,Masculino
+2020-02-27,4,20 a 24 anos,Feminino
+2020-02-27,8,25 a 29 anos,Feminino
+2020-02-27,2,25 a 29 anos,Masculino
+2020-02-27,12,30 a 34 anos,Masculino
+2020-02-27,12,30 a 34 anos,Feminino
+2020-02-27,9,35 a 39 anos,Masculino
+2020-02-27,10,35 a 39 anos,Feminino
+2020-02-27,6,40 a 44 anos,Feminino
+2020-02-27,4,40 a 44 anos,Masculino
+2020-02-27,15,45 a 49 anos,Feminino
+2020-02-27,10,45 a 49 anos,Masculino
+2020-02-27,6,50 a 54 anos,Masculino
+2020-02-27,7,50 a 54 anos,Feminino
+2020-02-27,4,55 a 59 anos,Masculino
+2020-02-27,6,55 a 59 anos,Feminino
+2020-02-27,8,60 a 64 anos,Feminino
+2020-02-27,2,65 a 69 anos,Feminino
+2020-02-27,3,65 a 69 anos,Masculino
+2020-02-27,2,70 a 74 anos,Feminino
+2020-02-27,4,70 a 74 anos,Masculino
+2020-02-27,1,75 a 79 anos,Masculino
+2020-02-27,10,Indefinido,Masculino
+2020-02-27,3,80 ou mais,Feminino
+2020-02-27,11,Indefinido,Feminino
+2020-02-27,3,80 ou mais,Masculino
+2020-02-27,1,05 a 09 anos,Feminino
+2020-02-28,1,10 a 14 anos,Masculino
+2020-02-28,1,15 a 19 anos,Masculino
+2020-02-28,2,20 a 24 anos,Masculino
+2020-02-28,4,20 a 24 anos,Feminino
+2020-02-28,8,25 a 29 anos,Feminino
+2020-02-28,2,25 a 29 anos,Masculino
+2020-02-28,12,30 a 34 anos,Masculino
+2020-02-28,12,30 a 34 anos,Feminino
+2020-02-28,9,35 a 39 anos,Masculino
+2020-02-28,10,35 a 39 anos,Feminino
+2020-02-28,6,40 a 44 anos,Feminino
+2020-02-28,4,40 a 44 anos,Masculino
+2020-02-28,15,45 a 49 anos,Feminino
+2020-02-28,10,45 a 49 anos,Masculino
+2020-02-28,6,50 a 54 anos,Masculino
+2020-02-28,7,50 a 54 anos,Feminino
+2020-02-28,4,55 a 59 anos,Masculino
+2020-02-28,6,55 a 59 anos,Feminino
+2020-02-28,8,60 a 64 anos,Feminino
+2020-02-28,2,65 a 69 anos,Feminino
+2020-02-28,3,65 a 69 anos,Masculino
+2020-02-28,2,70 a 74 anos,Feminino
+2020-02-28,4,70 a 74 anos,Masculino
+2020-02-28,1,75 a 79 anos,Masculino
+2020-02-28,10,Indefinido,Masculino
+2020-02-28,4,80 ou mais,Feminino
+2020-02-28,11,Indefinido,Feminino
+2020-02-28,3,80 ou mais,Masculino
+2020-02-28,1,05 a 09 anos,Feminino
+2020-02-29,1,10 a 14 anos,Masculino
+2020-02-29,1,15 a 19 anos,Masculino
+2020-02-29,2,20 a 24 anos,Masculino
+2020-02-29,4,20 a 24 anos,Feminino
+2020-02-29,8,25 a 29 anos,Feminino
+2020-02-29,2,25 a 29 anos,Masculino
+2020-02-29,12,30 a 34 anos,Masculino
+2020-02-29,12,30 a 34 anos,Feminino
+2020-02-29,9,35 a 39 anos,Masculino
+2020-02-29,10,35 a 39 anos,Feminino
+2020-02-29,6,40 a 44 anos,Feminino
+2020-02-29,4,40 a 44 anos,Masculino
+2020-02-29,15,45 a 49 anos,Feminino
+2020-02-29,10,45 a 49 anos,Masculino
+2020-02-29,6,50 a 54 anos,Masculino
+2020-02-29,7,50 a 54 anos,Feminino
+2020-02-29,4,55 a 59 anos,Masculino
+2020-02-29,6,55 a 59 anos,Feminino
+2020-02-29,8,60 a 64 anos,Feminino
+2020-02-29,2,65 a 69 anos,Feminino
+2020-02-29,3,65 a 69 anos,Masculino
+2020-02-29,2,70 a 74 anos,Feminino
+2020-02-29,4,70 a 74 anos,Masculino
+2020-02-29,1,75 a 79 anos,Masculino
+2020-02-29,10,Indefinido,Masculino
+2020-02-29,5,80 ou mais,Feminino
+2020-02-29,11,Indefinido,Feminino
+2020-02-29,3,80 ou mais,Masculino
+2020-02-29,1,05 a 09 anos,Feminino
+2020-03-01,1,10 a 14 anos,Masculino
+2020-03-01,1,15 a 19 anos,Masculino
+2020-03-01,2,20 a 24 anos,Masculino
+2020-03-01,4,20 a 24 anos,Feminino
+2020-03-01,8,25 a 29 anos,Feminino
+2020-03-01,2,25 a 29 anos,Masculino
+2020-03-01,12,30 a 34 anos,Masculino
+2020-03-01,12,30 a 34 anos,Feminino
+2020-03-01,10,35 a 39 anos,Masculino
+2020-03-01,11,35 a 39 anos,Feminino
+2020-03-01,6,40 a 44 anos,Feminino
+2020-03-01,4,40 a 44 anos,Masculino
+2020-03-01,15,45 a 49 anos,Feminino
+2020-03-01,10,45 a 49 anos,Masculino
+2020-03-01,7,50 a 54 anos,Masculino
+2020-03-01,7,50 a 54 anos,Feminino
+2020-03-01,5,55 a 59 anos,Masculino
+2020-03-01,6,55 a 59 anos,Feminino
+2020-03-01,8,60 a 64 anos,Feminino
+2020-03-01,2,65 a 69 anos,Feminino
+2020-03-01,3,65 a 69 anos,Masculino
+2020-03-01,2,70 a 74 anos,Feminino
+2020-03-01,4,70 a 74 anos,Masculino
+2020-03-01,1,75 a 79 anos,Masculino
+2020-03-01,10,Indefinido,Masculino
+2020-03-01,6,80 ou mais,Feminino
+2020-03-01,11,Indefinido,Feminino
+2020-03-01,3,80 ou mais,Masculino
+2020-03-01,1,05 a 09 anos,Feminino
+2020-03-02,1,10 a 14 anos,Masculino
+2020-03-02,1,15 a 19 anos,Masculino
+2020-03-02,4,20 a 24 anos,Feminino
+2020-03-02,2,20 a 24 anos,Masculino
+2020-03-02,2,25 a 29 anos,Masculino
+2020-03-02,8,25 a 29 anos,Feminino
+2020-03-02,12,30 a 34 anos,Feminino
+2020-03-02,12,30 a 34 anos,Masculino
+2020-03-02,11,35 a 39 anos,Feminino
+2020-03-02,11,35 a 39 anos,Masculino
+2020-03-02,4,40 a 44 anos,Masculino
+2020-03-02,7,40 a 44 anos,Feminino
+2020-03-02,15,45 a 49 anos,Feminino
+2020-03-02,10,45 a 49 anos,Masculino
+2020-03-02,7,50 a 54 anos,Masculino
+2020-03-02,8,50 a 54 anos,Feminino
+2020-03-02,6,55 a 59 anos,Feminino
+2020-03-02,5,55 a 59 anos,Masculino
+2020-03-02,8,60 a 64 anos,Feminino
+2020-03-02,2,65 a 69 anos,Feminino
+2020-03-02,3,65 a 69 anos,Masculino
+2020-03-02,2,70 a 74 anos,Feminino
+2020-03-02,4,70 a 74 anos,Masculino
+2020-03-02,1,75 a 79 anos,Masculino
+2020-03-02,10,Indefinido,Masculino
+2020-03-02,6,80 ou mais,Feminino
+2020-03-02,11,Indefinido,Feminino
+2020-03-02,1,00 a 04 anos,Masculino
+2020-03-02,3,80 ou mais,Masculino
+2020-03-02,1,05 a 09 anos,Feminino
+2020-03-03,1,10 a 14 anos,Masculino
+2020-03-03,1,15 a 19 anos,Masculino
+2020-03-03,4,20 a 24 anos,Feminino
+2020-03-03,2,20 a 24 anos,Masculino
+2020-03-03,2,25 a 29 anos,Masculino
+2020-03-03,8,25 a 29 anos,Feminino
+2020-03-03,12,30 a 34 anos,Feminino
+2020-03-03,12,30 a 34 anos,Masculino
+2020-03-03,11,35 a 39 anos,Feminino
+2020-03-03,12,35 a 39 anos,Masculino
+2020-03-03,4,40 a 44 anos,Masculino
+2020-03-03,7,40 a 44 anos,Feminino
+2020-03-03,15,45 a 49 anos,Feminino
+2020-03-03,10,45 a 49 anos,Masculino
+2020-03-03,7,50 a 54 anos,Masculino
+2020-03-03,8,50 a 54 anos,Feminino
+2020-03-03,6,55 a 59 anos,Feminino
+2020-03-03,6,55 a 59 anos,Masculino
+2020-03-03,8,60 a 64 anos,Feminino
+2020-03-03,2,65 a 69 anos,Feminino
+2020-03-03,3,65 a 69 anos,Masculino
+2020-03-03,3,70 a 74 anos,Feminino
+2020-03-03,4,70 a 74 anos,Masculino
+2020-03-03,1,75 a 79 anos,Masculino
+2020-03-03,10,Indefinido,Masculino
+2020-03-03,6,80 ou mais,Feminino
+2020-03-03,11,Indefinido,Feminino
+2020-03-03,1,00 a 04 anos,Masculino
+2020-03-03,3,80 ou mais,Masculino
+2020-03-03,1,05 a 09 anos,Feminino
+2020-03-04,1,10 a 14 anos,Masculino
+2020-03-04,1,15 a 19 anos,Masculino
+2020-03-04,4,20 a 24 anos,Feminino
+2020-03-04,2,20 a 24 anos,Masculino
+2020-03-04,2,25 a 29 anos,Masculino
+2020-03-04,8,25 a 29 anos,Feminino
+2020-03-04,12,30 a 34 anos,Feminino
+2020-03-04,12,30 a 34 anos,Masculino
+2020-03-04,11,35 a 39 anos,Feminino
+2020-03-04,12,35 a 39 anos,Masculino
+2020-03-04,4,40 a 44 anos,Masculino
+2020-03-04,8,40 a 44 anos,Feminino
+2020-03-04,15,45 a 49 anos,Feminino
+2020-03-04,10,45 a 49 anos,Masculino
+2020-03-04,8,50 a 54 anos,Masculino
+2020-03-04,9,50 a 54 anos,Feminino
+2020-03-04,6,55 a 59 anos,Feminino
+2020-03-04,7,55 a 59 anos,Masculino
+2020-03-04,8,60 a 64 anos,Feminino
+2020-03-04,2,65 a 69 anos,Feminino
+2020-03-04,3,65 a 69 anos,Masculino
+2020-03-04,3,70 a 74 anos,Feminino
+2020-03-04,4,70 a 74 anos,Masculino
+2020-03-04,1,75 a 79 anos,Masculino
+2020-03-04,10,Indefinido,Masculino
+2020-03-04,6,80 ou mais,Feminino
+2020-03-04,11,Indefinido,Feminino
+2020-03-04,1,00 a 04 anos,Masculino
+2020-03-04,3,80 ou mais,Masculino
+2020-03-04,1,05 a 09 anos,Feminino
+2020-03-05,1,10 a 14 anos,Masculino
+2020-03-05,2,15 a 19 anos,Masculino
+2020-03-05,4,20 a 24 anos,Feminino
+2020-03-05,2,20 a 24 anos,Masculino
+2020-03-05,2,25 a 29 anos,Masculino
+2020-03-05,8,25 a 29 anos,Feminino
+2020-03-05,12,30 a 34 anos,Feminino
+2020-03-05,14,30 a 34 anos,Masculino
+2020-03-05,11,35 a 39 anos,Feminino
+2020-03-05,14,35 a 39 anos,Masculino
+2020-03-05,4,40 a 44 anos,Masculino
+2020-03-05,8,40 a 44 anos,Feminino
+2020-03-05,15,45 a 49 anos,Feminino
+2020-03-05,10,45 a 49 anos,Masculino
+2020-03-05,8,50 a 54 anos,Masculino
+2020-03-05,9,50 a 54 anos,Feminino
+2020-03-05,6,55 a 59 anos,Feminino
+2020-03-05,8,55 a 59 anos,Masculino
+2020-03-05,8,60 a 64 anos,Feminino
+2020-03-05,2,65 a 69 anos,Feminino
+2020-03-05,3,65 a 69 anos,Masculino
+2020-03-05,3,70 a 74 anos,Feminino
+2020-03-05,4,70 a 74 anos,Masculino
+2020-03-05,1,75 a 79 anos,Masculino
+2020-03-05,10,Indefinido,Masculino
+2020-03-05,6,80 ou mais,Feminino
+2020-03-05,11,Indefinido,Feminino
+2020-03-05,1,00 a 04 anos,Masculino
+2020-03-05,3,80 ou mais,Masculino
+2020-03-05,1,05 a 09 anos,Feminino
+2020-03-06,1,10 a 14 anos,Masculino
+2020-03-06,2,15 a 19 anos,Masculino
+2020-03-06,4,20 a 24 anos,Feminino
+2020-03-06,2,20 a 24 anos,Masculino
+2020-03-06,2,25 a 29 anos,Masculino
+2020-03-06,9,25 a 29 anos,Feminino
+2020-03-06,12,30 a 34 anos,Feminino
+2020-03-06,14,30 a 34 anos,Masculino
+2020-03-06,12,35 a 39 anos,Feminino
+2020-03-06,15,35 a 39 anos,Masculino
+2020-03-06,4,40 a 44 anos,Masculino
+2020-03-06,8,40 a 44 anos,Feminino
+2020-03-06,15,45 a 49 anos,Feminino
+2020-03-06,11,45 a 49 anos,Masculino
+2020-03-06,8,50 a 54 anos,Masculino
+2020-03-06,9,50 a 54 anos,Feminino
+2020-03-06,6,55 a 59 anos,Feminino
+2020-03-06,8,55 a 59 anos,Masculino
+2020-03-06,8,60 a 64 anos,Feminino
+2020-03-06,2,65 a 69 anos,Feminino
+2020-03-06,3,65 a 69 anos,Masculino
+2020-03-06,3,70 a 74 anos,Feminino
+2020-03-06,4,70 a 74 anos,Masculino
+2020-03-06,1,75 a 79 anos,Masculino
+2020-03-06,10,Indefinido,Masculino
+2020-03-06,6,80 ou mais,Feminino
+2020-03-06,11,Indefinido,Feminino
+2020-03-06,1,00 a 04 anos,Masculino
+2020-03-06,3,80 ou mais,Masculino
+2020-03-06,1,05 a 09 anos,Feminino
+2020-03-07,1,10 a 14 anos,Masculino
+2020-03-07,2,15 a 19 anos,Masculino
+2020-03-07,1,15 a 19 anos,Feminino
+2020-03-07,4,20 a 24 anos,Feminino
+2020-03-07,2,20 a 24 anos,Masculino
+2020-03-07,9,25 a 29 anos,Feminino
+2020-03-07,2,25 a 29 anos,Masculino
+2020-03-07,14,30 a 34 anos,Masculino
+2020-03-07,13,30 a 34 anos,Feminino
+2020-03-07,12,35 a 39 anos,Feminino
+2020-03-07,15,35 a 39 anos,Masculino
+2020-03-07,4,40 a 44 anos,Masculino
+2020-03-07,9,40 a 44 anos,Feminino
+2020-03-07,16,45 a 49 anos,Feminino
+2020-03-07,11,45 a 49 anos,Masculino
+2020-03-07,8,50 a 54 anos,Masculino
+2020-03-07,9,50 a 54 anos,Feminino
+2020-03-07,10,55 a 59 anos,Masculino
+2020-03-07,6,55 a 59 anos,Feminino
+2020-03-07,8,60 a 64 anos,Feminino
+2020-03-07,2,65 a 69 anos,Feminino
+2020-03-07,3,65 a 69 anos,Masculino
+2020-03-07,3,70 a 74 anos,Feminino
+2020-03-07,5,70 a 74 anos,Masculino
+2020-03-07,1,75 a 79 anos,Masculino
+2020-03-07,10,Indefinido,Masculino
+2020-03-07,6,80 ou mais,Feminino
+2020-03-07,11,Indefinido,Feminino
+2020-03-07,1,00 a 04 anos,Masculino
+2020-03-07,3,80 ou mais,Masculino
+2020-03-07,1,05 a 09 anos,Feminino
+2020-03-08,1,10 a 14 anos,Masculino
+2020-03-08,2,15 a 19 anos,Masculino
+2020-03-08,1,15 a 19 anos,Feminino
+2020-03-08,5,20 a 24 anos,Feminino
+2020-03-08,2,20 a 24 anos,Masculino
+2020-03-08,9,25 a 29 anos,Feminino
+2020-03-08,3,25 a 29 anos,Masculino
+2020-03-08,15,30 a 34 anos,Masculino
+2020-03-08,13,30 a 34 anos,Feminino
+2020-03-08,13,35 a 39 anos,Feminino
+2020-03-08,16,35 a 39 anos,Masculino
+2020-03-08,4,40 a 44 anos,Masculino
+2020-03-08,10,40 a 44 anos,Feminino
+2020-03-08,17,45 a 49 anos,Feminino
+2020-03-08,11,45 a 49 anos,Masculino
+2020-03-08,9,50 a 54 anos,Masculino
+2020-03-08,10,50 a 54 anos,Feminino
+2020-03-08,10,55 a 59 anos,Masculino
+2020-03-08,6,55 a 59 anos,Feminino
+2020-03-08,8,60 a 64 anos,Feminino
+2020-03-08,2,65 a 69 anos,Feminino
+2020-03-08,3,65 a 69 anos,Masculino
+2020-03-08,3,70 a 74 anos,Feminino
+2020-03-08,6,70 a 74 anos,Masculino
+2020-03-08,1,75 a 79 anos,Masculino
+2020-03-08,10,Indefinido,Masculino
+2020-03-08,6,80 ou mais,Feminino
+2020-03-08,11,Indefinido,Feminino
+2020-03-08,2,00 a 04 anos,Masculino
+2020-03-08,3,80 ou mais,Masculino
+2020-03-08,1,05 a 09 anos,Feminino
+2020-03-09,1,10 a 14 anos,Masculino
+2020-03-09,2,15 a 19 anos,Masculino
+2020-03-09,2,15 a 19 anos,Feminino
+2020-03-09,5,20 a 24 anos,Feminino
+2020-03-09,2,20 a 24 anos,Masculino
+2020-03-09,10,25 a 29 anos,Feminino
+2020-03-09,4,25 a 29 anos,Masculino
+2020-03-09,15,30 a 34 anos,Masculino
+2020-03-09,13,30 a 34 anos,Feminino
+2020-03-09,13,35 a 39 anos,Feminino
+2020-03-09,18,35 a 39 anos,Masculino
+2020-03-09,5,40 a 44 anos,Masculino
+2020-03-09,11,40 a 44 anos,Feminino
+2020-03-09,17,45 a 49 anos,Feminino
+2020-03-09,11,45 a 49 anos,Masculino
+2020-03-09,9,50 a 54 anos,Masculino
+2020-03-09,10,50 a 54 anos,Feminino
+2020-03-09,10,55 a 59 anos,Masculino
+2020-03-09,7,55 a 59 anos,Feminino
+2020-03-09,8,60 a 64 anos,Feminino
+2020-03-09,3,65 a 69 anos,Feminino
+2020-03-09,3,65 a 69 anos,Masculino
+2020-03-09,3,70 a 74 anos,Feminino
+2020-03-09,8,70 a 74 anos,Masculino
+2020-03-09,2,75 a 79 anos,Masculino
+2020-03-09,10,Indefinido,Masculino
+2020-03-09,6,80 ou mais,Feminino
+2020-03-09,11,Indefinido,Feminino
+2020-03-09,2,00 a 04 anos,Masculino
+2020-03-09,3,80 ou mais,Masculino
+2020-03-09,1,05 a 09 anos,Feminino
+2020-03-10,1,10 a 14 anos,Masculino
+2020-03-10,2,15 a 19 anos,Masculino
+2020-03-10,2,15 a 19 anos,Feminino
+2020-03-10,2,20 a 24 anos,Masculino
+2020-03-10,8,20 a 24 anos,Feminino
+2020-03-10,10,25 a 29 anos,Feminino
+2020-03-10,5,25 a 29 anos,Masculino
+2020-03-10,1,30 a 34 anos,Indefinido
+2020-03-10,13,30 a 34 anos,Feminino
+2020-03-10,18,30 a 34 anos,Masculino
+2020-03-10,20,35 a 39 anos,Masculino
+2020-03-10,13,35 a 39 anos,Feminino
+2020-03-10,12,40 a 44 anos,Feminino
+2020-03-10,7,40 a 44 anos,Masculino
+2020-03-10,13,45 a 49 anos,Masculino
+2020-03-10,18,45 a 49 anos,Feminino
+2020-03-10,11,50 a 54 anos,Masculino
+2020-03-10,10,50 a 54 anos,Feminino
+2020-03-10,7,55 a 59 anos,Feminino
+2020-03-10,10,55 a 59 anos,Masculino
+2020-03-10,8,60 a 64 anos,Feminino
+2020-03-10,1,60 a 64 anos,Masculino
+2020-03-10,4,65 a 69 anos,Feminino
+2020-03-10,3,65 a 69 anos,Masculino
+2020-03-10,4,70 a 74 anos,Feminino
+2020-03-10,8,70 a 74 anos,Masculino
+2020-03-10,4,75 a 79 anos,Masculino
+2020-03-10,2,00 a 04 anos,Masculino
+2020-03-10,11,Indefinido,Feminino
+2020-03-10,9,80 ou mais,Feminino
+2020-03-10,3,80 ou mais,Masculino
+2020-03-10,10,Indefinido,Masculino
+2020-03-10,2,05 a 09 anos,Feminino
+2020-03-11,1,10 a 14 anos,Masculino
+2020-03-11,2,15 a 19 anos,Masculino
+2020-03-11,2,15 a 19 anos,Feminino
+2020-03-11,2,20 a 24 anos,Masculino
+2020-03-11,10,20 a 24 anos,Feminino
+2020-03-11,1,20 a 24 anos,Indefinido
+2020-03-11,5,25 a 29 anos,Masculino
+2020-03-11,10,25 a 29 anos,Feminino
+2020-03-11,1,30 a 34 anos,Indefinido
+2020-03-11,16,30 a 34 anos,Feminino
+2020-03-11,19,30 a 34 anos,Masculino
+2020-03-11,21,35 a 39 anos,Masculino
+2020-03-11,14,35 a 39 anos,Feminino
+2020-03-11,15,40 a 44 anos,Feminino
+2020-03-11,7,40 a 44 anos,Masculino
+2020-03-11,13,45 a 49 anos,Masculino
+2020-03-11,19,45 a 49 anos,Feminino
+2020-03-11,12,50 a 54 anos,Masculino
+2020-03-11,10,50 a 54 anos,Feminino
+2020-03-11,8,55 a 59 anos,Feminino
+2020-03-11,10,55 a 59 anos,Masculino
+2020-03-11,8,60 a 64 anos,Feminino
+2020-03-11,1,60 a 64 anos,Masculino
+2020-03-11,6,65 a 69 anos,Feminino
+2020-03-11,4,65 a 69 anos,Masculino
+2020-03-11,4,70 a 74 anos,Feminino
+2020-03-11,9,70 a 74 anos,Masculino
+2020-03-11,5,75 a 79 anos,Masculino
+2020-03-11,2,00 a 04 anos,Masculino
+2020-03-11,11,Indefinido,Feminino
+2020-03-11,10,80 ou mais,Feminino
+2020-03-11,4,80 ou mais,Masculino
+2020-03-11,10,Indefinido,Masculino
+2020-03-11,2,05 a 09 anos,Feminino
+2020-03-11,1,00 a 04 anos,Feminino
+2020-03-12,2,10 a 14 anos,Masculino
+2020-03-12,2,15 a 19 anos,Masculino
+2020-03-12,2,15 a 19 anos,Feminino
+2020-03-12,4,20 a 24 anos,Masculino
+2020-03-12,12,20 a 24 anos,Feminino
+2020-03-12,1,20 a 24 anos,Indefinido
+2020-03-12,7,25 a 29 anos,Masculino
+2020-03-12,11,25 a 29 anos,Feminino
+2020-03-12,1,30 a 34 anos,Indefinido
+2020-03-12,19,30 a 34 anos,Feminino
+2020-03-12,19,30 a 34 anos,Masculino
+2020-03-12,22,35 a 39 anos,Masculino
+2020-03-12,15,35 a 39 anos,Feminino
+2020-03-12,18,40 a 44 anos,Feminino
+2020-03-12,10,40 a 44 anos,Masculino
+2020-03-12,14,45 a 49 anos,Masculino
+2020-03-12,21,45 a 49 anos,Feminino
+2020-03-12,15,50 a 54 anos,Masculino
+2020-03-12,14,50 a 54 anos,Feminino
+2020-03-12,11,55 a 59 anos,Feminino
+2020-03-12,12,55 a 59 anos,Masculino
+2020-03-12,8,60 a 64 anos,Feminino
+2020-03-12,1,60 a 64 anos,Masculino
+2020-03-12,7,65 a 69 anos,Feminino
+2020-03-12,4,65 a 69 anos,Masculino
+2020-03-12,5,70 a 74 anos,Feminino
+2020-03-12,10,70 a 74 anos,Masculino
+2020-03-12,5,75 a 79 anos,Masculino
+2020-03-12,2,00 a 04 anos,Masculino
+2020-03-12,11,Indefinido,Feminino
+2020-03-12,11,80 ou mais,Feminino
+2020-03-12,5,80 ou mais,Masculino
+2020-03-12,10,Indefinido,Masculino
+2020-03-12,2,05 a 09 anos,Feminino
+2020-03-12,1,00 a 04 anos,Feminino
+2020-03-13,2,10 a 14 anos,Masculino
+2020-03-13,2,15 a 19 anos,Masculino
+2020-03-13,3,15 a 19 anos,Feminino
+2020-03-13,8,20 a 24 anos,Masculino
+2020-03-13,14,20 a 24 anos,Feminino
+2020-03-13,1,20 a 24 anos,Indefinido
+2020-03-13,12,25 a 29 anos,Feminino
+2020-03-13,8,25 a 29 anos,Masculino
+2020-03-13,1,30 a 34 anos,Indefinido
+2020-03-13,22,30 a 34 anos,Masculino
+2020-03-13,21,30 a 34 anos,Feminino
+2020-03-13,1,35 a 39 anos,Indefinido
+2020-03-13,20,35 a 39 anos,Feminino
+2020-03-13,28,35 a 39 anos,Masculino
+2020-03-13,19,40 a 44 anos,Feminino
+2020-03-13,11,40 a 44 anos,Masculino
+2020-03-13,24,45 a 49 anos,Feminino
+2020-03-13,16,45 a 49 anos,Masculino
+2020-03-13,18,50 a 54 anos,Masculino
+2020-03-13,17,50 a 54 anos,Feminino
+2020-03-13,13,55 a 59 anos,Feminino
+2020-03-13,17,55 a 59 anos,Masculino
+2020-03-13,4,60 a 64 anos,Masculino
+2020-03-13,9,60 a 64 anos,Feminino
+2020-03-13,5,65 a 69 anos,Masculino
+2020-03-13,7,65 a 69 anos,Feminino
+2020-03-13,6,70 a 74 anos,Feminino
+2020-03-13,11,70 a 74 anos,Masculino
+2020-03-13,5,75 a 79 anos,Masculino
+2020-03-13,1,75 a 79 anos,Feminino
+2020-03-13,5,80 ou mais,Masculino
+2020-03-13,10,Indefinido,Masculino
+2020-03-13,12,80 ou mais,Feminino
+2020-03-13,2,05 a 09 anos,Feminino
+2020-03-13,2,00 a 04 anos,Masculino
+2020-03-13,1,00 a 04 anos,Feminino
+2020-03-13,11,Indefinido,Feminino
+2020-03-14,2,10 a 14 anos,Masculino
+2020-03-14,2,15 a 19 anos,Masculino
+2020-03-14,4,15 a 19 anos,Feminino
+2020-03-14,8,20 a 24 anos,Masculino
+2020-03-14,14,20 a 24 anos,Feminino
+2020-03-14,1,20 a 24 anos,Indefinido
+2020-03-14,18,25 a 29 anos,Feminino
+2020-03-14,10,25 a 29 anos,Masculino
+2020-03-14,1,30 a 34 anos,Indefinido
+2020-03-14,26,30 a 34 anos,Masculino
+2020-03-14,23,30 a 34 anos,Feminino
+2020-03-14,1,35 a 39 anos,Indefinido
+2020-03-14,23,35 a 39 anos,Feminino
+2020-03-14,33,35 a 39 anos,Masculino
+2020-03-14,21,40 a 44 anos,Feminino
+2020-03-14,15,40 a 44 anos,Masculino
+2020-03-14,25,45 a 49 anos,Feminino
+2020-03-14,19,45 a 49 anos,Masculino
+2020-03-14,21,50 a 54 anos,Masculino
+2020-03-14,17,50 a 54 anos,Feminino
+2020-03-14,14,55 a 59 anos,Feminino
+2020-03-14,19,55 a 59 anos,Masculino
+2020-03-14,4,60 a 64 anos,Masculino
+2020-03-14,11,60 a 64 anos,Feminino
+2020-03-14,6,65 a 69 anos,Masculino
+2020-03-14,7,65 a 69 anos,Feminino
+2020-03-14,9,70 a 74 anos,Feminino
+2020-03-14,13,70 a 74 anos,Masculino
+2020-03-14,5,75 a 79 anos,Masculino
+2020-03-14,2,75 a 79 anos,Feminino
+2020-03-14,6,80 ou mais,Masculino
+2020-03-14,10,Indefinido,Masculino
+2020-03-14,13,80 ou mais,Feminino
+2020-03-14,2,05 a 09 anos,Feminino
+2020-03-14,3,00 a 04 anos,Masculino
+2020-03-14,3,00 a 04 anos,Feminino
+2020-03-14,11,Indefinido,Feminino
+2020-03-15,2,10 a 14 anos,Masculino
+2020-03-15,3,15 a 19 anos,Masculino
+2020-03-15,6,15 a 19 anos,Feminino
+2020-03-15,9,20 a 24 anos,Masculino
+2020-03-15,14,20 a 24 anos,Feminino
+2020-03-15,1,20 a 24 anos,Indefinido
+2020-03-15,24,25 a 29 anos,Feminino
+2020-03-15,12,25 a 29 anos,Masculino
+2020-03-15,1,30 a 34 anos,Indefinido
+2020-03-15,29,30 a 34 anos,Masculino
+2020-03-15,27,30 a 34 anos,Feminino
+2020-03-15,1,35 a 39 anos,Indefinido
+2020-03-15,32,35 a 39 anos,Feminino
+2020-03-15,36,35 a 39 anos,Masculino
+2020-03-15,24,40 a 44 anos,Feminino
+2020-03-15,25,40 a 44 anos,Masculino
+2020-03-15,29,45 a 49 anos,Feminino
+2020-03-15,24,45 a 49 anos,Masculino
+2020-03-15,26,50 a 54 anos,Masculino
+2020-03-15,20,50 a 54 anos,Feminino
+2020-03-15,14,55 a 59 anos,Feminino
+2020-03-15,24,55 a 59 anos,Masculino
+2020-03-15,6,60 a 64 anos,Masculino
+2020-03-15,13,60 a 64 anos,Feminino
+2020-03-15,8,65 a 69 anos,Masculino
+2020-03-15,8,65 a 69 anos,Feminino
+2020-03-15,10,70 a 74 anos,Feminino
+2020-03-15,16,70 a 74 anos,Masculino
+2020-03-15,5,75 a 79 anos,Masculino
+2020-03-15,2,75 a 79 anos,Feminino
+2020-03-15,6,80 ou mais,Masculino
+2020-03-15,10,Indefinido,Masculino
+2020-03-15,13,80 ou mais,Feminino
+2020-03-15,2,05 a 09 anos,Feminino
+2020-03-15,3,00 a 04 anos,Masculino
+2020-03-15,3,00 a 04 anos,Feminino
+2020-03-15,11,Indefinido,Feminino
+2020-03-16,2,10 a 14 anos,Masculino
+2020-03-16,3,15 a 19 anos,Masculino
+2020-03-16,7,15 a 19 anos,Feminino
+2020-03-16,13,20 a 24 anos,Masculino
+2020-03-16,16,20 a 24 anos,Feminino
+2020-03-16,1,20 a 24 anos,Indefinido
+2020-03-16,32,25 a 29 anos,Feminino
+2020-03-16,14,25 a 29 anos,Masculino
+2020-03-16,1,30 a 34 anos,Indefinido
+2020-03-16,36,30 a 34 anos,Masculino
+2020-03-16,38,30 a 34 anos,Feminino
+2020-03-16,1,35 a 39 anos,Indefinido
+2020-03-16,40,35 a 39 anos,Feminino
+2020-03-16,47,35 a 39 anos,Masculino
+2020-03-16,34,40 a 44 anos,Feminino
+2020-03-16,31,40 a 44 anos,Masculino
+2020-03-16,32,45 a 49 anos,Feminino
+2020-03-16,30,45 a 49 anos,Masculino
+2020-03-16,28,50 a 54 anos,Masculino
+2020-03-16,23,50 a 54 anos,Feminino
+2020-03-16,18,55 a 59 anos,Feminino
+2020-03-16,28,55 a 59 anos,Masculino
+2020-03-16,9,60 a 64 anos,Masculino
+2020-03-16,16,60 a 64 anos,Feminino
+2020-03-16,11,65 a 69 anos,Masculino
+2020-03-16,9,65 a 69 anos,Feminino
+2020-03-16,13,70 a 74 anos,Feminino
+2020-03-16,16,70 a 74 anos,Masculino
+2020-03-16,5,75 a 79 anos,Masculino
+2020-03-16,2,75 a 79 anos,Feminino
+2020-03-16,7,80 ou mais,Masculino
+2020-03-16,10,Indefinido,Masculino
+2020-03-16,16,80 ou mais,Feminino
+2020-03-16,2,05 a 09 anos,Feminino
+2020-03-16,4,00 a 04 anos,Masculino
+2020-03-16,4,00 a 04 anos,Feminino
+2020-03-16,11,Indefinido,Feminino
+2020-03-17,2,10 a 14 anos,Masculino
+2020-03-17,3,15 a 19 anos,Masculino
+2020-03-17,7,15 a 19 anos,Feminino
+2020-03-17,14,20 a 24 anos,Masculino
+2020-03-17,19,20 a 24 anos,Feminino
+2020-03-17,1,20 a 24 anos,Indefinido
+2020-03-17,36,25 a 29 anos,Feminino
+2020-03-17,19,25 a 29 anos,Masculino
+2020-03-17,1,30 a 34 anos,Indefinido
+2020-03-17,41,30 a 34 anos,Masculino
+2020-03-17,49,30 a 34 anos,Feminino
+2020-03-17,1,35 a 39 anos,Indefinido
+2020-03-17,54,35 a 39 anos,Feminino
+2020-03-17,56,35 a 39 anos,Masculino
+2020-03-17,37,40 a 44 anos,Masculino
+2020-03-17,38,40 a 44 anos,Feminino
+2020-03-17,34,45 a 49 anos,Masculino
+2020-03-17,36,45 a 49 anos,Feminino
+2020-03-17,31,50 a 54 anos,Feminino
+2020-03-17,30,50 a 54 anos,Masculino
+2020-03-17,36,55 a 59 anos,Masculino
+2020-03-17,20,55 a 59 anos,Feminino
+2020-03-17,23,60 a 64 anos,Feminino
+2020-03-17,14,60 a 64 anos,Masculino
+2020-03-17,14,65 a 69 anos,Masculino
+2020-03-17,10,65 a 69 anos,Feminino
+2020-03-17,14,70 a 74 anos,Feminino
+2020-03-17,16,70 a 74 anos,Masculino
+2020-03-17,5,75 a 79 anos,Masculino
+2020-03-17,5,75 a 79 anos,Feminino
+2020-03-17,11,Indefinido,Feminino
+2020-03-17,8,80 ou mais,Masculino
+2020-03-17,10,Indefinido,Masculino
+2020-03-17,18,80 ou mais,Feminino
+2020-03-17,3,05 a 09 anos,Feminino
+2020-03-17,1,05 a 09 anos,Masculino
+2020-03-17,4,00 a 04 anos,Feminino
+2020-03-17,6,00 a 04 anos,Masculino
+2020-03-18,4,10 a 14 anos,Masculino
+2020-03-18,1,10 a 14 anos,Feminino
+2020-03-18,3,15 a 19 anos,Masculino
+2020-03-18,9,15 a 19 anos,Feminino
+2020-03-18,23,20 a 24 anos,Feminino
+2020-03-18,15,20 a 24 anos,Masculino
+2020-03-18,1,20 a 24 anos,Indefinido
+2020-03-18,40,25 a 29 anos,Feminino
+2020-03-18,20,25 a 29 anos,Masculino
+2020-03-18,1,30 a 34 anos,Indefinido
+2020-03-18,49,30 a 34 anos,Masculino
+2020-03-18,57,30 a 34 anos,Feminino
+2020-03-18,67,35 a 39 anos,Masculino
+2020-03-18,61,35 a 39 anos,Feminino
+2020-03-18,1,35 a 39 anos,Indefinido
+2020-03-18,52,40 a 44 anos,Feminino
+2020-03-18,44,40 a 44 anos,Masculino
+2020-03-18,42,45 a 49 anos,Masculino
+2020-03-18,46,45 a 49 anos,Feminino
+2020-03-18,38,50 a 54 anos,Feminino
+2020-03-18,36,50 a 54 anos,Masculino
+2020-03-18,29,55 a 59 anos,Feminino
+2020-03-18,43,55 a 59 anos,Masculino
+2020-03-18,19,60 a 64 anos,Masculino
+2020-03-18,28,60 a 64 anos,Feminino
+2020-03-18,20,65 a 69 anos,Masculino
+2020-03-18,16,65 a 69 anos,Feminino
+2020-03-18,16,70 a 74 anos,Feminino
+2020-03-18,18,70 a 74 anos,Masculino
+2020-03-18,7,75 a 79 anos,Feminino
+2020-03-18,8,75 a 79 anos,Masculino
+2020-03-18,2,05 a 09 anos,Masculino
+2020-03-18,3,05 a 09 anos,Feminino
+2020-03-18,20,80 ou mais,Feminino
+2020-03-18,11,Indefinido,Feminino
+2020-03-18,8,00 a 04 anos,Masculino
+2020-03-18,4,00 a 04 anos,Feminino
+2020-03-18,9,80 ou mais,Masculino
+2020-03-18,11,Indefinido,Masculino
+2020-03-19,4,10 a 14 anos,Masculino
+2020-03-19,1,10 a 14 anos,Feminino
+2020-03-19,4,15 a 19 anos,Masculino
+2020-03-19,9,15 a 19 anos,Feminino
+2020-03-19,26,20 a 24 anos,Feminino
+2020-03-19,16,20 a 24 anos,Masculino
+2020-03-19,1,20 a 24 anos,Indefinido
+2020-03-19,45,25 a 29 anos,Feminino
+2020-03-19,27,25 a 29 anos,Masculino
+2020-03-19,1,30 a 34 anos,Indefinido
+2020-03-19,59,30 a 34 anos,Masculino
+2020-03-19,60,30 a 34 anos,Feminino
+2020-03-19,82,35 a 39 anos,Masculino
+2020-03-19,77,35 a 39 anos,Feminino
+2020-03-19,1,35 a 39 anos,Indefinido
+2020-03-19,63,40 a 44 anos,Feminino
+2020-03-19,48,40 a 44 anos,Masculino
+2020-03-19,51,45 a 49 anos,Masculino
+2020-03-19,52,45 a 49 anos,Feminino
+2020-03-19,42,50 a 54 anos,Feminino
+2020-03-19,46,50 a 54 anos,Masculino
+2020-03-19,30,55 a 59 anos,Feminino
+2020-03-19,47,55 a 59 anos,Masculino
+2020-03-19,27,60 a 64 anos,Masculino
+2020-03-19,34,60 a 64 anos,Feminino
+2020-03-19,21,65 a 69 anos,Masculino
+2020-03-19,20,65 a 69 anos,Feminino
+2020-03-19,20,70 a 74 anos,Feminino
+2020-03-19,22,70 a 74 anos,Masculino
+2020-03-19,8,75 a 79 anos,Feminino
+2020-03-19,8,75 a 79 anos,Masculino
+2020-03-19,3,05 a 09 anos,Masculino
+2020-03-19,4,05 a 09 anos,Feminino
+2020-03-19,23,80 ou mais,Feminino
+2020-03-19,11,Indefinido,Feminino
+2020-03-19,8,00 a 04 anos,Masculino
+2020-03-19,4,00 a 04 anos,Feminino
+2020-03-19,11,80 ou mais,Masculino
+2020-03-19,11,Indefinido,Masculino
+2020-03-20,5,10 a 14 anos,Masculino
+2020-03-20,1,10 a 14 anos,Feminino
+2020-03-20,5,15 a 19 anos,Masculino
+2020-03-20,9,15 a 19 anos,Feminino
+2020-03-20,32,20 a 24 anos,Feminino
+2020-03-20,19,20 a 24 anos,Masculino
+2020-03-20,1,20 a 24 anos,Indefinido
+2020-03-20,59,25 a 29 anos,Feminino
+2020-03-20,34,25 a 29 anos,Masculino
+2020-03-20,1,30 a 34 anos,Indefinido
+2020-03-20,74,30 a 34 anos,Masculino
+2020-03-20,76,30 a 34 anos,Feminino
+2020-03-20,97,35 a 39 anos,Masculino
+2020-03-20,92,35 a 39 anos,Feminino
+2020-03-20,1,35 a 39 anos,Indefinido
+2020-03-20,73,40 a 44 anos,Feminino
+2020-03-20,55,40 a 44 anos,Masculino
+2020-03-20,64,45 a 49 anos,Masculino
+2020-03-20,64,45 a 49 anos,Feminino
+2020-03-20,48,50 a 54 anos,Feminino
+2020-03-20,62,50 a 54 anos,Masculino
+2020-03-20,42,55 a 59 anos,Feminino
+2020-03-20,56,55 a 59 anos,Masculino
+2020-03-20,31,60 a 64 anos,Masculino
+2020-03-20,40,60 a 64 anos,Feminino
+2020-03-20,23,65 a 69 anos,Masculino
+2020-03-20,24,65 a 69 anos,Feminino
+2020-03-20,22,70 a 74 anos,Feminino
+2020-03-20,24,70 a 74 anos,Masculino
+2020-03-20,10,75 a 79 anos,Feminino
+2020-03-20,14,75 a 79 anos,Masculino
+2020-03-20,3,05 a 09 anos,Masculino
+2020-03-20,4,05 a 09 anos,Feminino
+2020-03-20,29,80 ou mais,Feminino
+2020-03-20,11,Indefinido,Feminino
+2020-03-20,9,00 a 04 anos,Masculino
+2020-03-20,6,00 a 04 anos,Feminino
+2020-03-20,16,80 ou mais,Masculino
+2020-03-20,11,Indefinido,Masculino
+2020-03-21,5,10 a 14 anos,Masculino
+2020-03-21,1,10 a 14 anos,Feminino
+2020-03-21,6,15 a 19 anos,Masculino
+2020-03-21,10,15 a 19 anos,Feminino
+2020-03-21,35,20 a 24 anos,Feminino
+2020-03-21,19,20 a 24 anos,Masculino
+2020-03-21,1,20 a 24 anos,Indefinido
+2020-03-21,67,25 a 29 anos,Feminino
+2020-03-21,45,25 a 29 anos,Masculino
+2020-03-21,1,30 a 34 anos,Indefinido
+2020-03-21,83,30 a 34 anos,Masculino
+2020-03-21,88,30 a 34 anos,Feminino
+2020-03-21,106,35 a 39 anos,Masculino
+2020-03-21,106,35 a 39 anos,Feminino
+2020-03-21,1,35 a 39 anos,Indefinido
+2020-03-21,82,40 a 44 anos,Feminino
+2020-03-21,62,40 a 44 anos,Masculino
+2020-03-21,73,45 a 49 anos,Masculino
+2020-03-21,75,45 a 49 anos,Feminino
+2020-03-21,54,50 a 54 anos,Feminino
+2020-03-21,65,50 a 54 anos,Masculino
+2020-03-21,44,55 a 59 anos,Feminino
+2020-03-21,62,55 a 59 anos,Masculino
+2020-03-21,37,60 a 64 anos,Masculino
+2020-03-21,43,60 a 64 anos,Feminino
+2020-03-21,25,65 a 69 anos,Masculino
+2020-03-21,30,65 a 69 anos,Feminino
+2020-03-21,26,70 a 74 anos,Feminino
+2020-03-21,26,70 a 74 anos,Masculino
+2020-03-21,12,75 a 79 anos,Feminino
+2020-03-21,17,75 a 79 anos,Masculino
+2020-03-21,3,05 a 09 anos,Masculino
+2020-03-21,4,05 a 09 anos,Feminino
+2020-03-21,36,80 ou mais,Feminino
+2020-03-21,11,Indefinido,Feminino
+2020-03-21,10,00 a 04 anos,Masculino
+2020-03-21,7,00 a 04 anos,Feminino
+2020-03-21,18,80 ou mais,Masculino
+2020-03-21,13,Indefinido,Masculino
+2020-03-22,5,10 a 14 anos,Masculino
+2020-03-22,1,10 a 14 anos,Feminino
+2020-03-22,6,15 a 19 anos,Masculino
+2020-03-22,11,15 a 19 anos,Feminino
+2020-03-22,37,20 a 24 anos,Feminino
+2020-03-22,21,20 a 24 anos,Masculino
+2020-03-22,1,20 a 24 anos,Indefinido
+2020-03-22,74,25 a 29 anos,Feminino
+2020-03-22,51,25 a 29 anos,Masculino
+2020-03-22,1,30 a 34 anos,Indefinido
+2020-03-22,88,30 a 34 anos,Masculino
+2020-03-22,96,30 a 34 anos,Feminino
+2020-03-22,115,35 a 39 anos,Masculino
+2020-03-22,119,35 a 39 anos,Feminino
+2020-03-22,1,35 a 39 anos,Indefinido
+2020-03-22,91,40 a 44 anos,Feminino
+2020-03-22,68,40 a 44 anos,Masculino
+2020-03-22,77,45 a 49 anos,Masculino
+2020-03-22,83,45 a 49 anos,Feminino
+2020-03-22,63,50 a 54 anos,Feminino
+2020-03-22,69,50 a 54 anos,Masculino
+2020-03-22,50,55 a 59 anos,Feminino
+2020-03-22,67,55 a 59 anos,Masculino
+2020-03-22,40,60 a 64 anos,Masculino
+2020-03-22,48,60 a 64 anos,Feminino
+2020-03-22,28,65 a 69 anos,Masculino
+2020-03-22,32,65 a 69 anos,Feminino
+2020-03-22,28,70 a 74 anos,Feminino
+2020-03-22,31,70 a 74 anos,Masculino
+2020-03-22,13,75 a 79 anos,Feminino
+2020-03-22,20,75 a 79 anos,Masculino
+2020-03-22,3,05 a 09 anos,Masculino
+2020-03-22,4,05 a 09 anos,Feminino
+2020-03-22,36,80 ou mais,Feminino
+2020-03-22,11,Indefinido,Feminino
+2020-03-22,12,00 a 04 anos,Masculino
+2020-03-22,11,00 a 04 anos,Feminino
+2020-03-22,20,80 ou mais,Masculino
+2020-03-22,13,Indefinido,Masculino
+2020-03-23,5,10 a 14 anos,Masculino
+2020-03-23,2,10 a 14 anos,Feminino
+2020-03-23,8,15 a 19 anos,Masculino
+2020-03-23,12,15 a 19 anos,Feminino
+2020-03-23,40,20 a 24 anos,Feminino
+2020-03-23,22,20 a 24 anos,Masculino
+2020-03-23,1,20 a 24 anos,Indefinido
+2020-03-23,80,25 a 29 anos,Feminino
+2020-03-23,53,25 a 29 anos,Masculino
+2020-03-23,1,30 a 34 anos,Indefinido
+2020-03-23,95,30 a 34 anos,Masculino
+2020-03-23,104,30 a 34 anos,Feminino
+2020-03-23,125,35 a 39 anos,Masculino
+2020-03-23,127,35 a 39 anos,Feminino
+2020-03-23,1,35 a 39 anos,Indefinido
+2020-03-23,107,40 a 44 anos,Feminino
+2020-03-23,78,40 a 44 anos,Masculino
+2020-03-23,91,45 a 49 anos,Masculino
+2020-03-23,94,45 a 49 anos,Feminino
+2020-03-23,74,50 a 54 anos,Feminino
+2020-03-23,78,50 a 54 anos,Masculino
+2020-03-23,60,55 a 59 anos,Feminino
+2020-03-23,71,55 a 59 anos,Masculino
+2020-03-23,46,60 a 64 anos,Masculino
+2020-03-23,50,60 a 64 anos,Feminino
+2020-03-23,31,65 a 69 anos,Masculino
+2020-03-23,34,65 a 69 anos,Feminino
+2020-03-23,31,70 a 74 anos,Feminino
+2020-03-23,33,70 a 74 anos,Masculino
+2020-03-23,14,75 a 79 anos,Feminino
+2020-03-23,22,75 a 79 anos,Masculino
+2020-03-23,3,05 a 09 anos,Masculino
+2020-03-23,5,05 a 09 anos,Feminino
+2020-03-23,38,80 ou mais,Feminino
+2020-03-23,11,Indefinido,Feminino
+2020-03-23,13,00 a 04 anos,Masculino
+2020-03-23,12,00 a 04 anos,Feminino
+2020-03-23,21,80 ou mais,Masculino
+2020-03-23,14,Indefinido,Masculino
+2020-03-24,6,10 a 14 anos,Masculino
+2020-03-24,3,10 a 14 anos,Feminino
+2020-03-24,8,15 a 19 anos,Masculino
+2020-03-24,13,15 a 19 anos,Feminino
+2020-03-24,46,20 a 24 anos,Feminino
+2020-03-24,23,20 a 24 anos,Masculino
+2020-03-24,1,20 a 24 anos,Indefinido
+2020-03-24,87,25 a 29 anos,Feminino
+2020-03-24,58,25 a 29 anos,Masculino
+2020-03-24,1,30 a 34 anos,Indefinido
+2020-03-24,104,30 a 34 anos,Masculino
+2020-03-24,116,30 a 34 anos,Feminino
+2020-03-24,133,35 a 39 anos,Masculino
+2020-03-24,141,35 a 39 anos,Feminino
+2020-03-24,1,35 a 39 anos,Indefinido
+2020-03-24,117,40 a 44 anos,Feminino
+2020-03-24,88,40 a 44 anos,Masculino
+2020-03-24,99,45 a 49 anos,Masculino
+2020-03-24,103,45 a 49 anos,Feminino
+2020-03-24,79,50 a 54 anos,Feminino
+2020-03-24,82,50 a 54 anos,Masculino
+2020-03-24,67,55 a 59 anos,Feminino
+2020-03-24,77,55 a 59 anos,Masculino
+2020-03-24,49,60 a 64 anos,Masculino
+2020-03-24,53,60 a 64 anos,Feminino
+2020-03-24,37,65 a 69 anos,Masculino
+2020-03-24,42,65 a 69 anos,Feminino
+2020-03-24,33,70 a 74 anos,Feminino
+2020-03-24,35,70 a 74 anos,Masculino
+2020-03-24,16,75 a 79 anos,Feminino
+2020-03-24,23,75 a 79 anos,Masculino
+2020-03-24,5,05 a 09 anos,Masculino
+2020-03-24,5,05 a 09 anos,Feminino
+2020-03-24,44,80 ou mais,Feminino
+2020-03-24,11,Indefinido,Feminino
+2020-03-24,15,00 a 04 anos,Masculino
+2020-03-24,12,00 a 04 anos,Feminino
+2020-03-24,24,80 ou mais,Masculino
+2020-03-24,15,Indefinido,Masculino
+2020-03-25,6,10 a 14 anos,Masculino
+2020-03-25,3,10 a 14 anos,Feminino
+2020-03-25,9,15 a 19 anos,Masculino
+2020-03-25,14,15 a 19 anos,Feminino
+2020-03-25,48,20 a 24 anos,Feminino
+2020-03-25,27,20 a 24 anos,Masculino
+2020-03-25,1,20 a 24 anos,Indefinido
+2020-03-25,93,25 a 29 anos,Feminino
+2020-03-25,62,25 a 29 anos,Masculino
+2020-03-25,1,30 a 34 anos,Indefinido
+2020-03-25,108,30 a 34 anos,Masculino
+2020-03-25,128,30 a 34 anos,Feminino
+2020-03-25,140,35 a 39 anos,Masculino
+2020-03-25,151,35 a 39 anos,Feminino
+2020-03-25,1,35 a 39 anos,Indefinido
+2020-03-25,128,40 a 44 anos,Feminino
+2020-03-25,97,40 a 44 anos,Masculino
+2020-03-25,110,45 a 49 anos,Masculino
+2020-03-25,114,45 a 49 anos,Feminino
+2020-03-25,83,50 a 54 anos,Feminino
+2020-03-25,89,50 a 54 anos,Masculino
+2020-03-25,71,55 a 59 anos,Feminino
+2020-03-25,84,55 a 59 anos,Masculino
+2020-03-25,55,60 a 64 anos,Masculino
+2020-03-25,63,60 a 64 anos,Feminino
+2020-03-25,42,65 a 69 anos,Masculino
+2020-03-25,49,65 a 69 anos,Feminino
+2020-03-25,35,70 a 74 anos,Feminino
+2020-03-25,44,70 a 74 anos,Masculino
+2020-03-25,18,75 a 79 anos,Feminino
+2020-03-25,25,75 a 79 anos,Masculino
+2020-03-25,6,05 a 09 anos,Masculino
+2020-03-25,5,05 a 09 anos,Feminino
+2020-03-25,49,80 ou mais,Feminino
+2020-03-25,11,Indefinido,Feminino
+2020-03-25,16,00 a 04 anos,Masculino
+2020-03-25,13,00 a 04 anos,Feminino
+2020-03-25,28,80 ou mais,Masculino
+2020-03-25,16,Indefinido,Masculino
+2020-03-26,6,10 a 14 anos,Masculino
+2020-03-26,3,10 a 14 anos,Feminino
+2020-03-26,10,15 a 19 anos,Masculino
+2020-03-26,16,15 a 19 anos,Feminino
+2020-03-26,49,20 a 24 anos,Feminino
+2020-03-26,29,20 a 24 anos,Masculino
+2020-03-26,1,20 a 24 anos,Indefinido
+2020-03-26,97,25 a 29 anos,Feminino
+2020-03-26,66,25 a 29 anos,Masculino
+2020-03-26,1,30 a 34 anos,Indefinido
+2020-03-26,114,30 a 34 anos,Masculino
+2020-03-26,141,30 a 34 anos,Feminino
+2020-03-26,144,35 a 39 anos,Masculino
+2020-03-26,164,35 a 39 anos,Feminino
+2020-03-26,1,35 a 39 anos,Indefinido
+2020-03-26,138,40 a 44 anos,Feminino
+2020-03-26,101,40 a 44 anos,Masculino
+2020-03-26,111,45 a 49 anos,Masculino
+2020-03-26,126,45 a 49 anos,Feminino
+2020-03-26,92,50 a 54 anos,Feminino
+2020-03-26,95,50 a 54 anos,Masculino
+2020-03-26,73,55 a 59 anos,Feminino
+2020-03-26,89,55 a 59 anos,Masculino
+2020-03-26,59,60 a 64 anos,Masculino
+2020-03-26,69,60 a 64 anos,Feminino
+2020-03-26,45,65 a 69 anos,Masculino
+2020-03-26,60,65 a 69 anos,Feminino
+2020-03-26,38,70 a 74 anos,Feminino
+2020-03-26,48,70 a 74 anos,Masculino
+2020-03-26,21,75 a 79 anos,Feminino
+2020-03-26,27,75 a 79 anos,Masculino
+2020-03-26,7,05 a 09 anos,Masculino
+2020-03-26,5,05 a 09 anos,Feminino
+2020-03-26,52,80 ou mais,Feminino
+2020-03-26,11,Indefinido,Feminino
+2020-03-26,17,00 a 04 anos,Masculino
+2020-03-26,15,00 a 04 anos,Feminino
+2020-03-26,32,80 ou mais,Masculino
+2020-03-26,17,Indefinido,Masculino
+2020-03-27,6,10 a 14 anos,Masculino
+2020-03-27,3,10 a 14 anos,Feminino
+2020-03-27,10,15 a 19 anos,Masculino
+2020-03-27,17,15 a 19 anos,Feminino
+2020-03-27,54,20 a 24 anos,Feminino
+2020-03-27,32,20 a 24 anos,Masculino
+2020-03-27,1,20 a 24 anos,Indefinido
+2020-03-27,103,25 a 29 anos,Feminino
+2020-03-27,70,25 a 29 anos,Masculino
+2020-03-27,1,30 a 34 anos,Indefinido
+2020-03-27,122,30 a 34 anos,Masculino
+2020-03-27,145,30 a 34 anos,Feminino
+2020-03-27,147,35 a 39 anos,Masculino
+2020-03-27,174,35 a 39 anos,Feminino
+2020-03-27,1,35 a 39 anos,Indefinido
+2020-03-27,154,40 a 44 anos,Feminino
+2020-03-27,104,40 a 44 anos,Masculino
+2020-03-27,114,45 a 49 anos,Masculino
+2020-03-27,132,45 a 49 anos,Feminino
+2020-03-27,95,50 a 54 anos,Feminino
+2020-03-27,104,50 a 54 anos,Masculino
+2020-03-27,78,55 a 59 anos,Feminino
+2020-03-27,94,55 a 59 anos,Masculino
+2020-03-27,62,60 a 64 anos,Masculino
+2020-03-27,73,60 a 64 anos,Feminino
+2020-03-27,50,65 a 69 anos,Masculino
+2020-03-27,65,65 a 69 anos,Feminino
+2020-03-27,43,70 a 74 anos,Feminino
+2020-03-27,52,70 a 74 anos,Masculino
+2020-03-27,25,75 a 79 anos,Feminino
+2020-03-27,28,75 a 79 anos,Masculino
+2020-03-27,7,05 a 09 anos,Masculino
+2020-03-27,5,05 a 09 anos,Feminino
+2020-03-27,55,80 ou mais,Feminino
+2020-03-27,11,Indefinido,Feminino
+2020-03-27,19,00 a 04 anos,Masculino
+2020-03-27,19,00 a 04 anos,Feminino
+2020-03-27,37,80 ou mais,Masculino
+2020-03-27,17,Indefinido,Masculino
+2020-03-28,6,10 a 14 anos,Masculino
+2020-03-28,3,10 a 14 anos,Feminino
+2020-03-28,11,15 a 19 anos,Masculino
+2020-03-28,17,15 a 19 anos,Feminino
+2020-03-28,55,20 a 24 anos,Feminino
+2020-03-28,34,20 a 24 anos,Masculino
+2020-03-28,1,20 a 24 anos,Indefinido
+2020-03-28,108,25 a 29 anos,Feminino
+2020-03-28,77,25 a 29 anos,Masculino
+2020-03-28,1,30 a 34 anos,Indefinido
+2020-03-28,130,30 a 34 anos,Masculino
+2020-03-28,151,30 a 34 anos,Feminino
+2020-03-28,153,35 a 39 anos,Masculino
+2020-03-28,187,35 a 39 anos,Feminino
+2020-03-28,1,35 a 39 anos,Indefinido
+2020-03-28,161,40 a 44 anos,Feminino
+2020-03-28,108,40 a 44 anos,Masculino
+2020-03-28,121,45 a 49 anos,Masculino
+2020-03-28,138,45 a 49 anos,Feminino
+2020-03-28,101,50 a 54 anos,Feminino
+2020-03-28,108,50 a 54 anos,Masculino
+2020-03-28,82,55 a 59 anos,Feminino
+2020-03-28,97,55 a 59 anos,Masculino
+2020-03-28,66,60 a 64 anos,Masculino
+2020-03-28,75,60 a 64 anos,Feminino
+2020-03-28,53,65 a 69 anos,Masculino
+2020-03-28,68,65 a 69 anos,Feminino
+2020-03-28,45,70 a 74 anos,Feminino
+2020-03-28,57,70 a 74 anos,Masculino
+2020-03-28,26,75 a 79 anos,Feminino
+2020-03-28,31,75 a 79 anos,Masculino
+2020-03-28,7,05 a 09 anos,Masculino
+2020-03-28,6,05 a 09 anos,Feminino
+2020-03-28,57,80 ou mais,Feminino
+2020-03-28,11,Indefinido,Feminino
+2020-03-28,19,00 a 04 anos,Masculino
+2020-03-28,19,00 a 04 anos,Feminino
+2020-03-28,41,80 ou mais,Masculino
+2020-03-28,17,Indefinido,Masculino
+2020-03-29,8,10 a 14 anos,Masculino
+2020-03-29,3,10 a 14 anos,Feminino
+2020-03-29,12,15 a 19 anos,Masculino
+2020-03-29,17,15 a 19 anos,Feminino
+2020-03-29,59,20 a 24 anos,Feminino
+2020-03-29,35,20 a 24 anos,Masculino
+2020-03-29,1,20 a 24 anos,Indefinido
+2020-03-29,118,25 a 29 anos,Feminino
+2020-03-29,81,25 a 29 anos,Masculino
+2020-03-29,1,30 a 34 anos,Indefinido
+2020-03-29,138,30 a 34 anos,Masculino
+2020-03-29,153,30 a 34 anos,Feminino
+2020-03-29,157,35 a 39 anos,Masculino
+2020-03-29,195,35 a 39 anos,Feminino
+2020-03-29,1,35 a 39 anos,Indefinido
+2020-03-29,171,40 a 44 anos,Feminino
+2020-03-29,111,40 a 44 anos,Masculino
+2020-03-29,130,45 a 49 anos,Masculino
+2020-03-29,146,45 a 49 anos,Feminino
+2020-03-29,106,50 a 54 anos,Feminino
+2020-03-29,111,50 a 54 anos,Masculino
+2020-03-29,86,55 a 59 anos,Feminino
+2020-03-29,101,55 a 59 anos,Masculino
+2020-03-29,68,60 a 64 anos,Masculino
+2020-03-29,79,60 a 64 anos,Feminino
+2020-03-29,55,65 a 69 anos,Masculino
+2020-03-29,70,65 a 69 anos,Feminino
+2020-03-29,46,70 a 74 anos,Feminino
+2020-03-29,59,70 a 74 anos,Masculino
+2020-03-29,28,75 a 79 anos,Feminino
+2020-03-29,33,75 a 79 anos,Masculino
+2020-03-29,7,05 a 09 anos,Masculino
+2020-03-29,6,05 a 09 anos,Feminino
+2020-03-29,58,80 ou mais,Feminino
+2020-03-29,11,Indefinido,Feminino
+2020-03-29,20,00 a 04 anos,Masculino
+2020-03-29,22,00 a 04 anos,Feminino
+2020-03-29,42,80 ou mais,Masculino
+2020-03-29,17,Indefinido,Masculino
+2020-03-30,8,10 a 14 anos,Masculino
+2020-03-30,4,10 a 14 anos,Feminino
+2020-03-30,12,15 a 19 anos,Masculino
+2020-03-30,17,15 a 19 anos,Feminino
+2020-03-30,62,20 a 24 anos,Feminino
+2020-03-30,40,20 a 24 anos,Masculino
+2020-03-30,1,20 a 24 anos,Indefinido
+2020-03-30,126,25 a 29 anos,Feminino
+2020-03-30,85,25 a 29 anos,Masculino
+2020-03-30,1,30 a 34 anos,Indefinido
+2020-03-30,143,30 a 34 anos,Masculino
+2020-03-30,162,30 a 34 anos,Feminino
+2020-03-30,165,35 a 39 anos,Masculino
+2020-03-30,207,35 a 39 anos,Feminino
+2020-03-30,1,35 a 39 anos,Indefinido
+2020-03-30,178,40 a 44 anos,Feminino
+2020-03-30,120,40 a 44 anos,Masculino
+2020-03-30,135,45 a 49 anos,Masculino
+2020-03-30,156,45 a 49 anos,Feminino
+2020-03-30,114,50 a 54 anos,Feminino
+2020-03-30,116,50 a 54 anos,Masculino
+2020-03-30,93,55 a 59 anos,Feminino
+2020-03-30,108,55 a 59 anos,Masculino
+2020-03-30,70,60 a 64 anos,Masculino
+2020-03-30,83,60 a 64 anos,Feminino
+2020-03-30,60,65 a 69 anos,Masculino
+2020-03-30,77,65 a 69 anos,Feminino
+2020-03-30,47,70 a 74 anos,Feminino
+2020-03-30,65,70 a 74 anos,Masculino
+2020-03-30,33,75 a 79 anos,Feminino
+2020-03-30,37,75 a 79 anos,Masculino
+2020-03-30,7,05 a 09 anos,Masculino
+2020-03-30,6,05 a 09 anos,Feminino
+2020-03-30,63,80 ou mais,Feminino
+2020-03-30,11,Indefinido,Feminino
+2020-03-30,20,00 a 04 anos,Masculino
+2020-03-30,25,00 a 04 anos,Feminino
+2020-03-30,44,80 ou mais,Masculino
+2020-03-30,17,Indefinido,Masculino
+2020-03-31,8,10 a 14 anos,Masculino
+2020-03-31,4,10 a 14 anos,Feminino
+2020-03-31,13,15 a 19 anos,Masculino
+2020-03-31,18,15 a 19 anos,Feminino
+2020-03-31,63,20 a 24 anos,Feminino
+2020-03-31,40,20 a 24 anos,Masculino
+2020-03-31,1,20 a 24 anos,Indefinido
+2020-03-31,131,25 a 29 anos,Feminino
+2020-03-31,87,25 a 29 anos,Masculino
+2020-03-31,1,30 a 34 anos,Indefinido
+2020-03-31,147,30 a 34 anos,Masculino
+2020-03-31,174,30 a 34 anos,Feminino
+2020-03-31,168,35 a 39 anos,Masculino
+2020-03-31,209,35 a 39 anos,Feminino
+2020-03-31,1,35 a 39 anos,Indefinido
+2020-03-31,192,40 a 44 anos,Feminino
+2020-03-31,121,40 a 44 anos,Masculino
+2020-03-31,147,45 a 49 anos,Masculino
+2020-03-31,162,45 a 49 anos,Feminino
+2020-03-31,118,50 a 54 anos,Feminino
+2020-03-31,118,50 a 54 anos,Masculino
+2020-03-31,101,55 a 59 anos,Feminino
+2020-03-31,116,55 a 59 anos,Masculino
+2020-03-31,74,60 a 64 anos,Masculino
+2020-03-31,88,60 a 64 anos,Feminino
+2020-03-31,66,65 a 69 anos,Masculino
+2020-03-31,82,65 a 69 anos,Feminino
+2020-03-31,50,70 a 74 anos,Feminino
+2020-03-31,67,70 a 74 anos,Masculino
+2020-03-31,34,75 a 79 anos,Feminino
+2020-03-31,39,75 a 79 anos,Masculino
+2020-03-31,7,05 a 09 anos,Masculino
+2020-03-31,6,05 a 09 anos,Feminino
+2020-03-31,68,80 ou mais,Feminino
+2020-03-31,11,Indefinido,Feminino
+2020-03-31,23,00 a 04 anos,Masculino
+2020-03-31,26,00 a 04 anos,Feminino
+2020-03-31,48,80 ou mais,Masculino
+2020-03-31,17,Indefinido,Masculino
+2020-04-01,8,10 a 14 anos,Masculino
+2020-04-01,5,10 a 14 anos,Feminino
+2020-04-01,13,15 a 19 anos,Masculino
+2020-04-01,20,15 a 19 anos,Feminino
+2020-04-01,70,20 a 24 anos,Feminino
+2020-04-01,42,20 a 24 anos,Masculino
+2020-04-01,1,20 a 24 anos,Indefinido
+2020-04-01,136,25 a 29 anos,Feminino
+2020-04-01,92,25 a 29 anos,Masculino
+2020-04-01,1,30 a 34 anos,Indefinido
+2020-04-01,162,30 a 34 anos,Masculino
+2020-04-01,187,30 a 34 anos,Feminino
+2020-04-01,182,35 a 39 anos,Masculino
+2020-04-01,223,35 a 39 anos,Feminino
+2020-04-01,1,35 a 39 anos,Indefinido
+2020-04-01,207,40 a 44 anos,Feminino
+2020-04-01,127,40 a 44 anos,Masculino
+2020-04-01,159,45 a 49 anos,Masculino
+2020-04-01,176,45 a 49 anos,Feminino
+2020-04-01,133,50 a 54 anos,Feminino
+2020-04-01,136,50 a 54 anos,Masculino
+2020-04-01,108,55 a 59 anos,Feminino
+2020-04-01,134,55 a 59 anos,Masculino
+2020-04-01,83,60 a 64 anos,Masculino
+2020-04-01,94,60 a 64 anos,Feminino
+2020-04-01,69,65 a 69 anos,Masculino
+2020-04-01,85,65 a 69 anos,Feminino
+2020-04-01,54,70 a 74 anos,Feminino
+2020-04-01,71,70 a 74 anos,Masculino
+2020-04-01,40,75 a 79 anos,Feminino
+2020-04-01,43,75 a 79 anos,Masculino
+2020-04-01,8,05 a 09 anos,Masculino
+2020-04-01,7,05 a 09 anos,Feminino
+2020-04-01,77,80 ou mais,Feminino
+2020-04-01,11,Indefinido,Feminino
+2020-04-01,27,00 a 04 anos,Masculino
+2020-04-01,26,00 a 04 anos,Feminino
+2020-04-01,54,80 ou mais,Masculino
+2020-04-01,18,Indefinido,Masculino
+2020-04-02,9,10 a 14 anos,Masculino
+2020-04-02,6,10 a 14 anos,Feminino
+2020-04-02,14,15 a 19 anos,Masculino
+2020-04-02,20,15 a 19 anos,Feminino
+2020-04-02,74,20 a 24 anos,Feminino
+2020-04-02,45,20 a 24 anos,Masculino
+2020-04-02,1,20 a 24 anos,Indefinido
+2020-04-02,143,25 a 29 anos,Feminino
+2020-04-02,95,25 a 29 anos,Masculino
+2020-04-02,1,30 a 34 anos,Indefinido
+2020-04-02,169,30 a 34 anos,Masculino
+2020-04-02,198,30 a 34 anos,Feminino
+2020-04-02,187,35 a 39 anos,Masculino
+2020-04-02,231,35 a 39 anos,Feminino
+2020-04-02,1,35 a 39 anos,Indefinido
+2020-04-02,222,40 a 44 anos,Feminino
+2020-04-02,130,40 a 44 anos,Masculino
+2020-04-02,163,45 a 49 anos,Masculino
+2020-04-02,183,45 a 49 anos,Feminino
+2020-04-02,143,50 a 54 anos,Feminino
+2020-04-02,142,50 a 54 anos,Masculino
+2020-04-02,113,55 a 59 anos,Feminino
+2020-04-02,139,55 a 59 anos,Masculino
+2020-04-02,88,60 a 64 anos,Masculino
+2020-04-02,102,60 a 64 anos,Feminino
+2020-04-02,75,65 a 69 anos,Masculino
+2020-04-02,90,65 a 69 anos,Feminino
+2020-04-02,61,70 a 74 anos,Feminino
+2020-04-02,80,70 a 74 anos,Masculino
+2020-04-02,42,75 a 79 anos,Feminino
+2020-04-02,46,75 a 79 anos,Masculino
+2020-04-02,9,05 a 09 anos,Masculino
+2020-04-02,7,05 a 09 anos,Feminino
+2020-04-02,79,80 ou mais,Feminino
+2020-04-02,11,Indefinido,Feminino
+2020-04-02,28,00 a 04 anos,Masculino
+2020-04-02,26,00 a 04 anos,Feminino
+2020-04-02,59,80 ou mais,Masculino
+2020-04-02,19,Indefinido,Masculino
+2020-04-03,9,10 a 14 anos,Masculino
+2020-04-03,6,10 a 14 anos,Feminino
+2020-04-03,16,15 a 19 anos,Masculino
+2020-04-03,20,15 a 19 anos,Feminino
+2020-04-03,76,20 a 24 anos,Feminino
+2020-04-03,48,20 a 24 anos,Masculino
+2020-04-03,1,20 a 24 anos,Indefinido
+2020-04-03,147,25 a 29 anos,Feminino
+2020-04-03,104,25 a 29 anos,Masculino
+2020-04-03,1,30 a 34 anos,Indefinido
+2020-04-03,179,30 a 34 anos,Masculino
+2020-04-03,212,30 a 34 anos,Feminino
+2020-04-03,197,35 a 39 anos,Masculino
+2020-04-03,236,35 a 39 anos,Feminino
+2020-04-03,1,35 a 39 anos,Indefinido
+2020-04-03,231,40 a 44 anos,Feminino
+2020-04-03,139,40 a 44 anos,Masculino
+2020-04-03,167,45 a 49 anos,Masculino
+2020-04-03,195,45 a 49 anos,Feminino
+2020-04-03,150,50 a 54 anos,Feminino
+2020-04-03,146,50 a 54 anos,Masculino
+2020-04-03,119,55 a 59 anos,Feminino
+2020-04-03,141,55 a 59 anos,Masculino
+2020-04-03,90,60 a 64 anos,Masculino
+2020-04-03,107,60 a 64 anos,Feminino
+2020-04-03,80,65 a 69 anos,Masculino
+2020-04-03,92,65 a 69 anos,Feminino
+2020-04-03,65,70 a 74 anos,Feminino
+2020-04-03,83,70 a 74 anos,Masculino
+2020-04-03,47,75 a 79 anos,Feminino
+2020-04-03,51,75 a 79 anos,Masculino
+2020-04-03,10,05 a 09 anos,Masculino
+2020-04-03,7,05 a 09 anos,Feminino
+2020-04-03,84,80 ou mais,Feminino
+2020-04-03,11,Indefinido,Feminino
+2020-04-03,28,00 a 04 anos,Masculino
+2020-04-03,28,00 a 04 anos,Feminino
+2020-04-03,63,80 ou mais,Masculino
+2020-04-03,19,Indefinido,Masculino
+2020-04-04,9,10 a 14 anos,Masculino
+2020-04-04,6,10 a 14 anos,Feminino
+2020-04-04,17,15 a 19 anos,Masculino
+2020-04-04,20,15 a 19 anos,Feminino
+2020-04-04,77,20 a 24 anos,Feminino
+2020-04-04,50,20 a 24 anos,Masculino
+2020-04-04,1,20 a 24 anos,Indefinido
+2020-04-04,155,25 a 29 anos,Feminino
+2020-04-04,109,25 a 29 anos,Masculino
+2020-04-04,1,30 a 34 anos,Indefinido
+2020-04-04,186,30 a 34 anos,Masculino
+2020-04-04,221,30 a 34 anos,Feminino
+2020-04-04,207,35 a 39 anos,Masculino
+2020-04-04,242,35 a 39 anos,Feminino
+2020-04-04,1,35 a 39 anos,Indefinido
+2020-04-04,237,40 a 44 anos,Feminino
+2020-04-04,147,40 a 44 anos,Masculino
+2020-04-04,173,45 a 49 anos,Masculino
+2020-04-04,204,45 a 49 anos,Feminino
+2020-04-04,162,50 a 54 anos,Feminino
+2020-04-04,155,50 a 54 anos,Masculino
+2020-04-04,126,55 a 59 anos,Feminino
+2020-04-04,146,55 a 59 anos,Masculino
+2020-04-04,100,60 a 64 anos,Masculino
+2020-04-04,116,60 a 64 anos,Feminino
+2020-04-04,85,65 a 69 anos,Masculino
+2020-04-04,97,65 a 69 anos,Feminino
+2020-04-04,67,70 a 74 anos,Feminino
+2020-04-04,91,70 a 74 anos,Masculino
+2020-04-04,48,75 a 79 anos,Feminino
+2020-04-04,58,75 a 79 anos,Masculino
+2020-04-04,11,05 a 09 anos,Masculino
+2020-04-04,7,05 a 09 anos,Feminino
+2020-04-04,92,80 ou mais,Feminino
+2020-04-04,11,Indefinido,Feminino
+2020-04-04,30,00 a 04 anos,Masculino
+2020-04-04,29,00 a 04 anos,Feminino
+2020-04-04,67,80 ou mais,Masculino
+2020-04-04,19,Indefinido,Masculino
+2020-04-05,10,10 a 14 anos,Masculino
+2020-04-05,6,10 a 14 anos,Feminino
+2020-04-05,22,15 a 19 anos,Masculino
+2020-04-05,20,15 a 19 anos,Feminino
+2020-04-05,84,20 a 24 anos,Feminino
+2020-04-05,55,20 a 24 anos,Masculino
+2020-04-05,1,20 a 24 anos,Indefinido
+2020-04-05,167,25 a 29 anos,Feminino
+2020-04-05,113,25 a 29 anos,Masculino
+2020-04-05,1,30 a 34 anos,Indefinido
+2020-04-05,192,30 a 34 anos,Masculino
+2020-04-05,231,30 a 34 anos,Feminino
+2020-04-05,218,35 a 39 anos,Masculino
+2020-04-05,251,35 a 39 anos,Feminino
+2020-04-05,1,35 a 39 anos,Indefinido
+2020-04-05,255,40 a 44 anos,Feminino
+2020-04-05,154,40 a 44 anos,Masculino
+2020-04-05,178,45 a 49 anos,Masculino
+2020-04-05,214,45 a 49 anos,Feminino
+2020-04-05,169,50 a 54 anos,Feminino
+2020-04-05,164,50 a 54 anos,Masculino
+2020-04-05,133,55 a 59 anos,Feminino
+2020-04-05,149,55 a 59 anos,Masculino
+2020-04-05,113,60 a 64 anos,Masculino
+2020-04-05,123,60 a 64 anos,Feminino
+2020-04-05,91,65 a 69 anos,Masculino
+2020-04-05,103,65 a 69 anos,Feminino
+2020-04-05,68,70 a 74 anos,Feminino
+2020-04-05,97,70 a 74 anos,Masculino
+2020-04-05,51,75 a 79 anos,Feminino
+2020-04-05,62,75 a 79 anos,Masculino
+2020-04-05,12,05 a 09 anos,Masculino
+2020-04-05,8,05 a 09 anos,Feminino
+2020-04-05,99,80 ou mais,Feminino
+2020-04-05,11,Indefinido,Feminino
+2020-04-05,32,00 a 04 anos,Masculino
+2020-04-05,32,00 a 04 anos,Feminino
+2020-04-05,74,80 ou mais,Masculino
+2020-04-05,19,Indefinido,Masculino
+2020-04-06,10,10 a 14 anos,Masculino
+2020-04-06,6,10 a 14 anos,Feminino
+2020-04-06,22,15 a 19 anos,Masculino
+2020-04-06,22,15 a 19 anos,Feminino
+2020-04-06,90,20 a 24 anos,Feminino
+2020-04-06,59,20 a 24 anos,Masculino
+2020-04-06,1,20 a 24 anos,Indefinido
+2020-04-06,173,25 a 29 anos,Feminino
+2020-04-06,120,25 a 29 anos,Masculino
+2020-04-06,1,30 a 34 anos,Indefinido
+2020-04-06,205,30 a 34 anos,Masculino
+2020-04-06,244,30 a 34 anos,Feminino
+2020-04-06,229,35 a 39 anos,Masculino
+2020-04-06,263,35 a 39 anos,Feminino
+2020-04-06,1,35 a 39 anos,Indefinido
+2020-04-06,270,40 a 44 anos,Feminino
+2020-04-06,162,40 a 44 anos,Masculino
+2020-04-06,183,45 a 49 anos,Masculino
+2020-04-06,230,45 a 49 anos,Feminino
+2020-04-06,177,50 a 54 anos,Feminino
+2020-04-06,172,50 a 54 anos,Masculino
+2020-04-06,145,55 a 59 anos,Feminino
+2020-04-06,154,55 a 59 anos,Masculino
+2020-04-06,121,60 a 64 anos,Masculino
+2020-04-06,133,60 a 64 anos,Feminino
+2020-04-06,101,65 a 69 anos,Masculino
+2020-04-06,106,65 a 69 anos,Feminino
+2020-04-06,70,70 a 74 anos,Feminino
+2020-04-06,104,70 a 74 anos,Masculino
+2020-04-06,55,75 a 79 anos,Feminino
+2020-04-06,66,75 a 79 anos,Masculino
+2020-04-06,12,05 a 09 anos,Masculino
+2020-04-06,9,05 a 09 anos,Feminino
+2020-04-06,111,80 ou mais,Feminino
+2020-04-06,11,Indefinido,Feminino
+2020-04-06,34,00 a 04 anos,Masculino
+2020-04-06,33,00 a 04 anos,Feminino
+2020-04-06,81,80 ou mais,Masculino
+2020-04-06,19,Indefinido,Masculino
+2020-04-07,10,10 a 14 anos,Masculino
+2020-04-07,6,10 a 14 anos,Feminino
+2020-04-07,22,15 a 19 anos,Masculino
+2020-04-07,24,15 a 19 anos,Feminino
+2020-04-07,100,20 a 24 anos,Feminino
+2020-04-07,63,20 a 24 anos,Masculino
+2020-04-07,1,20 a 24 anos,Indefinido
+2020-04-07,176,25 a 29 anos,Feminino
+2020-04-07,126,25 a 29 anos,Masculino
+2020-04-07,1,30 a 34 anos,Indefinido
+2020-04-07,212,30 a 34 anos,Masculino
+2020-04-07,262,30 a 34 anos,Feminino
+2020-04-07,239,35 a 39 anos,Masculino
+2020-04-07,278,35 a 39 anos,Feminino
+2020-04-07,1,35 a 39 anos,Indefinido
+2020-04-07,285,40 a 44 anos,Feminino
+2020-04-07,172,40 a 44 anos,Masculino
+2020-04-07,197,45 a 49 anos,Masculino
+2020-04-07,237,45 a 49 anos,Feminino
+2020-04-07,195,50 a 54 anos,Feminino
+2020-04-07,188,50 a 54 anos,Masculino
+2020-04-07,152,55 a 59 anos,Feminino
+2020-04-07,161,55 a 59 anos,Masculino
+2020-04-07,128,60 a 64 anos,Masculino
+2020-04-07,141,60 a 64 anos,Feminino
+2020-04-07,112,65 a 69 anos,Masculino
+2020-04-07,112,65 a 69 anos,Feminino
+2020-04-07,76,70 a 74 anos,Feminino
+2020-04-07,110,70 a 74 anos,Masculino
+2020-04-07,58,75 a 79 anos,Feminino
+2020-04-07,68,75 a 79 anos,Masculino
+2020-04-07,13,05 a 09 anos,Masculino
+2020-04-07,9,05 a 09 anos,Feminino
+2020-04-07,120,80 ou mais,Feminino
+2020-04-07,12,Indefinido,Feminino
+2020-04-07,34,00 a 04 anos,Masculino
+2020-04-07,35,00 a 04 anos,Feminino
+2020-04-07,87,80 ou mais,Masculino
+2020-04-07,19,Indefinido,Masculino
+2020-04-08,11,10 a 14 anos,Masculino
+2020-04-08,6,10 a 14 anos,Feminino
+2020-04-08,23,15 a 19 anos,Masculino
+2020-04-08,27,15 a 19 anos,Feminino
+2020-04-08,110,20 a 24 anos,Feminino
+2020-04-08,69,20 a 24 anos,Masculino
+2020-04-08,1,20 a 24 anos,Indefinido
+2020-04-08,189,25 a 29 anos,Feminino
+2020-04-08,141,25 a 29 anos,Masculino
+2020-04-08,1,30 a 34 anos,Indefinido
+2020-04-08,223,30 a 34 anos,Masculino
+2020-04-08,282,30 a 34 anos,Feminino
+2020-04-08,249,35 a 39 anos,Masculino
+2020-04-08,290,35 a 39 anos,Feminino
+2020-04-08,1,35 a 39 anos,Indefinido
+2020-04-08,294,40 a 44 anos,Feminino
+2020-04-08,183,40 a 44 anos,Masculino
+2020-04-08,214,45 a 49 anos,Masculino
+2020-04-08,252,45 a 49 anos,Feminino
+2020-04-08,208,50 a 54 anos,Feminino
+2020-04-08,202,50 a 54 anos,Masculino
+2020-04-08,165,55 a 59 anos,Feminino
+2020-04-08,167,55 a 59 anos,Masculino
+2020-04-08,138,60 a 64 anos,Masculino
+2020-04-08,145,60 a 64 anos,Feminino
+2020-04-08,117,65 a 69 anos,Masculino
+2020-04-08,116,65 a 69 anos,Feminino
+2020-04-08,86,70 a 74 anos,Feminino
+2020-04-08,116,70 a 74 anos,Masculino
+2020-04-08,66,75 a 79 anos,Feminino
+2020-04-08,76,75 a 79 anos,Masculino
+2020-04-08,13,05 a 09 anos,Masculino
+2020-04-08,9,05 a 09 anos,Feminino
+2020-04-08,127,80 ou mais,Feminino
+2020-04-08,12,Indefinido,Feminino
+2020-04-08,36,00 a 04 anos,Masculino
+2020-04-08,38,00 a 04 anos,Feminino
+2020-04-08,93,80 ou mais,Masculino
+2020-04-08,19,Indefinido,Masculino
+2020-04-09,12,10 a 14 anos,Masculino
+2020-04-09,8,10 a 14 anos,Feminino
+2020-04-09,24,15 a 19 anos,Masculino
+2020-04-09,28,15 a 19 anos,Feminino
+2020-04-09,117,20 a 24 anos,Feminino
+2020-04-09,76,20 a 24 anos,Masculino
+2020-04-09,1,20 a 24 anos,Indefinido
+2020-04-09,199,25 a 29 anos,Feminino
+2020-04-09,149,25 a 29 anos,Masculino
+2020-04-09,1,30 a 34 anos,Indefinido
+2020-04-09,243,30 a 34 anos,Masculino
+2020-04-09,298,30 a 34 anos,Feminino
+2020-04-09,263,35 a 39 anos,Masculino
+2020-04-09,302,35 a 39 anos,Feminino
+2020-04-09,1,35 a 39 anos,Indefinido
+2020-04-09,312,40 a 44 anos,Feminino
+2020-04-09,195,40 a 44 anos,Masculino
+2020-04-09,232,45 a 49 anos,Masculino
+2020-04-09,265,45 a 49 anos,Feminino
+2020-04-09,230,50 a 54 anos,Feminino
+2020-04-09,215,50 a 54 anos,Masculino
+2020-04-09,178,55 a 59 anos,Feminino
+2020-04-09,183,55 a 59 anos,Masculino
+2020-04-09,150,60 a 64 anos,Masculino
+2020-04-09,152,60 a 64 anos,Feminino
+2020-04-09,125,65 a 69 anos,Masculino
+2020-04-09,125,65 a 69 anos,Feminino
+2020-04-09,96,70 a 74 anos,Feminino
+2020-04-09,128,70 a 74 anos,Masculino
+2020-04-09,69,75 a 79 anos,Feminino
+2020-04-09,79,75 a 79 anos,Masculino
+2020-04-09,13,05 a 09 anos,Masculino
+2020-04-09,9,05 a 09 anos,Feminino
+2020-04-09,137,80 ou mais,Feminino
+2020-04-09,12,Indefinido,Feminino
+2020-04-09,38,00 a 04 anos,Masculino
+2020-04-09,39,00 a 04 anos,Feminino
+2020-04-09,96,80 ou mais,Masculino
+2020-04-09,19,Indefinido,Masculino
+2020-04-10,13,10 a 14 anos,Masculino
+2020-04-10,9,10 a 14 anos,Feminino
+2020-04-10,25,15 a 19 anos,Masculino
+2020-04-10,31,15 a 19 anos,Feminino
+2020-04-10,122,20 a 24 anos,Feminino
+2020-04-10,84,20 a 24 anos,Masculino
+2020-04-10,1,20 a 24 anos,Indefinido
+2020-04-10,217,25 a 29 anos,Feminino
+2020-04-10,169,25 a 29 anos,Masculino
+2020-04-10,1,30 a 34 anos,Indefinido
+2020-04-10,261,30 a 34 anos,Masculino
+2020-04-10,326,30 a 34 anos,Feminino
+2020-04-10,293,35 a 39 anos,Masculino
+2020-04-10,328,35 a 39 anos,Feminino
+2020-04-10,1,35 a 39 anos,Indefinido
+2020-04-10,334,40 a 44 anos,Feminino
+2020-04-10,223,40 a 44 anos,Masculino
+2020-04-10,252,45 a 49 anos,Masculino
+2020-04-10,283,45 a 49 anos,Feminino
+2020-04-10,252,50 a 54 anos,Feminino
+2020-04-10,239,50 a 54 anos,Masculino
+2020-04-10,195,55 a 59 anos,Feminino
+2020-04-10,206,55 a 59 anos,Masculino
+2020-04-10,169,60 a 64 anos,Masculino
+2020-04-10,166,60 a 64 anos,Feminino
+2020-04-10,133,65 a 69 anos,Masculino
+2020-04-10,130,65 a 69 anos,Feminino
+2020-04-10,105,70 a 74 anos,Feminino
+2020-04-10,145,70 a 74 anos,Masculino
+2020-04-10,77,75 a 79 anos,Feminino
+2020-04-10,87,75 a 79 anos,Masculino
+2020-04-10,15,05 a 09 anos,Masculino
+2020-04-10,11,05 a 09 anos,Feminino
+2020-04-10,152,80 ou mais,Feminino
+2020-04-10,12,Indefinido,Feminino
+2020-04-10,39,00 a 04 anos,Masculino
+2020-04-10,45,00 a 04 anos,Feminino
+2020-04-10,106,80 ou mais,Masculino
+2020-04-10,19,Indefinido,Masculino
+2020-04-11,14,10 a 14 anos,Masculino
+2020-04-11,9,10 a 14 anos,Feminino
+2020-04-11,26,15 a 19 anos,Masculino
+2020-04-11,36,15 a 19 anos,Feminino
+2020-04-11,128,20 a 24 anos,Feminino
+2020-04-11,95,20 a 24 anos,Masculino
+2020-04-11,1,20 a 24 anos,Indefinido
+2020-04-11,225,25 a 29 anos,Feminino
+2020-04-11,175,25 a 29 anos,Masculino
+2020-04-11,1,30 a 34 anos,Indefinido
+2020-04-11,283,30 a 34 anos,Masculino
+2020-04-11,352,30 a 34 anos,Feminino
+2020-04-11,313,35 a 39 anos,Masculino
+2020-04-11,358,35 a 39 anos,Feminino
+2020-04-11,1,35 a 39 anos,Indefinido
+2020-04-11,357,40 a 44 anos,Feminino
+2020-04-11,238,40 a 44 anos,Masculino
+2020-04-11,260,45 a 49 anos,Masculino
+2020-04-11,296,45 a 49 anos,Feminino
+2020-04-11,269,50 a 54 anos,Feminino
+2020-04-11,256,50 a 54 anos,Masculino
+2020-04-11,209,55 a 59 anos,Feminino
+2020-04-11,218,55 a 59 anos,Masculino
+2020-04-11,183,60 a 64 anos,Masculino
+2020-04-11,183,60 a 64 anos,Feminino
+2020-04-11,151,65 a 69 anos,Masculino
+2020-04-11,147,65 a 69 anos,Feminino
+2020-04-11,112,70 a 74 anos,Feminino
+2020-04-11,153,70 a 74 anos,Masculino
+2020-04-11,83,75 a 79 anos,Feminino
+2020-04-11,91,75 a 79 anos,Masculino
+2020-04-11,16,05 a 09 anos,Masculino
+2020-04-11,12,05 a 09 anos,Feminino
+2020-04-11,165,80 ou mais,Feminino
+2020-04-11,12,Indefinido,Feminino
+2020-04-11,39,00 a 04 anos,Masculino
+2020-04-11,46,00 a 04 anos,Feminino
+2020-04-11,116,80 ou mais,Masculino
+2020-04-11,19,Indefinido,Masculino
+2020-04-12,14,10 a 14 anos,Masculino
+2020-04-12,10,10 a 14 anos,Feminino
+2020-04-12,29,15 a 19 anos,Masculino
+2020-04-12,37,15 a 19 anos,Feminino
+2020-04-12,139,20 a 24 anos,Feminino
+2020-04-12,104,20 a 24 anos,Masculino
+2020-04-12,1,20 a 24 anos,Indefinido
+2020-04-12,245,25 a 29 anos,Feminino
+2020-04-12,183,25 a 29 anos,Masculino
+2020-04-12,1,30 a 34 anos,Indefinido
+2020-04-12,305,30 a 34 anos,Masculino
+2020-04-12,373,30 a 34 anos,Feminino
+2020-04-12,329,35 a 39 anos,Masculino
+2020-04-12,379,35 a 39 anos,Feminino
+2020-04-12,1,35 a 39 anos,Indefinido
+2020-04-12,373,40 a 44 anos,Feminino
+2020-04-12,258,40 a 44 anos,Masculino
+2020-04-12,273,45 a 49 anos,Masculino
+2020-04-12,314,45 a 49 anos,Feminino
+2020-04-12,282,50 a 54 anos,Feminino
+2020-04-12,275,50 a 54 anos,Masculino
+2020-04-12,223,55 a 59 anos,Feminino
+2020-04-12,242,55 a 59 anos,Masculino
+2020-04-12,207,60 a 64 anos,Masculino
+2020-04-12,200,60 a 64 anos,Feminino
+2020-04-12,163,65 a 69 anos,Masculino
+2020-04-12,160,65 a 69 anos,Feminino
+2020-04-12,119,70 a 74 anos,Feminino
+2020-04-12,168,70 a 74 anos,Masculino
+2020-04-12,87,75 a 79 anos,Feminino
+2020-04-12,96,75 a 79 anos,Masculino
+2020-04-12,16,05 a 09 anos,Masculino
+2020-04-12,12,05 a 09 anos,Feminino
+2020-04-12,178,80 ou mais,Feminino
+2020-04-12,12,Indefinido,Feminino
+2020-04-12,41,00 a 04 anos,Masculino
+2020-04-12,47,00 a 04 anos,Feminino
+2020-04-12,126,80 ou mais,Masculino
+2020-04-12,20,Indefinido,Masculino
+2020-04-13,14,10 a 14 anos,Masculino
+2020-04-13,13,10 a 14 anos,Feminino
+2020-04-13,34,15 a 19 anos,Masculino
+2020-04-13,38,15 a 19 anos,Feminino
+2020-04-13,150,20 a 24 anos,Feminino
+2020-04-13,111,20 a 24 anos,Masculino
+2020-04-13,1,20 a 24 anos,Indefinido
+2020-04-13,266,25 a 29 anos,Feminino
+2020-04-13,200,25 a 29 anos,Masculino
+2020-04-13,1,30 a 34 anos,Indefinido
+2020-04-13,323,30 a 34 anos,Masculino
+2020-04-13,395,30 a 34 anos,Feminino
+2020-04-13,346,35 a 39 anos,Masculino
+2020-04-13,411,35 a 39 anos,Feminino
+2020-04-13,1,35 a 39 anos,Indefinido
+2020-04-13,403,40 a 44 anos,Feminino
+2020-04-13,284,40 a 44 anos,Masculino
+2020-04-13,291,45 a 49 anos,Masculino
+2020-04-13,342,45 a 49 anos,Feminino
+2020-04-13,303,50 a 54 anos,Feminino
+2020-04-13,290,50 a 54 anos,Masculino
+2020-04-13,238,55 a 59 anos,Feminino
+2020-04-13,271,55 a 59 anos,Masculino
+2020-04-13,232,60 a 64 anos,Masculino
+2020-04-13,214,60 a 64 anos,Feminino
+2020-04-13,181,65 a 69 anos,Masculino
+2020-04-13,172,65 a 69 anos,Feminino
+2020-04-13,128,70 a 74 anos,Feminino
+2020-04-13,180,70 a 74 anos,Masculino
+2020-04-13,94,75 a 79 anos,Feminino
+2020-04-13,105,75 a 79 anos,Masculino
+2020-04-13,17,05 a 09 anos,Masculino
+2020-04-13,12,05 a 09 anos,Feminino
+2020-04-13,192,80 ou mais,Feminino
+2020-04-13,12,Indefinido,Feminino
+2020-04-13,42,00 a 04 anos,Masculino
+2020-04-13,50,00 a 04 anos,Feminino
+2020-04-13,135,80 ou mais,Masculino
+2020-04-13,20,Indefinido,Masculino
+2020-04-14,15,10 a 14 anos,Masculino
+2020-04-14,15,10 a 14 anos,Feminino
+2020-04-14,39,15 a 19 anos,Masculino
+2020-04-14,43,15 a 19 anos,Feminino
+2020-04-14,155,20 a 24 anos,Feminino
+2020-04-14,124,20 a 24 anos,Masculino
+2020-04-14,1,20 a 24 anos,Indefinido
+2020-04-14,286,25 a 29 anos,Feminino
+2020-04-14,213,25 a 29 anos,Masculino
+2020-04-14,1,30 a 34 anos,Indefinido
+2020-04-14,355,30 a 34 anos,Masculino
+2020-04-14,424,30 a 34 anos,Feminino
+2020-04-14,368,35 a 39 anos,Masculino
+2020-04-14,443,35 a 39 anos,Feminino
+2020-04-14,1,35 a 39 anos,Indefinido
+2020-04-14,438,40 a 44 anos,Feminino
+2020-04-14,308,40 a 44 anos,Masculino
+2020-04-14,314,45 a 49 anos,Masculino
+2020-04-14,371,45 a 49 anos,Feminino
+2020-04-14,330,50 a 54 anos,Feminino
+2020-04-14,309,50 a 54 anos,Masculino
+2020-04-14,253,55 a 59 anos,Feminino
+2020-04-14,289,55 a 59 anos,Masculino
+2020-04-14,248,60 a 64 anos,Masculino
+2020-04-14,234,60 a 64 anos,Feminino
+2020-04-14,188,65 a 69 anos,Masculino
+2020-04-14,184,65 a 69 anos,Feminino
+2020-04-14,139,70 a 74 anos,Feminino
+2020-04-14,198,70 a 74 anos,Masculino
+2020-04-14,103,75 a 79 anos,Feminino
+2020-04-14,113,75 a 79 anos,Masculino
+2020-04-14,18,05 a 09 anos,Masculino
+2020-04-14,12,05 a 09 anos,Feminino
+2020-04-14,208,80 ou mais,Feminino
+2020-04-14,12,Indefinido,Feminino
+2020-04-14,43,00 a 04 anos,Masculino
+2020-04-14,57,00 a 04 anos,Feminino
+2020-04-14,150,80 ou mais,Masculino
+2020-04-14,22,Indefinido,Masculino
+2020-04-15,16,10 a 14 anos,Masculino
+2020-04-15,16,10 a 14 anos,Feminino
+2020-04-15,41,15 a 19 anos,Masculino
+2020-04-15,49,15 a 19 anos,Feminino
+2020-04-15,171,20 a 24 anos,Feminino
+2020-04-15,133,20 a 24 anos,Masculino
+2020-04-15,1,20 a 24 anos,Indefinido
+2020-04-15,310,25 a 29 anos,Feminino
+2020-04-15,232,25 a 29 anos,Masculino
+2020-04-15,1,30 a 34 anos,Indefinido
+2020-04-15,390,30 a 34 anos,Masculino
+2020-04-15,457,30 a 34 anos,Feminino
+2020-04-15,395,35 a 39 anos,Masculino
+2020-04-15,472,35 a 39 anos,Feminino
+2020-04-15,1,35 a 39 anos,Indefinido
+2020-04-15,465,40 a 44 anos,Feminino
+2020-04-15,334,40 a 44 anos,Masculino
+2020-04-15,344,45 a 49 anos,Masculino
+2020-04-15,394,45 a 49 anos,Feminino
+2020-04-15,355,50 a 54 anos,Feminino
+2020-04-15,340,50 a 54 anos,Masculino
+2020-04-15,268,55 a 59 anos,Feminino
+2020-04-15,321,55 a 59 anos,Masculino
+2020-04-15,270,60 a 64 anos,Masculino
+2020-04-15,247,60 a 64 anos,Feminino
+2020-04-15,201,65 a 69 anos,Masculino
+2020-04-15,198,65 a 69 anos,Feminino
+2020-04-15,154,70 a 74 anos,Feminino
+2020-04-15,211,70 a 74 anos,Masculino
+2020-04-15,115,75 a 79 anos,Feminino
+2020-04-15,126,75 a 79 anos,Masculino
+2020-04-15,19,05 a 09 anos,Masculino
+2020-04-15,14,05 a 09 anos,Feminino
+2020-04-15,224,80 ou mais,Feminino
+2020-04-15,12,Indefinido,Feminino
+2020-04-15,47,00 a 04 anos,Masculino
+2020-04-15,62,00 a 04 anos,Feminino
+2020-04-15,168,80 ou mais,Masculino
+2020-04-15,22,Indefinido,Masculino
+2020-04-16,19,10 a 14 anos,Masculino
+2020-04-16,18,10 a 14 anos,Feminino
+2020-04-16,43,15 a 19 anos,Masculino
+2020-04-16,52,15 a 19 anos,Feminino
+2020-04-16,196,20 a 24 anos,Feminino
+2020-04-16,138,20 a 24 anos,Masculino
+2020-04-16,1,20 a 24 anos,Indefinido
+2020-04-16,333,25 a 29 anos,Feminino
+2020-04-16,251,25 a 29 anos,Masculino
+2020-04-16,1,30 a 34 anos,Indefinido
+2020-04-16,410,30 a 34 anos,Masculino
+2020-04-16,483,30 a 34 anos,Feminino
+2020-04-16,414,35 a 39 anos,Masculino
+2020-04-16,505,35 a 39 anos,Feminino
+2020-04-16,1,35 a 39 anos,Indefinido
+2020-04-16,488,40 a 44 anos,Feminino
+2020-04-16,348,40 a 44 anos,Masculino
+2020-04-16,366,45 a 49 anos,Masculino
+2020-04-16,418,45 a 49 anos,Feminino
+2020-04-16,379,50 a 54 anos,Feminino
+2020-04-16,361,50 a 54 anos,Masculino
+2020-04-16,283,55 a 59 anos,Feminino
+2020-04-16,338,55 a 59 anos,Masculino
+2020-04-16,290,60 a 64 anos,Masculino
+2020-04-16,266,60 a 64 anos,Feminino
+2020-04-16,214,65 a 69 anos,Masculino
+2020-04-16,212,65 a 69 anos,Feminino
+2020-04-16,162,70 a 74 anos,Feminino
+2020-04-16,224,70 a 74 anos,Masculino
+2020-04-16,127,75 a 79 anos,Feminino
+2020-04-16,133,75 a 79 anos,Masculino
+2020-04-16,21,05 a 09 anos,Masculino
+2020-04-16,16,05 a 09 anos,Feminino
+2020-04-16,243,80 ou mais,Feminino
+2020-04-16,12,Indefinido,Feminino
+2020-04-16,48,00 a 04 anos,Masculino
+2020-04-16,65,00 a 04 anos,Feminino
+2020-04-16,186,80 ou mais,Masculino
+2020-04-16,22,Indefinido,Masculino
+2020-04-17,21,10 a 14 anos,Masculino
+2020-04-17,19,10 a 14 anos,Feminino
+2020-04-17,47,15 a 19 anos,Masculino
+2020-04-17,54,15 a 19 anos,Feminino
+2020-04-17,214,20 a 24 anos,Feminino
+2020-04-17,145,20 a 24 anos,Masculino
+2020-04-17,1,20 a 24 anos,Indefinido
+2020-04-17,358,25 a 29 anos,Feminino
+2020-04-17,278,25 a 29 anos,Masculino
+2020-04-17,1,30 a 34 anos,Indefinido
+2020-04-17,432,30 a 34 anos,Masculino
+2020-04-17,519,30 a 34 anos,Feminino
+2020-04-17,441,35 a 39 anos,Masculino
+2020-04-17,543,35 a 39 anos,Feminino
+2020-04-17,1,35 a 39 anos,Indefinido
+2020-04-17,514,40 a 44 anos,Feminino
+2020-04-17,376,40 a 44 anos,Masculino
+2020-04-17,392,45 a 49 anos,Masculino
+2020-04-17,446,45 a 49 anos,Feminino
+2020-04-17,396,50 a 54 anos,Feminino
+2020-04-17,383,50 a 54 anos,Masculino
+2020-04-17,305,55 a 59 anos,Feminino
+2020-04-17,361,55 a 59 anos,Masculino
+2020-04-17,308,60 a 64 anos,Masculino
+2020-04-17,288,60 a 64 anos,Feminino
+2020-04-17,235,65 a 69 anos,Masculino
+2020-04-17,229,65 a 69 anos,Feminino
+2020-04-17,175,70 a 74 anos,Feminino
+2020-04-17,241,70 a 74 anos,Masculino
+2020-04-17,138,75 a 79 anos,Feminino
+2020-04-17,149,75 a 79 anos,Masculino
+2020-04-17,21,05 a 09 anos,Masculino
+2020-04-17,19,05 a 09 anos,Feminino
+2020-04-17,258,80 ou mais,Feminino
+2020-04-17,12,Indefinido,Feminino
+2020-04-17,52,00 a 04 anos,Masculino
+2020-04-17,70,00 a 04 anos,Feminino
+2020-04-17,204,80 ou mais,Masculino
+2020-04-17,22,Indefinido,Masculino
+2020-04-18,23,10 a 14 anos,Masculino
+2020-04-18,22,10 a 14 anos,Feminino
+2020-04-18,48,15 a 19 anos,Masculino
+2020-04-18,60,15 a 19 anos,Feminino
+2020-04-18,227,20 a 24 anos,Feminino
+2020-04-18,155,20 a 24 anos,Masculino
+2020-04-18,1,20 a 24 anos,Indefinido
+2020-04-18,370,25 a 29 anos,Feminino
+2020-04-18,300,25 a 29 anos,Masculino
+2020-04-18,1,30 a 34 anos,Indefinido
+2020-04-18,455,30 a 34 anos,Masculino
+2020-04-18,549,30 a 34 anos,Feminino
+2020-04-18,469,35 a 39 anos,Masculino
+2020-04-18,569,35 a 39 anos,Feminino
+2020-04-18,1,35 a 39 anos,Indefinido
+2020-04-18,555,40 a 44 anos,Feminino
+2020-04-18,411,40 a 44 anos,Masculino
+2020-04-18,423,45 a 49 anos,Masculino
+2020-04-18,471,45 a 49 anos,Feminino
+2020-04-18,423,50 a 54 anos,Feminino
+2020-04-18,414,50 a 54 anos,Masculino
+2020-04-18,329,55 a 59 anos,Feminino
+2020-04-18,380,55 a 59 anos,Masculino
+2020-04-18,317,60 a 64 anos,Masculino
+2020-04-18,304,60 a 64 anos,Feminino
+2020-04-18,256,65 a 69 anos,Masculino
+2020-04-18,240,65 a 69 anos,Feminino
+2020-04-18,193,70 a 74 anos,Feminino
+2020-04-18,256,70 a 74 anos,Masculino
+2020-04-18,149,75 a 79 anos,Feminino
+2020-04-18,157,75 a 79 anos,Masculino
+2020-04-18,22,05 a 09 anos,Masculino
+2020-04-18,20,05 a 09 anos,Feminino
+2020-04-18,278,80 ou mais,Feminino
+2020-04-18,12,Indefinido,Feminino
+2020-04-18,55,00 a 04 anos,Masculino
+2020-04-18,70,00 a 04 anos,Feminino
+2020-04-18,222,80 ou mais,Masculino
+2020-04-18,23,Indefinido,Masculino
+2020-04-19,24,10 a 14 anos,Masculino
+2020-04-19,25,10 a 14 anos,Feminino
+2020-04-19,54,15 a 19 anos,Masculino
+2020-04-19,66,15 a 19 anos,Feminino
+2020-04-19,248,20 a 24 anos,Feminino
+2020-04-19,169,20 a 24 anos,Masculino
+2020-04-19,1,20 a 24 anos,Indefinido
+2020-04-19,395,25 a 29 anos,Feminino
+2020-04-19,324,25 a 29 anos,Masculino
+2020-04-19,1,30 a 34 anos,Indefinido
+2020-04-19,477,30 a 34 anos,Masculino
+2020-04-19,578,30 a 34 anos,Feminino
+2020-04-19,495,35 a 39 anos,Masculino
+2020-04-19,596,35 a 39 anos,Feminino
+2020-04-19,1,35 a 39 anos,Indefinido
+2020-04-19,592,40 a 44 anos,Feminino
+2020-04-19,437,40 a 44 anos,Masculino
+2020-04-19,447,45 a 49 anos,Masculino
+2020-04-19,496,45 a 49 anos,Feminino
+2020-04-19,457,50 a 54 anos,Feminino
+2020-04-19,452,50 a 54 anos,Masculino
+2020-04-19,355,55 a 59 anos,Feminino
+2020-04-19,406,55 a 59 anos,Masculino
+2020-04-19,339,60 a 64 anos,Masculino
+2020-04-19,325,60 a 64 anos,Feminino
+2020-04-19,277,65 a 69 anos,Masculino
+2020-04-19,260,65 a 69 anos,Feminino
+2020-04-19,212,70 a 74 anos,Feminino
+2020-04-19,273,70 a 74 anos,Masculino
+2020-04-19,156,75 a 79 anos,Feminino
+2020-04-19,171,75 a 79 anos,Masculino
+2020-04-19,24,05 a 09 anos,Masculino
+2020-04-19,22,05 a 09 anos,Feminino
+2020-04-19,295,80 ou mais,Feminino
+2020-04-19,12,Indefinido,Feminino
+2020-04-19,57,00 a 04 anos,Masculino
+2020-04-19,74,00 a 04 anos,Feminino
+2020-04-19,237,80 ou mais,Masculino
+2020-04-19,23,Indefinido,Masculino
+2020-04-20,28,10 a 14 anos,Masculino
+2020-04-20,27,10 a 14 anos,Feminino
+2020-04-20,63,15 a 19 anos,Masculino
+2020-04-20,70,15 a 19 anos,Feminino
+2020-04-20,270,20 a 24 anos,Feminino
+2020-04-20,187,20 a 24 anos,Masculino
+2020-04-20,1,20 a 24 anos,Indefinido
+2020-04-20,434,25 a 29 anos,Feminino
+2020-04-20,359,25 a 29 anos,Masculino
+2020-04-20,1,30 a 34 anos,Indefinido
+2020-04-20,523,30 a 34 anos,Masculino
+2020-04-20,630,30 a 34 anos,Feminino
+2020-04-20,547,35 a 39 anos,Masculino
+2020-04-20,671,35 a 39 anos,Feminino
+2020-04-20,1,35 a 39 anos,Indefinido
+2020-04-20,643,40 a 44 anos,Feminino
+2020-04-20,477,40 a 44 anos,Masculino
+2020-04-20,495,45 a 49 anos,Masculino
+2020-04-20,544,45 a 49 anos,Feminino
+2020-04-20,500,50 a 54 anos,Feminino
+2020-04-20,502,50 a 54 anos,Masculino
+2020-04-20,400,55 a 59 anos,Feminino
+2020-04-20,457,55 a 59 anos,Masculino
+2020-04-20,383,60 a 64 anos,Masculino
+2020-04-20,365,60 a 64 anos,Feminino
+2020-04-20,305,65 a 69 anos,Masculino
+2020-04-20,286,65 a 69 anos,Feminino
+2020-04-20,237,70 a 74 anos,Feminino
+2020-04-20,298,70 a 74 anos,Masculino
+2020-04-20,172,75 a 79 anos,Feminino
+2020-04-20,198,75 a 79 anos,Masculino
+2020-04-20,26,05 a 09 anos,Masculino
+2020-04-20,24,05 a 09 anos,Feminino
+2020-04-20,332,80 ou mais,Feminino
+2020-04-20,12,Indefinido,Feminino
+2020-04-20,67,00 a 04 anos,Masculino
+2020-04-20,80,00 a 04 anos,Feminino
+2020-04-20,270,80 ou mais,Masculino
+2020-04-20,24,Indefinido,Masculino
+2020-04-21,30,10 a 14 anos,Masculino
+2020-04-21,27,10 a 14 anos,Feminino
+2020-04-21,70,15 a 19 anos,Masculino
+2020-04-21,77,15 a 19 anos,Feminino
+2020-04-21,282,20 a 24 anos,Feminino
+2020-04-21,205,20 a 24 anos,Masculino
+2020-04-21,1,20 a 24 anos,Indefinido
+2020-04-21,463,25 a 29 anos,Feminino
+2020-04-21,379,25 a 29 anos,Masculino
+2020-04-21,1,30 a 34 anos,Indefinido
+2020-04-21,560,30 a 34 anos,Masculino
+2020-04-21,667,30 a 34 anos,Feminino
+2020-04-21,572,35 a 39 anos,Masculino
+2020-04-21,715,35 a 39 anos,Feminino
+2020-04-21,1,35 a 39 anos,Indefinido
+2020-04-21,674,40 a 44 anos,Feminino
+2020-04-21,514,40 a 44 anos,Masculino
+2020-04-21,520,45 a 49 anos,Masculino
+2020-04-21,578,45 a 49 anos,Feminino
+2020-04-21,528,50 a 54 anos,Feminino
+2020-04-21,531,50 a 54 anos,Masculino
+2020-04-21,418,55 a 59 anos,Feminino
+2020-04-21,475,55 a 59 anos,Masculino
+2020-04-21,404,60 a 64 anos,Masculino
+2020-04-21,391,60 a 64 anos,Feminino
+2020-04-21,326,65 a 69 anos,Masculino
+2020-04-21,303,65 a 69 anos,Feminino
+2020-04-21,257,70 a 74 anos,Feminino
+2020-04-21,315,70 a 74 anos,Masculino
+2020-04-21,188,75 a 79 anos,Feminino
+2020-04-21,216,75 a 79 anos,Masculino
+2020-04-21,28,05 a 09 anos,Masculino
+2020-04-21,25,05 a 09 anos,Feminino
+2020-04-21,352,80 ou mais,Feminino
+2020-04-21,12,Indefinido,Feminino
+2020-04-21,74,00 a 04 anos,Masculino
+2020-04-21,86,00 a 04 anos,Feminino
+2020-04-21,296,80 ou mais,Masculino
+2020-04-21,25,Indefinido,Masculino
+2020-04-22,37,10 a 14 anos,Masculino
+2020-04-22,27,10 a 14 anos,Feminino
+2020-04-22,78,15 a 19 anos,Masculino
+2020-04-22,85,15 a 19 anos,Feminino
+2020-04-22,310,20 a 24 anos,Feminino
+2020-04-22,223,20 a 24 anos,Masculino
+2020-04-22,1,20 a 24 anos,Indefinido
+2020-04-22,501,25 a 29 anos,Feminino
+2020-04-22,411,25 a 29 anos,Masculino
+2020-04-22,1,30 a 34 anos,Indefinido
+2020-04-22,583,30 a 34 anos,Masculino
+2020-04-22,707,30 a 34 anos,Feminino
+2020-04-22,607,35 a 39 anos,Masculino
+2020-04-22,772,35 a 39 anos,Feminino
+2020-04-22,1,35 a 39 anos,Indefinido
+2020-04-22,723,40 a 44 anos,Feminino
+2020-04-22,546,40 a 44 anos,Masculino
+2020-04-22,547,45 a 49 anos,Masculino
+2020-04-22,607,45 a 49 anos,Feminino
+2020-04-22,557,50 a 54 anos,Feminino
+2020-04-22,567,50 a 54 anos,Masculino
+2020-04-22,447,55 a 59 anos,Feminino
+2020-04-22,501,55 a 59 anos,Masculino
+2020-04-22,435,60 a 64 anos,Masculino
+2020-04-22,414,60 a 64 anos,Feminino
+2020-04-22,351,65 a 69 anos,Masculino
+2020-04-22,322,65 a 69 anos,Feminino
+2020-04-22,273,70 a 74 anos,Feminino
+2020-04-22,333,70 a 74 anos,Masculino
+2020-04-22,198,75 a 79 anos,Feminino
+2020-04-22,224,75 a 79 anos,Masculino
+2020-04-22,31,05 a 09 anos,Masculino
+2020-04-22,26,05 a 09 anos,Feminino
+2020-04-22,376,80 ou mais,Feminino
+2020-04-22,12,Indefinido,Feminino
+2020-04-22,78,00 a 04 anos,Masculino
+2020-04-22,89,00 a 04 anos,Feminino
+2020-04-22,327,80 ou mais,Masculino
+2020-04-22,26,Indefinido,Masculino
+2020-04-23,38,10 a 14 anos,Masculino
+2020-04-23,28,10 a 14 anos,Feminino
+2020-04-23,81,15 a 19 anos,Masculino
+2020-04-23,90,15 a 19 anos,Feminino
+2020-04-23,327,20 a 24 anos,Feminino
+2020-04-23,238,20 a 24 anos,Masculino
+2020-04-23,1,20 a 24 anos,Indefinido
+2020-04-23,537,25 a 29 anos,Feminino
+2020-04-23,437,25 a 29 anos,Masculino
+2020-04-23,1,30 a 34 anos,Indefinido
+2020-04-23,608,30 a 34 anos,Masculino
+2020-04-23,753,30 a 34 anos,Feminino
+2020-04-23,655,35 a 39 anos,Masculino
+2020-04-23,829,35 a 39 anos,Feminino
+2020-04-23,1,35 a 39 anos,Indefinido
+2020-04-23,747,40 a 44 anos,Feminino
+2020-04-23,589,40 a 44 anos,Masculino
+2020-04-23,575,45 a 49 anos,Masculino
+2020-04-23,650,45 a 49 anos,Feminino
+2020-04-23,591,50 a 54 anos,Feminino
+2020-04-23,602,50 a 54 anos,Masculino
+2020-04-23,478,55 a 59 anos,Feminino
+2020-04-23,531,55 a 59 anos,Masculino
+2020-04-23,466,60 a 64 anos,Masculino
+2020-04-23,437,60 a 64 anos,Feminino
+2020-04-23,379,65 a 69 anos,Masculino
+2020-04-23,344,65 a 69 anos,Feminino
+2020-04-23,297,70 a 74 anos,Feminino
+2020-04-23,359,70 a 74 anos,Masculino
+2020-04-23,212,75 a 79 anos,Feminino
+2020-04-23,240,75 a 79 anos,Masculino
+2020-04-23,35,05 a 09 anos,Masculino
+2020-04-23,26,05 a 09 anos,Feminino
+2020-04-23,400,80 ou mais,Feminino
+2020-04-23,13,Indefinido,Feminino
+2020-04-23,87,00 a 04 anos,Masculino
+2020-04-23,94,00 a 04 anos,Feminino
+2020-04-23,355,80 ou mais,Masculino
+2020-04-23,26,Indefinido,Masculino
+2020-04-24,40,10 a 14 anos,Masculino
+2020-04-24,28,10 a 14 anos,Feminino
+2020-04-24,86,15 a 19 anos,Masculino
+2020-04-24,96,15 a 19 anos,Feminino
+2020-04-24,366,20 a 24 anos,Feminino
+2020-04-24,251,20 a 24 anos,Masculino
+2020-04-24,1,20 a 24 anos,Indefinido
+2020-04-24,588,25 a 29 anos,Feminino
+2020-04-24,472,25 a 29 anos,Masculino
+2020-04-24,1,30 a 34 anos,Indefinido
+2020-04-24,659,30 a 34 anos,Masculino
+2020-04-24,798,30 a 34 anos,Feminino
+2020-04-24,716,35 a 39 anos,Masculino
+2020-04-24,878,35 a 39 anos,Feminino
+2020-04-24,1,35 a 39 anos,Indefinido
+2020-04-24,796,40 a 44 anos,Feminino
+2020-04-24,640,40 a 44 anos,Masculino
+2020-04-24,623,45 a 49 anos,Masculino
+2020-04-24,689,45 a 49 anos,Feminino
+2020-04-24,633,50 a 54 anos,Feminino
+2020-04-24,635,50 a 54 anos,Masculino
+2020-04-24,507,55 a 59 anos,Feminino
+2020-04-24,565,55 a 59 anos,Masculino
+2020-04-24,499,60 a 64 anos,Masculino
+2020-04-24,468,60 a 64 anos,Feminino
+2020-04-24,401,65 a 69 anos,Masculino
+2020-04-24,362,65 a 69 anos,Feminino
+2020-04-24,325,70 a 74 anos,Feminino
+2020-04-24,378,70 a 74 anos,Masculino
+2020-04-24,226,75 a 79 anos,Feminino
+2020-04-24,264,75 a 79 anos,Masculino
+2020-04-24,38,05 a 09 anos,Masculino
+2020-04-24,28,05 a 09 anos,Feminino
+2020-04-24,432,80 ou mais,Feminino
+2020-04-24,13,Indefinido,Feminino
+2020-04-24,97,00 a 04 anos,Masculino
+2020-04-24,98,00 a 04 anos,Feminino
+2020-04-24,385,80 ou mais,Masculino
+2020-04-24,28,Indefinido,Masculino
+2020-04-25,45,10 a 14 anos,Masculino
+2020-04-25,33,10 a 14 anos,Feminino
+2020-04-25,95,15 a 19 anos,Masculino
+2020-04-25,108,15 a 19 anos,Feminino
+2020-04-25,394,20 a 24 anos,Feminino
+2020-04-25,267,20 a 24 anos,Masculino
+2020-04-25,1,20 a 24 anos,Indefinido
+2020-04-25,634,25 a 29 anos,Feminino
+2020-04-25,506,25 a 29 anos,Masculino
+2020-04-25,1,30 a 34 anos,Indefinido
+2020-04-25,698,30 a 34 anos,Masculino
+2020-04-25,858,30 a 34 anos,Feminino
+2020-04-25,753,35 a 39 anos,Masculino
+2020-04-25,931,35 a 39 anos,Feminino
+2020-04-25,1,35 a 39 anos,Indefinido
+2020-04-25,845,40 a 44 anos,Feminino
+2020-04-25,676,40 a 44 anos,Masculino
+2020-04-25,660,45 a 49 anos,Masculino
+2020-04-25,726,45 a 49 anos,Feminino
+2020-04-25,673,50 a 54 anos,Feminino
+2020-04-25,677,50 a 54 anos,Masculino
+2020-04-25,549,55 a 59 anos,Feminino
+2020-04-25,613,55 a 59 anos,Masculino
+2020-04-25,530,60 a 64 anos,Masculino
+2020-04-25,495,60 a 64 anos,Feminino
+2020-04-25,426,65 a 69 anos,Masculino
+2020-04-25,388,65 a 69 anos,Feminino
+2020-04-25,354,70 a 74 anos,Feminino
+2020-04-25,409,70 a 74 anos,Masculino
+2020-04-25,251,75 a 79 anos,Feminino
+2020-04-25,282,75 a 79 anos,Masculino
+2020-04-25,38,05 a 09 anos,Masculino
+2020-04-25,29,05 a 09 anos,Feminino
+2020-04-25,462,80 ou mais,Feminino
+2020-04-25,13,Indefinido,Feminino
+2020-04-25,108,00 a 04 anos,Masculino
+2020-04-25,104,00 a 04 anos,Feminino
+2020-04-25,422,80 ou mais,Masculino
+2020-04-25,30,Indefinido,Masculino
+2020-04-26,47,10 a 14 anos,Masculino
+2020-04-26,37,10 a 14 anos,Feminino
+2020-04-26,98,15 a 19 anos,Masculino
+2020-04-26,118,15 a 19 anos,Feminino
+2020-04-26,418,20 a 24 anos,Feminino
+2020-04-26,289,20 a 24 anos,Masculino
+2020-04-26,1,20 a 24 anos,Indefinido
+2020-04-26,665,25 a 29 anos,Feminino
+2020-04-26,534,25 a 29 anos,Masculino
+2020-04-26,1,30 a 34 anos,Indefinido
+2020-04-26,736,30 a 34 anos,Masculino
+2020-04-26,913,30 a 34 anos,Feminino
+2020-04-26,787,35 a 39 anos,Masculino
+2020-04-26,976,35 a 39 anos,Feminino
+2020-04-26,1,35 a 39 anos,Indefinido
+2020-04-26,897,40 a 44 anos,Feminino
+2020-04-26,723,40 a 44 anos,Masculino
+2020-04-26,706,45 a 49 anos,Masculino
+2020-04-26,769,45 a 49 anos,Feminino
+2020-04-26,708,50 a 54 anos,Feminino
+2020-04-26,710,50 a 54 anos,Masculino
+2020-04-26,578,55 a 59 anos,Feminino
+2020-04-26,646,55 a 59 anos,Masculino
+2020-04-26,561,60 a 64 anos,Masculino
+2020-04-26,518,60 a 64 anos,Feminino
+2020-04-26,461,65 a 69 anos,Masculino
+2020-04-26,405,65 a 69 anos,Feminino
+2020-04-26,371,70 a 74 anos,Feminino
+2020-04-26,431,70 a 74 anos,Masculino
+2020-04-26,265,75 a 79 anos,Feminino
+2020-04-26,292,75 a 79 anos,Masculino
+2020-04-26,41,05 a 09 anos,Masculino
+2020-04-26,32,05 a 09 anos,Feminino
+2020-04-26,484,80 ou mais,Feminino
+2020-04-26,13,Indefinido,Feminino
+2020-04-26,115,00 a 04 anos,Masculino
+2020-04-26,108,00 a 04 anos,Feminino
+2020-04-26,444,80 ou mais,Masculino
+2020-04-26,30,Indefinido,Masculino
+2020-04-27,53,10 a 14 anos,Masculino
+2020-04-27,38,10 a 14 anos,Feminino
+2020-04-27,105,15 a 19 anos,Masculino
+2020-04-27,127,15 a 19 anos,Feminino
+2020-04-27,446,20 a 24 anos,Feminino
+2020-04-27,310,20 a 24 anos,Masculino
+2020-04-27,1,20 a 24 anos,Indefinido
+2020-04-27,707,25 a 29 anos,Feminino
+2020-04-27,566,25 a 29 anos,Masculino
+2020-04-27,1,30 a 34 anos,Indefinido
+2020-04-27,772,30 a 34 anos,Masculino
+2020-04-27,961,30 a 34 anos,Feminino
+2020-04-27,832,35 a 39 anos,Masculino
+2020-04-27,1031,35 a 39 anos,Feminino
+2020-04-27,1,35 a 39 anos,Indefinido
+2020-04-27,931,40 a 44 anos,Feminino
+2020-04-27,759,40 a 44 anos,Masculino
+2020-04-27,743,45 a 49 anos,Masculino
+2020-04-27,820,45 a 49 anos,Feminino
+2020-04-27,748,50 a 54 anos,Feminino
+2020-04-27,736,50 a 54 anos,Masculino
+2020-04-27,616,55 a 59 anos,Feminino
+2020-04-27,678,55 a 59 anos,Masculino
+2020-04-27,600,60 a 64 anos,Masculino
+2020-04-27,546,60 a 64 anos,Feminino
+2020-04-27,483,65 a 69 anos,Masculino
+2020-04-27,431,65 a 69 anos,Feminino
+2020-04-27,391,70 a 74 anos,Feminino
+2020-04-27,449,70 a 74 anos,Masculino
+2020-04-27,281,75 a 79 anos,Feminino
+2020-04-27,316,75 a 79 anos,Masculino
+2020-04-27,43,05 a 09 anos,Masculino
+2020-04-27,35,05 a 09 anos,Feminino
+2020-04-27,522,80 ou mais,Feminino
+2020-04-27,13,Indefinido,Feminino
+2020-04-27,125,00 a 04 anos,Masculino
+2020-04-27,113,00 a 04 anos,Feminino
+2020-04-27,471,80 ou mais,Masculino
+2020-04-27,31,Indefinido,Masculino
+2020-04-28,56,10 a 14 anos,Masculino
+2020-04-28,45,10 a 14 anos,Feminino
+2020-04-28,113,15 a 19 anos,Masculino
+2020-04-28,136,15 a 19 anos,Feminino
+2020-04-28,469,20 a 24 anos,Feminino
+2020-04-28,337,20 a 24 anos,Masculino
+2020-04-28,1,20 a 24 anos,Indefinido
+2020-04-28,758,25 a 29 anos,Feminino
+2020-04-28,597,25 a 29 anos,Masculino
+2020-04-28,1,30 a 34 anos,Indefinido
+2020-04-28,814,30 a 34 anos,Masculino
+2020-04-28,1012,30 a 34 anos,Feminino
+2020-04-28,875,35 a 39 anos,Masculino
+2020-04-28,1086,35 a 39 anos,Feminino
+2020-04-28,1,35 a 39 anos,Indefinido
+2020-04-28,979,40 a 44 anos,Feminino
+2020-04-28,792,40 a 44 anos,Masculino
+2020-04-28,772,45 a 49 anos,Masculino
+2020-04-28,864,45 a 49 anos,Feminino
+2020-04-28,803,50 a 54 anos,Feminino
+2020-04-28,775,50 a 54 anos,Masculino
+2020-04-28,641,55 a 59 anos,Feminino
+2020-04-28,712,55 a 59 anos,Masculino
+2020-04-28,633,60 a 64 anos,Masculino
+2020-04-28,595,60 a 64 anos,Feminino
+2020-04-28,509,65 a 69 anos,Masculino
+2020-04-28,457,65 a 69 anos,Feminino
+2020-04-28,411,70 a 74 anos,Feminino
+2020-04-28,466,70 a 74 anos,Masculino
+2020-04-28,303,75 a 79 anos,Feminino
+2020-04-28,341,75 a 79 anos,Masculino
+2020-04-28,46,05 a 09 anos,Masculino
+2020-04-28,39,05 a 09 anos,Feminino
+2020-04-28,559,80 ou mais,Feminino
+2020-04-28,14,Indefinido,Feminino
+2020-04-28,137,00 a 04 anos,Masculino
+2020-04-28,121,00 a 04 anos,Feminino
+2020-04-28,505,80 ou mais,Masculino
+2020-04-28,32,Indefinido,Masculino
+2020-04-29,59,10 a 14 anos,Masculino
+2020-04-29,51,10 a 14 anos,Feminino
+2020-04-29,122,15 a 19 anos,Masculino
+2020-04-29,143,15 a 19 anos,Feminino
+2020-04-29,498,20 a 24 anos,Feminino
+2020-04-29,350,20 a 24 anos,Masculino
+2020-04-29,1,20 a 24 anos,Indefinido
+2020-04-29,802,25 a 29 anos,Feminino
+2020-04-29,630,25 a 29 anos,Masculino
+2020-04-29,1,30 a 34 anos,Indefinido
+2020-04-29,845,30 a 34 anos,Masculino
+2020-04-29,1055,30 a 34 anos,Feminino
+2020-04-29,920,35 a 39 anos,Masculino
+2020-04-29,1137,35 a 39 anos,Feminino
+2020-04-29,1,35 a 39 anos,Indefinido
+2020-04-29,1012,40 a 44 anos,Feminino
+2020-04-29,826,40 a 44 anos,Masculino
+2020-04-29,810,45 a 49 anos,Masculino
+2020-04-29,911,45 a 49 anos,Feminino
+2020-04-29,834,50 a 54 anos,Feminino
+2020-04-29,802,50 a 54 anos,Masculino
+2020-04-29,675,55 a 59 anos,Feminino
+2020-04-29,741,55 a 59 anos,Masculino
+2020-04-29,667,60 a 64 anos,Masculino
+2020-04-29,619,60 a 64 anos,Feminino
+2020-04-29,530,65 a 69 anos,Masculino
+2020-04-29,470,65 a 69 anos,Feminino
+2020-04-29,422,70 a 74 anos,Feminino
+2020-04-29,483,70 a 74 anos,Masculino
+2020-04-29,320,75 a 79 anos,Feminino
+2020-04-29,355,75 a 79 anos,Masculino
+2020-04-29,48,05 a 09 anos,Masculino
+2020-04-29,41,05 a 09 anos,Feminino
+2020-04-29,582,80 ou mais,Feminino
+2020-04-29,15,Indefinido,Feminino
+2020-04-29,144,00 a 04 anos,Masculino
+2020-04-29,125,00 a 04 anos,Feminino
+2020-04-29,531,80 ou mais,Masculino
+2020-04-29,33,Indefinido,Masculino
+2020-04-30,66,10 a 14 anos,Masculino
+2020-04-30,58,10 a 14 anos,Feminino
+2020-04-30,133,15 a 19 anos,Masculino
+2020-04-30,150,15 a 19 anos,Feminino
+2020-04-30,526,20 a 24 anos,Feminino
+2020-04-30,374,20 a 24 anos,Masculino
+2020-04-30,1,20 a 24 anos,Indefinido
+2020-04-30,862,25 a 29 anos,Feminino
+2020-04-30,665,25 a 29 anos,Masculino
+2020-04-30,1,30 a 34 anos,Indefinido
+2020-04-30,904,30 a 34 anos,Masculino
+2020-04-30,1116,30 a 34 anos,Feminino
+2020-04-30,974,35 a 39 anos,Masculino
+2020-04-30,1195,35 a 39 anos,Feminino
+2020-04-30,1,35 a 39 anos,Indefinido
+2020-04-30,1074,40 a 44 anos,Feminino
+2020-04-30,871,40 a 44 anos,Masculino
+2020-04-30,849,45 a 49 anos,Masculino
+2020-04-30,947,45 a 49 anos,Feminino
+2020-04-30,870,50 a 54 anos,Feminino
+2020-04-30,843,50 a 54 anos,Masculino
+2020-04-30,709,55 a 59 anos,Feminino
+2020-04-30,778,55 a 59 anos,Masculino
+2020-04-30,700,60 a 64 anos,Masculino
+2020-04-30,641,60 a 64 anos,Feminino
+2020-04-30,557,65 a 69 anos,Masculino
+2020-04-30,493,65 a 69 anos,Feminino
+2020-04-30,439,70 a 74 anos,Feminino
+2020-04-30,509,70 a 74 anos,Masculino
+2020-04-30,347,75 a 79 anos,Feminino
+2020-04-30,376,75 a 79 anos,Masculino
+2020-04-30,50,05 a 09 anos,Masculino
+2020-04-30,45,05 a 09 anos,Feminino
+2020-04-30,628,80 ou mais,Feminino
+2020-04-30,17,Indefinido,Feminino
+2020-04-30,155,00 a 04 anos,Masculino
+2020-04-30,136,00 a 04 anos,Feminino
+2020-04-30,568,80 ou mais,Masculino
+2020-04-30,34,Indefinido,Masculino
+2020-05-01,70,10 a 14 anos,Masculino
+2020-05-01,66,10 a 14 anos,Feminino
+2020-05-01,143,15 a 19 anos,Masculino
+2020-05-01,161,15 a 19 anos,Feminino
+2020-05-01,557,20 a 24 anos,Feminino
+2020-05-01,398,20 a 24 anos,Masculino
+2020-05-01,1,20 a 24 anos,Indefinido
+2020-05-01,908,25 a 29 anos,Feminino
+2020-05-01,709,25 a 29 anos,Masculino
+2020-05-01,1,30 a 34 anos,Indefinido
+2020-05-01,954,30 a 34 anos,Masculino
+2020-05-01,1187,30 a 34 anos,Feminino
+2020-05-01,1034,35 a 39 anos,Masculino
+2020-05-01,1267,35 a 39 anos,Feminino
+2020-05-01,1,35 a 39 anos,Indefinido
+2020-05-01,1126,40 a 44 anos,Feminino
+2020-05-01,910,40 a 44 anos,Masculino
+2020-05-01,880,45 a 49 anos,Masculino
+2020-05-01,1012,45 a 49 anos,Feminino
+2020-05-01,909,50 a 54 anos,Feminino
+2020-05-01,881,50 a 54 anos,Masculino
+2020-05-01,759,55 a 59 anos,Feminino
+2020-05-01,812,55 a 59 anos,Masculino
+2020-05-01,744,60 a 64 anos,Masculino
+2020-05-01,669,60 a 64 anos,Feminino
+2020-05-01,595,65 a 69 anos,Masculino
+2020-05-01,526,65 a 69 anos,Feminino
+2020-05-01,476,70 a 74 anos,Feminino
+2020-05-01,535,70 a 74 anos,Masculino
+2020-05-01,360,75 a 79 anos,Feminino
+2020-05-01,396,75 a 79 anos,Masculino
+2020-05-01,53,05 a 09 anos,Masculino
+2020-05-01,45,05 a 09 anos,Feminino
+2020-05-01,673,80 ou mais,Feminino
+2020-05-01,19,Indefinido,Feminino
+2020-05-01,162,00 a 04 anos,Masculino
+2020-05-01,146,00 a 04 anos,Feminino
+2020-05-01,616,80 ou mais,Masculino
+2020-05-01,35,Indefinido,Masculino
+2020-05-02,73,10 a 14 anos,Masculino
+2020-05-02,70,10 a 14 anos,Feminino
+2020-05-02,149,15 a 19 anos,Masculino
+2020-05-02,170,15 a 19 anos,Feminino
+2020-05-02,577,20 a 24 anos,Feminino
+2020-05-02,424,20 a 24 anos,Masculino
+2020-05-02,1,20 a 24 anos,Indefinido
+2020-05-02,961,25 a 29 anos,Feminino
+2020-05-02,748,25 a 29 anos,Masculino
+2020-05-02,1,30 a 34 anos,Indefinido
+2020-05-02,999,30 a 34 anos,Masculino
+2020-05-02,1232,30 a 34 anos,Feminino
+2020-05-02,1072,35 a 39 anos,Masculino
+2020-05-02,1324,35 a 39 anos,Feminino
+2020-05-02,1,35 a 39 anos,Indefinido
+2020-05-02,1168,40 a 44 anos,Feminino
+2020-05-02,945,40 a 44 anos,Masculino
+2020-05-02,902,45 a 49 anos,Masculino
+2020-05-02,1055,45 a 49 anos,Feminino
+2020-05-02,946,50 a 54 anos,Feminino
+2020-05-02,916,50 a 54 anos,Masculino
+2020-05-02,788,55 a 59 anos,Feminino
+2020-05-02,839,55 a 59 anos,Masculino
+2020-05-02,771,60 a 64 anos,Masculino
+2020-05-02,692,60 a 64 anos,Feminino
+2020-05-02,615,65 a 69 anos,Masculino
+2020-05-02,540,65 a 69 anos,Feminino
+2020-05-02,492,70 a 74 anos,Feminino
+2020-05-02,561,70 a 74 anos,Masculino
+2020-05-02,379,75 a 79 anos,Feminino
+2020-05-02,409,75 a 79 anos,Masculino
+2020-05-02,53,05 a 09 anos,Masculino
+2020-05-02,50,05 a 09 anos,Feminino
+2020-05-02,701,80 ou mais,Feminino
+2020-05-02,22,Indefinido,Feminino
+2020-05-02,168,00 a 04 anos,Masculino
+2020-05-02,153,00 a 04 anos,Feminino
+2020-05-02,648,80 ou mais,Masculino
+2020-05-02,38,Indefinido,Masculino
+2020-05-03,76,10 a 14 anos,Masculino
+2020-05-03,73,10 a 14 anos,Feminino
+2020-05-03,152,15 a 19 anos,Masculino
+2020-05-03,177,15 a 19 anos,Feminino
+2020-05-03,596,20 a 24 anos,Feminino
+2020-05-03,437,20 a 24 anos,Masculino
+2020-05-03,1,20 a 24 anos,Indefinido
+2020-05-03,998,25 a 29 anos,Feminino
+2020-05-03,772,25 a 29 anos,Masculino
+2020-05-03,1,30 a 34 anos,Indefinido
+2020-05-03,1033,30 a 34 anos,Masculino
+2020-05-03,1259,30 a 34 anos,Feminino
+2020-05-03,1109,35 a 39 anos,Masculino
+2020-05-03,1370,35 a 39 anos,Feminino
+2020-05-03,1,35 a 39 anos,Indefinido
+2020-05-03,1205,40 a 44 anos,Feminino
+2020-05-03,975,40 a 44 anos,Masculino
+2020-05-03,922,45 a 49 anos,Masculino
+2020-05-03,1089,45 a 49 anos,Feminino
+2020-05-03,968,50 a 54 anos,Feminino
+2020-05-03,931,50 a 54 anos,Masculino
+2020-05-03,806,55 a 59 anos,Feminino
+2020-05-03,854,55 a 59 anos,Masculino
+2020-05-03,790,60 a 64 anos,Masculino
+2020-05-03,715,60 a 64 anos,Feminino
+2020-05-03,630,65 a 69 anos,Masculino
+2020-05-03,555,65 a 69 anos,Feminino
+2020-05-03,514,70 a 74 anos,Feminino
+2020-05-03,572,70 a 74 anos,Masculino
+2020-05-03,396,75 a 79 anos,Feminino
+2020-05-03,420,75 a 79 anos,Masculino
+2020-05-03,55,05 a 09 anos,Masculino
+2020-05-03,51,05 a 09 anos,Feminino
+2020-05-03,722,80 ou mais,Feminino
+2020-05-03,23,Indefinido,Feminino
+2020-05-03,172,00 a 04 anos,Masculino
+2020-05-03,153,00 a 04 anos,Feminino
+2020-05-03,679,80 ou mais,Masculino
+2020-05-03,39,Indefinido,Masculino
+2020-05-04,80,10 a 14 anos,Masculino
+2020-05-04,79,10 a 14 anos,Feminino
+2020-05-04,158,15 a 19 anos,Masculino
+2020-05-04,183,15 a 19 anos,Feminino
+2020-05-04,617,20 a 24 anos,Feminino
+2020-05-04,460,20 a 24 anos,Masculino
+2020-05-04,1,20 a 24 anos,Indefinido
+2020-05-04,1024,25 a 29 anos,Feminino
+2020-05-04,803,25 a 29 anos,Masculino
+2020-05-04,1,30 a 34 anos,Indefinido
+2020-05-04,1074,30 a 34 anos,Masculino
+2020-05-04,1302,30 a 34 anos,Feminino
+2020-05-04,1152,35 a 39 anos,Masculino
+2020-05-04,1418,35 a 39 anos,Feminino
+2020-05-04,1,35 a 39 anos,Indefinido
+2020-05-04,1240,40 a 44 anos,Feminino
+2020-05-04,1008,40 a 44 anos,Masculino
+2020-05-04,946,45 a 49 anos,Masculino
+2020-05-04,1123,45 a 49 anos,Feminino
+2020-05-04,1003,50 a 54 anos,Feminino
+2020-05-04,959,50 a 54 anos,Masculino
+2020-05-04,827,55 a 59 anos,Feminino
+2020-05-04,880,55 a 59 anos,Masculino
+2020-05-04,814,60 a 64 anos,Masculino
+2020-05-04,735,60 a 64 anos,Feminino
+2020-05-04,655,65 a 69 anos,Masculino
+2020-05-04,571,65 a 69 anos,Feminino
+2020-05-04,528,70 a 74 anos,Feminino
+2020-05-04,583,70 a 74 anos,Masculino
+2020-05-04,408,75 a 79 anos,Feminino
+2020-05-04,433,75 a 79 anos,Masculino
+2020-05-04,57,05 a 09 anos,Masculino
+2020-05-04,51,05 a 09 anos,Feminino
+2020-05-04,755,80 ou mais,Feminino
+2020-05-04,30,Indefinido,Feminino
+2020-05-04,177,00 a 04 anos,Masculino
+2020-05-04,160,00 a 04 anos,Feminino
+2020-05-04,704,80 ou mais,Masculino
+2020-05-04,42,Indefinido,Masculino
+2020-05-05,84,10 a 14 anos,Masculino
+2020-05-05,86,10 a 14 anos,Feminino
+2020-05-05,164,15 a 19 anos,Masculino
+2020-05-05,188,15 a 19 anos,Feminino
+2020-05-05,635,20 a 24 anos,Feminino
+2020-05-05,477,20 a 24 anos,Masculino
+2020-05-05,1,20 a 24 anos,Indefinido
+2020-05-05,1055,25 a 29 anos,Feminino
+2020-05-05,825,25 a 29 anos,Masculino
+2020-05-05,1,30 a 34 anos,Indefinido
+2020-05-05,1098,30 a 34 anos,Masculino
+2020-05-05,1352,30 a 34 anos,Feminino
+2020-05-05,1185,35 a 39 anos,Masculino
+2020-05-05,1460,35 a 39 anos,Feminino
+2020-05-05,1,35 a 39 anos,Indefinido
+2020-05-05,1272,40 a 44 anos,Feminino
+2020-05-05,1039,40 a 44 anos,Masculino
+2020-05-05,976,45 a 49 anos,Masculino
+2020-05-05,1155,45 a 49 anos,Feminino
+2020-05-05,1028,50 a 54 anos,Feminino
+2020-05-05,987,50 a 54 anos,Masculino
+2020-05-05,848,55 a 59 anos,Feminino
+2020-05-05,901,55 a 59 anos,Masculino
+2020-05-05,832,60 a 64 anos,Masculino
+2020-05-05,750,60 a 64 anos,Feminino
+2020-05-05,673,65 a 69 anos,Masculino
+2020-05-05,582,65 a 69 anos,Feminino
+2020-05-05,543,70 a 74 anos,Feminino
+2020-05-05,599,70 a 74 anos,Masculino
+2020-05-05,420,75 a 79 anos,Feminino
+2020-05-05,446,75 a 79 anos,Masculino
+2020-05-05,58,05 a 09 anos,Masculino
+2020-05-05,52,05 a 09 anos,Feminino
+2020-05-05,784,80 ou mais,Feminino
+2020-05-05,34,Indefinido,Feminino
+2020-05-05,179,00 a 04 anos,Masculino
+2020-05-05,165,00 a 04 anos,Feminino
+2020-05-05,721,80 ou mais,Masculino
+2020-05-05,43,Indefinido,Masculino
+2020-05-06,86,10 a 14 anos,Masculino
+2020-05-06,86,10 a 14 anos,Feminino
+2020-05-06,171,15 a 19 anos,Masculino
+2020-05-06,195,15 a 19 anos,Feminino
+2020-05-06,651,20 a 24 anos,Feminino
+2020-05-06,487,20 a 24 anos,Masculino
+2020-05-06,1,20 a 24 anos,Indefinido
+2020-05-06,1076,25 a 29 anos,Feminino
+2020-05-06,842,25 a 29 anos,Masculino
+2020-05-06,1,30 a 34 anos,Indefinido
+2020-05-06,1130,30 a 34 anos,Masculino
+2020-05-06,1385,30 a 34 anos,Feminino
+2020-05-06,1205,35 a 39 anos,Masculino
+2020-05-06,1481,35 a 39 anos,Feminino
+2020-05-06,1,35 a 39 anos,Indefinido
+2020-05-06,1295,40 a 44 anos,Feminino
+2020-05-06,1071,40 a 44 anos,Masculino
+2020-05-06,994,45 a 49 anos,Masculino
+2020-05-06,1171,45 a 49 anos,Feminino
+2020-05-06,1052,50 a 54 anos,Feminino
+2020-05-06,1006,50 a 54 anos,Masculino
+2020-05-06,860,55 a 59 anos,Feminino
+2020-05-06,913,55 a 59 anos,Masculino
+2020-05-06,847,60 a 64 anos,Masculino
+2020-05-06,764,60 a 64 anos,Feminino
+2020-05-06,685,65 a 69 anos,Masculino
+2020-05-06,595,65 a 69 anos,Feminino
+2020-05-06,551,70 a 74 anos,Feminino
+2020-05-06,608,70 a 74 anos,Masculino
+2020-05-06,428,75 a 79 anos,Feminino
+2020-05-06,456,75 a 79 anos,Masculino
+2020-05-06,60,05 a 09 anos,Masculino
+2020-05-06,54,05 a 09 anos,Feminino
+2020-05-06,799,80 ou mais,Feminino
+2020-05-06,34,Indefinido,Feminino
+2020-05-06,185,00 a 04 anos,Masculino
+2020-05-06,171,00 a 04 anos,Feminino
+2020-05-06,742,80 ou mais,Masculino
+2020-05-06,43,Indefinido,Masculino
+2020-05-07,87,10 a 14 anos,Masculino
+2020-05-07,87,10 a 14 anos,Feminino
+2020-05-07,174,15 a 19 anos,Masculino
+2020-05-07,199,15 a 19 anos,Feminino
+2020-05-07,672,20 a 24 anos,Feminino
+2020-05-07,494,20 a 24 anos,Masculino
+2020-05-07,1,20 a 24 anos,Indefinido
+2020-05-07,1099,25 a 29 anos,Feminino
+2020-05-07,858,25 a 29 anos,Masculino
+2020-05-07,1,30 a 34 anos,Indefinido
+2020-05-07,1149,30 a 34 anos,Masculino
+2020-05-07,1412,30 a 34 anos,Feminino
+2020-05-07,1240,35 a 39 anos,Masculino
+2020-05-07,1506,35 a 39 anos,Feminino
+2020-05-07,1,35 a 39 anos,Indefinido
+2020-05-07,1316,40 a 44 anos,Feminino
+2020-05-07,1093,40 a 44 anos,Masculino
+2020-05-07,1008,45 a 49 anos,Masculino
+2020-05-07,1190,45 a 49 anos,Feminino
+2020-05-07,1074,50 a 54 anos,Feminino
+2020-05-07,1025,50 a 54 anos,Masculino
+2020-05-07,885,55 a 59 anos,Feminino
+2020-05-07,927,55 a 59 anos,Masculino
+2020-05-07,866,60 a 64 anos,Masculino
+2020-05-07,772,60 a 64 anos,Feminino
+2020-05-07,696,65 a 69 anos,Masculino
+2020-05-07,611,65 a 69 anos,Feminino
+2020-05-07,566,70 a 74 anos,Feminino
+2020-05-07,616,70 a 74 anos,Masculino
+2020-05-07,432,75 a 79 anos,Feminino
+2020-05-07,465,75 a 79 anos,Masculino
+2020-05-07,64,05 a 09 anos,Masculino
+2020-05-07,56,05 a 09 anos,Feminino
+2020-05-07,809,80 ou mais,Feminino
+2020-05-07,35,Indefinido,Feminino
+2020-05-07,187,00 a 04 anos,Masculino
+2020-05-07,173,00 a 04 anos,Feminino
+2020-05-07,754,80 ou mais,Masculino
+2020-05-07,51,Indefinido,Masculino
+2020-05-08,87,10 a 14 anos,Masculino
+2020-05-08,91,10 a 14 anos,Feminino
+2020-05-08,176,15 a 19 anos,Masculino
+2020-05-08,206,15 a 19 anos,Feminino
+2020-05-08,679,20 a 24 anos,Feminino
+2020-05-08,500,20 a 24 anos,Masculino
+2020-05-08,1,20 a 24 anos,Indefinido
+2020-05-08,1119,25 a 29 anos,Feminino
+2020-05-08,873,25 a 29 anos,Masculino
+2020-05-08,1,30 a 34 anos,Indefinido
+2020-05-08,1168,30 a 34 anos,Masculino
+2020-05-08,1433,30 a 34 anos,Feminino
+2020-05-08,1254,35 a 39 anos,Masculino
+2020-05-08,1532,35 a 39 anos,Feminino
+2020-05-08,1,35 a 39 anos,Indefinido
+2020-05-08,1333,40 a 44 anos,Feminino
+2020-05-08,1112,40 a 44 anos,Masculino
+2020-05-08,1023,45 a 49 anos,Masculino
+2020-05-08,1201,45 a 49 anos,Feminino
+2020-05-08,1090,50 a 54 anos,Feminino
+2020-05-08,1036,50 a 54 anos,Masculino
+2020-05-08,898,55 a 59 anos,Feminino
+2020-05-08,942,55 a 59 anos,Masculino
+2020-05-08,878,60 a 64 anos,Masculino
+2020-05-08,789,60 a 64 anos,Feminino
+2020-05-08,706,65 a 69 anos,Masculino
+2020-05-08,621,65 a 69 anos,Feminino
+2020-05-08,570,70 a 74 anos,Feminino
+2020-05-08,621,70 a 74 anos,Masculino
+2020-05-08,440,75 a 79 anos,Feminino
+2020-05-08,469,75 a 79 anos,Masculino
+2020-05-08,64,05 a 09 anos,Masculino
+2020-05-08,58,05 a 09 anos,Feminino
+2020-05-08,826,80 ou mais,Feminino
+2020-05-08,36,Indefinido,Feminino
+2020-05-08,193,00 a 04 anos,Masculino
+2020-05-08,174,00 a 04 anos,Feminino
+2020-05-08,765,80 ou mais,Masculino
+2020-05-08,54,Indefinido,Masculino
+2020-05-09,89,10 a 14 anos,Masculino
+2020-05-09,92,10 a 14 anos,Feminino
+2020-05-09,176,15 a 19 anos,Masculino
+2020-05-09,208,15 a 19 anos,Feminino
+2020-05-09,688,20 a 24 anos,Feminino
+2020-05-09,505,20 a 24 anos,Masculino
+2020-05-09,1,20 a 24 anos,Indefinido
+2020-05-09,1131,25 a 29 anos,Feminino
+2020-05-09,887,25 a 29 anos,Masculino
+2020-05-09,1,30 a 34 anos,Indefinido
+2020-05-09,1181,30 a 34 anos,Masculino
+2020-05-09,1449,30 a 34 anos,Feminino
+2020-05-09,1268,35 a 39 anos,Masculino
+2020-05-09,1551,35 a 39 anos,Feminino
+2020-05-09,1,35 a 39 anos,Indefinido
+2020-05-09,1346,40 a 44 anos,Feminino
+2020-05-09,1124,40 a 44 anos,Masculino
+2020-05-09,1030,45 a 49 anos,Masculino
+2020-05-09,1210,45 a 49 anos,Feminino
+2020-05-09,1099,50 a 54 anos,Feminino
+2020-05-09,1042,50 a 54 anos,Masculino
+2020-05-09,911,55 a 59 anos,Feminino
+2020-05-09,950,55 a 59 anos,Masculino
+2020-05-09,890,60 a 64 anos,Masculino
+2020-05-09,798,60 a 64 anos,Feminino
+2020-05-09,717,65 a 69 anos,Masculino
+2020-05-09,629,65 a 69 anos,Feminino
+2020-05-09,576,70 a 74 anos,Feminino
+2020-05-09,628,70 a 74 anos,Masculino
+2020-05-09,446,75 a 79 anos,Feminino
+2020-05-09,475,75 a 79 anos,Masculino
+2020-05-09,66,05 a 09 anos,Masculino
+2020-05-09,61,05 a 09 anos,Feminino
+2020-05-09,837,80 ou mais,Feminino
+2020-05-09,56,Indefinido,Feminino
+2020-05-09,197,00 a 04 anos,Masculino
+2020-05-09,176,00 a 04 anos,Feminino
+2020-05-09,767,80 ou mais,Masculino
+2020-05-09,81,Indefinido,Masculino
+2020-05-10,91,10 a 14 anos,Masculino
+2020-05-10,93,10 a 14 anos,Feminino
+2020-05-10,176,15 a 19 anos,Masculino
+2020-05-10,211,15 a 19 anos,Feminino
+2020-05-10,691,20 a 24 anos,Feminino
+2020-05-10,508,20 a 24 anos,Masculino
+2020-05-10,1,20 a 24 anos,Indefinido
+2020-05-10,1134,25 a 29 anos,Feminino
+2020-05-10,892,25 a 29 anos,Masculino
+2020-05-10,1,30 a 34 anos,Indefinido
+2020-05-10,1184,30 a 34 anos,Masculino
+2020-05-10,1457,30 a 34 anos,Feminino
+2020-05-10,1273,35 a 39 anos,Masculino
+2020-05-10,1559,35 a 39 anos,Feminino
+2020-05-10,1,35 a 39 anos,Indefinido
+2020-05-10,1355,40 a 44 anos,Feminino
+2020-05-10,1137,40 a 44 anos,Masculino
+2020-05-10,1032,45 a 49 anos,Masculino
+2020-05-10,1217,45 a 49 anos,Feminino
+2020-05-10,1105,50 a 54 anos,Feminino
+2020-05-10,1047,50 a 54 anos,Masculino
+2020-05-10,920,55 a 59 anos,Feminino
+2020-05-10,956,55 a 59 anos,Masculino
+2020-05-10,899,60 a 64 anos,Masculino
+2020-05-10,803,60 a 64 anos,Feminino
+2020-05-10,725,65 a 69 anos,Masculino
+2020-05-10,634,65 a 69 anos,Feminino
+2020-05-10,581,70 a 74 anos,Feminino
+2020-05-10,635,70 a 74 anos,Masculino
+2020-05-10,448,75 a 79 anos,Feminino
+2020-05-10,479,75 a 79 anos,Masculino
+2020-05-10,66,05 a 09 anos,Masculino
+2020-05-10,61,05 a 09 anos,Feminino
+2020-05-10,846,80 ou mais,Feminino
+2020-05-10,56,Indefinido,Feminino
+2020-05-10,200,00 a 04 anos,Masculino
+2020-05-10,179,00 a 04 anos,Feminino
+2020-05-10,776,80 ou mais,Masculino
+2020-05-10,81,Indefinido,Masculino
+2020-05-11,92,10 a 14 anos,Masculino
+2020-05-11,97,10 a 14 anos,Feminino
+2020-05-11,178,15 a 19 anos,Masculino
+2020-05-11,214,15 a 19 anos,Feminino
+2020-05-11,693,20 a 24 anos,Feminino
+2020-05-11,512,20 a 24 anos,Masculino
+2020-05-11,1,20 a 24 anos,Indefinido
+2020-05-11,1146,25 a 29 anos,Feminino
+2020-05-11,905,25 a 29 anos,Masculino
+2020-05-11,1,30 a 34 anos,Indefinido
+2020-05-11,1201,30 a 34 anos,Masculino
+2020-05-11,1465,30 a 34 anos,Feminino
+2020-05-11,1292,35 a 39 anos,Masculino
+2020-05-11,1578,35 a 39 anos,Feminino
+2020-05-11,1,35 a 39 anos,Indefinido
+2020-05-11,1367,40 a 44 anos,Feminino
+2020-05-11,1149,40 a 44 anos,Masculino
+2020-05-11,1042,45 a 49 anos,Masculino
+2020-05-11,1232,45 a 49 anos,Feminino
+2020-05-11,1120,50 a 54 anos,Feminino
+2020-05-11,1053,50 a 54 anos,Masculino
+2020-05-11,927,55 a 59 anos,Feminino
+2020-05-11,965,55 a 59 anos,Masculino
+2020-05-11,902,60 a 64 anos,Masculino
+2020-05-11,806,60 a 64 anos,Feminino
+2020-05-11,731,65 a 69 anos,Masculino
+2020-05-11,643,65 a 69 anos,Feminino
+2020-05-11,586,70 a 74 anos,Feminino
+2020-05-11,642,70 a 74 anos,Masculino
+2020-05-11,450,75 a 79 anos,Feminino
+2020-05-11,481,75 a 79 anos,Masculino
+2020-05-11,70,05 a 09 anos,Masculino
+2020-05-11,61,05 a 09 anos,Feminino
+2020-05-11,855,80 ou mais,Feminino
+2020-05-11,57,Indefinido,Feminino
+2020-05-11,201,00 a 04 anos,Masculino
+2020-05-11,179,00 a 04 anos,Feminino
+2020-05-11,781,80 ou mais,Masculino
+2020-05-11,82,Indefinido,Masculino
+2020-05-12,93,10 a 14 anos,Masculino
+2020-05-12,98,10 a 14 anos,Feminino
+2020-05-12,184,15 a 19 anos,Masculino
+2020-05-12,216,15 a 19 anos,Feminino
+2020-05-12,696,20 a 24 anos,Feminino
+2020-05-12,519,20 a 24 anos,Masculino
+2020-05-12,1,20 a 24 anos,Indefinido
+2020-05-12,1153,25 a 29 anos,Feminino
+2020-05-12,907,25 a 29 anos,Masculino
+2020-05-12,1,30 a 34 anos,Indefinido
+2020-05-12,1217,30 a 34 anos,Masculino
+2020-05-12,1475,30 a 34 anos,Feminino
+2020-05-12,1306,35 a 39 anos,Masculino
+2020-05-12,1590,35 a 39 anos,Feminino
+2020-05-12,1,35 a 39 anos,Indefinido
+2020-05-12,1379,40 a 44 anos,Feminino
+2020-05-12,1159,40 a 44 anos,Masculino
+2020-05-12,1052,45 a 49 anos,Masculino
+2020-05-12,1239,45 a 49 anos,Feminino
+2020-05-12,1125,50 a 54 anos,Feminino
+2020-05-12,1062,50 a 54 anos,Masculino
+2020-05-12,935,55 a 59 anos,Feminino
+2020-05-12,970,55 a 59 anos,Masculino
+2020-05-12,907,60 a 64 anos,Masculino
+2020-05-12,813,60 a 64 anos,Feminino
+2020-05-12,740,65 a 69 anos,Masculino
+2020-05-12,648,65 a 69 anos,Feminino
+2020-05-12,589,70 a 74 anos,Feminino
+2020-05-12,646,70 a 74 anos,Masculino
+2020-05-12,451,75 a 79 anos,Feminino
+2020-05-12,485,75 a 79 anos,Masculino
+2020-05-12,71,05 a 09 anos,Masculino
+2020-05-12,62,05 a 09 anos,Feminino
+2020-05-12,859,80 ou mais,Feminino
+2020-05-12,86,Indefinido,Feminino
+2020-05-12,201,00 a 04 anos,Masculino
+2020-05-12,180,00 a 04 anos,Feminino
+2020-05-12,784,80 ou mais,Masculino
+2020-05-12,104,Indefinido,Masculino
+2020-05-13,94,10 a 14 anos,Masculino
+2020-05-13,98,10 a 14 anos,Feminino
+2020-05-13,185,15 a 19 anos,Masculino
+2020-05-13,217,15 a 19 anos,Feminino
+2020-05-13,698,20 a 24 anos,Feminino
+2020-05-13,523,20 a 24 anos,Masculino
+2020-05-13,1,20 a 24 anos,Indefinido
+2020-05-13,1159,25 a 29 anos,Feminino
+2020-05-13,914,25 a 29 anos,Masculino
+2020-05-13,1,30 a 34 anos,Indefinido
+2020-05-13,1222,30 a 34 anos,Masculino
+2020-05-13,1484,30 a 34 anos,Feminino
+2020-05-13,1314,35 a 39 anos,Masculino
+2020-05-13,1597,35 a 39 anos,Feminino
+2020-05-13,1,35 a 39 anos,Indefinido
+2020-05-13,1386,40 a 44 anos,Feminino
+2020-05-13,1171,40 a 44 anos,Masculino
+2020-05-13,1062,45 a 49 anos,Masculino
+2020-05-13,1244,45 a 49 anos,Feminino
+2020-05-13,1129,50 a 54 anos,Feminino
+2020-05-13,1071,50 a 54 anos,Masculino
+2020-05-13,941,55 a 59 anos,Feminino
+2020-05-13,973,55 a 59 anos,Masculino
+2020-05-13,911,60 a 64 anos,Masculino
+2020-05-13,823,60 a 64 anos,Feminino
+2020-05-13,745,65 a 69 anos,Masculino
+2020-05-13,650,65 a 69 anos,Feminino
+2020-05-13,592,70 a 74 anos,Feminino
+2020-05-13,649,70 a 74 anos,Masculino
+2020-05-13,453,75 a 79 anos,Feminino
+2020-05-13,488,75 a 79 anos,Masculino
+2020-05-13,73,05 a 09 anos,Masculino
+2020-05-13,63,05 a 09 anos,Feminino
+2020-05-13,862,80 ou mais,Feminino
+2020-05-13,89,Indefinido,Feminino
+2020-05-13,201,00 a 04 anos,Masculino
+2020-05-13,184,00 a 04 anos,Feminino
+2020-05-13,790,80 ou mais,Masculino
+2020-05-13,115,Indefinido,Masculino
+2020-05-14,94,10 a 14 anos,Masculino
+2020-05-14,98,10 a 14 anos,Feminino
+2020-05-14,188,15 a 19 anos,Masculino
+2020-05-14,218,15 a 19 anos,Feminino
+2020-05-14,700,20 a 24 anos,Feminino
+2020-05-14,524,20 a 24 anos,Masculino
+2020-05-14,1,20 a 24 anos,Indefinido
+2020-05-14,1163,25 a 29 anos,Feminino
+2020-05-14,917,25 a 29 anos,Masculino
+2020-05-14,1,30 a 34 anos,Indefinido
+2020-05-14,1225,30 a 34 anos,Masculino
+2020-05-14,1489,30 a 34 anos,Feminino
+2020-05-14,1319,35 a 39 anos,Masculino
+2020-05-14,1600,35 a 39 anos,Feminino
+2020-05-14,1,35 a 39 anos,Indefinido
+2020-05-14,1387,40 a 44 anos,Feminino
+2020-05-14,1173,40 a 44 anos,Masculino
+2020-05-14,1063,45 a 49 anos,Masculino
+2020-05-14,1248,45 a 49 anos,Feminino
+2020-05-14,1130,50 a 54 anos,Feminino
+2020-05-14,1076,50 a 54 anos,Masculino
+2020-05-14,945,55 a 59 anos,Feminino
+2020-05-14,976,55 a 59 anos,Masculino
+2020-05-14,912,60 a 64 anos,Masculino
+2020-05-14,828,60 a 64 anos,Feminino
+2020-05-14,748,65 a 69 anos,Masculino
+2020-05-14,652,65 a 69 anos,Feminino
+2020-05-14,593,70 a 74 anos,Feminino
+2020-05-14,654,70 a 74 anos,Masculino
+2020-05-14,453,75 a 79 anos,Feminino
+2020-05-14,492,75 a 79 anos,Masculino
+2020-05-14,74,05 a 09 anos,Masculino
+2020-05-14,63,05 a 09 anos,Feminino
+2020-05-14,866,80 ou mais,Feminino
+2020-05-14,108,Indefinido,Feminino
+2020-05-14,203,00 a 04 anos,Masculino
+2020-05-14,184,00 a 04 anos,Feminino
+2020-05-14,792,80 ou mais,Masculino
+2020-05-14,137,Indefinido,Masculino
+2020-05-15,94,10 a 14 anos,Masculino
+2020-05-15,98,10 a 14 anos,Feminino
+2020-05-15,188,15 a 19 anos,Masculino
+2020-05-15,218,15 a 19 anos,Feminino
+2020-05-15,702,20 a 24 anos,Feminino
+2020-05-15,524,20 a 24 anos,Masculino
+2020-05-15,1,20 a 24 anos,Indefinido
+2020-05-15,1163,25 a 29 anos,Feminino
+2020-05-15,920,25 a 29 anos,Masculino
+2020-05-15,1,30 a 34 anos,Indefinido
+2020-05-15,1225,30 a 34 anos,Masculino
+2020-05-15,1492,30 a 34 anos,Feminino
+2020-05-15,1320,35 a 39 anos,Masculino
+2020-05-15,1601,35 a 39 anos,Feminino
+2020-05-15,1,35 a 39 anos,Indefinido
+2020-05-15,1389,40 a 44 anos,Feminino
+2020-05-15,1173,40 a 44 anos,Masculino
+2020-05-15,1064,45 a 49 anos,Masculino
+2020-05-15,1250,45 a 49 anos,Feminino
+2020-05-15,1130,50 a 54 anos,Feminino
+2020-05-15,1076,50 a 54 anos,Masculino
+2020-05-15,945,55 a 59 anos,Feminino
+2020-05-15,977,55 a 59 anos,Masculino
+2020-05-15,915,60 a 64 anos,Masculino
+2020-05-15,828,60 a 64 anos,Feminino
+2020-05-15,748,65 a 69 anos,Masculino
+2020-05-15,652,65 a 69 anos,Feminino
+2020-05-15,596,70 a 74 anos,Feminino
+2020-05-15,658,70 a 74 anos,Masculino
+2020-05-15,453,75 a 79 anos,Feminino
+2020-05-15,493,75 a 79 anos,Masculino
+2020-05-15,74,05 a 09 anos,Masculino
+2020-05-15,63,05 a 09 anos,Feminino
+2020-05-15,866,80 ou mais,Feminino
+2020-05-15,108,Indefinido,Feminino
+2020-05-15,203,00 a 04 anos,Masculino
+2020-05-15,184,00 a 04 anos,Feminino
+2020-05-15,792,80 ou mais,Masculino
+2020-05-15,138,Indefinido,Masculino
+2020-05-16,95,10 a 14 anos,Masculino
+2020-05-16,99,10 a 14 anos,Feminino
+2020-05-16,188,15 a 19 anos,Masculino
+2020-05-16,218,15 a 19 anos,Feminino
+2020-05-16,702,20 a 24 anos,Feminino
+2020-05-16,525,20 a 24 anos,Masculino
+2020-05-16,1,20 a 24 anos,Indefinido
+2020-05-16,1165,25 a 29 anos,Feminino
+2020-05-16,920,25 a 29 anos,Masculino
+2020-05-16,1,30 a 34 anos,Indefinido
+2020-05-16,1226,30 a 34 anos,Masculino
+2020-05-16,1493,30 a 34 anos,Feminino
+2020-05-16,1321,35 a 39 anos,Masculino
+2020-05-16,1601,35 a 39 anos,Feminino
+2020-05-16,1,35 a 39 anos,Indefinido
+2020-05-16,1390,40 a 44 anos,Feminino
+2020-05-16,1174,40 a 44 anos,Masculino
+2020-05-16,1065,45 a 49 anos,Masculino
+2020-05-16,1255,45 a 49 anos,Feminino
+2020-05-16,1132,50 a 54 anos,Feminino
+2020-05-16,1076,50 a 54 anos,Masculino
+2020-05-16,947,55 a 59 anos,Feminino
+2020-05-16,978,55 a 59 anos,Masculino
+2020-05-16,918,60 a 64 anos,Masculino
+2020-05-16,830,60 a 64 anos,Feminino
+2020-05-16,748,65 a 69 anos,Masculino
+2020-05-16,653,65 a 69 anos,Feminino
+2020-05-16,596,70 a 74 anos,Feminino
+2020-05-16,661,70 a 74 anos,Masculino
+2020-05-16,453,75 a 79 anos,Feminino
+2020-05-16,494,75 a 79 anos,Masculino
+2020-05-16,74,05 a 09 anos,Masculino
+2020-05-16,63,05 a 09 anos,Feminino
+2020-05-16,867,80 ou mais,Feminino
+2020-05-16,108,Indefinido,Feminino
+2020-05-16,203,00 a 04 anos,Masculino
+2020-05-16,185,00 a 04 anos,Feminino
+2020-05-16,792,80 ou mais,Masculino
+2020-05-16,138,Indefinido,Masculino
+2020-05-17,95,10 a 14 anos,Masculino
+2020-05-17,99,10 a 14 anos,Feminino
+2020-05-17,188,15 a 19 anos,Masculino
+2020-05-17,218,15 a 19 anos,Feminino
+2020-05-17,702,20 a 24 anos,Feminino
+2020-05-17,525,20 a 24 anos,Masculino
+2020-05-17,1,20 a 24 anos,Indefinido
+2020-05-17,1165,25 a 29 anos,Feminino
+2020-05-17,920,25 a 29 anos,Masculino
+2020-05-17,1,30 a 34 anos,Indefinido
+2020-05-17,1227,30 a 34 anos,Masculino
+2020-05-17,1493,30 a 34 anos,Feminino
+2020-05-17,1321,35 a 39 anos,Masculino
+2020-05-17,1601,35 a 39 anos,Feminino
+2020-05-17,1,35 a 39 anos,Indefinido
+2020-05-17,1390,40 a 44 anos,Feminino
+2020-05-17,1174,40 a 44 anos,Masculino
+2020-05-17,1065,45 a 49 anos,Masculino
+2020-05-17,1255,45 a 49 anos,Feminino
+2020-05-17,1132,50 a 54 anos,Feminino
+2020-05-17,1076,50 a 54 anos,Masculino
+2020-05-17,948,55 a 59 anos,Feminino
+2020-05-17,978,55 a 59 anos,Masculino
+2020-05-17,918,60 a 64 anos,Masculino
+2020-05-17,831,60 a 64 anos,Feminino
+2020-05-17,748,65 a 69 anos,Masculino
+2020-05-17,654,65 a 69 anos,Feminino
+2020-05-17,596,70 a 74 anos,Feminino
+2020-05-17,661,70 a 74 anos,Masculino
+2020-05-17,454,75 a 79 anos,Feminino
+2020-05-17,494,75 a 79 anos,Masculino
+2020-05-17,74,05 a 09 anos,Masculino
+2020-05-17,63,05 a 09 anos,Feminino
+2020-05-17,867,80 ou mais,Feminino
+2020-05-17,108,Indefinido,Feminino
+2020-05-17,203,00 a 04 anos,Masculino
+2020-05-17,185,00 a 04 anos,Feminino
+2020-05-17,792,80 ou mais,Masculino
+2020-05-17,138,Indefinido,Masculino
+2020-05-18,95,10 a 14 anos,Masculino
+2020-05-18,99,10 a 14 anos,Feminino
+2020-05-18,188,15 a 19 anos,Masculino
+2020-05-18,218,15 a 19 anos,Feminino
+2020-05-18,702,20 a 24 anos,Feminino
+2020-05-18,525,20 a 24 anos,Masculino
+2020-05-18,1,20 a 24 anos,Indefinido
+2020-05-18,1165,25 a 29 anos,Feminino
+2020-05-18,920,25 a 29 anos,Masculino
+2020-05-18,1,30 a 34 anos,Indefinido
+2020-05-18,1227,30 a 34 anos,Masculino
+2020-05-18,1493,30 a 34 anos,Feminino
+2020-05-18,1321,35 a 39 anos,Masculino
+2020-05-18,1601,35 a 39 anos,Feminino
+2020-05-18,1,35 a 39 anos,Indefinido
+2020-05-18,1390,40 a 44 anos,Feminino
+2020-05-18,1174,40 a 44 anos,Masculino
+2020-05-18,1066,45 a 49 anos,Masculino
+2020-05-18,1255,45 a 49 anos,Feminino
+2020-05-18,1132,50 a 54 anos,Feminino
+2020-05-18,1076,50 a 54 anos,Masculino
+2020-05-18,949,55 a 59 anos,Feminino
+2020-05-18,978,55 a 59 anos,Masculino
+2020-05-18,918,60 a 64 anos,Masculino
+2020-05-18,831,60 a 64 anos,Feminino
+2020-05-18,748,65 a 69 anos,Masculino
+2020-05-18,654,65 a 69 anos,Feminino
+2020-05-18,596,70 a 74 anos,Feminino
+2020-05-18,661,70 a 74 anos,Masculino
+2020-05-18,454,75 a 79 anos,Feminino
+2020-05-18,494,75 a 79 anos,Masculino
+2020-05-18,74,05 a 09 anos,Masculino
+2020-05-18,63,05 a 09 anos,Feminino
+2020-05-18,867,80 ou mais,Feminino
+2020-05-18,108,Indefinido,Feminino
+2020-05-18,203,00 a 04 anos,Masculino
+2020-05-18,185,00 a 04 anos,Feminino
+2020-05-18,792,80 ou mais,Masculino
+2020-05-18,138,Indefinido,Masculino
+2020-05-19,95,10 a 14 anos,Masculino
+2020-05-19,99,10 a 14 anos,Feminino
+2020-05-19,188,15 a 19 anos,Masculino
+2020-05-19,218,15 a 19 anos,Feminino
+2020-05-19,702,20 a 24 anos,Feminino
+2020-05-19,525,20 a 24 anos,Masculino
+2020-05-19,1,20 a 24 anos,Indefinido
+2020-05-19,1165,25 a 29 anos,Feminino
+2020-05-19,920,25 a 29 anos,Masculino
+2020-05-19,1,30 a 34 anos,Indefinido
+2020-05-19,1227,30 a 34 anos,Masculino
+2020-05-19,1493,30 a 34 anos,Feminino
+2020-05-19,1321,35 a 39 anos,Masculino
+2020-05-19,1601,35 a 39 anos,Feminino
+2020-05-19,1,35 a 39 anos,Indefinido
+2020-05-19,1390,40 a 44 anos,Feminino
+2020-05-19,1174,40 a 44 anos,Masculino
+2020-05-19,1066,45 a 49 anos,Masculino
+2020-05-19,1255,45 a 49 anos,Feminino
+2020-05-19,1132,50 a 54 anos,Feminino
+2020-05-19,1076,50 a 54 anos,Masculino
+2020-05-19,949,55 a 59 anos,Feminino
+2020-05-19,978,55 a 59 anos,Masculino
+2020-05-19,918,60 a 64 anos,Masculino
+2020-05-19,831,60 a 64 anos,Feminino
+2020-05-19,748,65 a 69 anos,Masculino
+2020-05-19,654,65 a 69 anos,Feminino
+2020-05-19,596,70 a 74 anos,Feminino
+2020-05-19,661,70 a 74 anos,Masculino
+2020-05-19,454,75 a 79 anos,Feminino
+2020-05-19,494,75 a 79 anos,Masculino
+2020-05-19,74,05 a 09 anos,Masculino
+2020-05-19,63,05 a 09 anos,Feminino
+2020-05-19,867,80 ou mais,Feminino
+2020-05-19,108,Indefinido,Feminino
+2020-05-19,203,00 a 04 anos,Masculino
+2020-05-19,185,00 a 04 anos,Feminino
+2020-05-19,792,80 ou mais,Masculino
+2020-05-19,138,Indefinido,Masculino
