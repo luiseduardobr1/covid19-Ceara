@@ -1,5 +1,5 @@
 # COVID-19 - Ceará
-**ATUALIZAÇÃO: **
+**ATUALIZAÇÃO:**
 
 Extração automática a cada 3 horas de toda a base de dados do sistema oficial de comunicação dos casos de COVID-19 no estado do Ceará a partir da API do integraSUS. 
 
