@@ -1,5 +1,5 @@
 # COVID-19 - Ceará
-**ATUALIZAÇÃO:**
+**ATUALIZAÇÃO (22/05): Diante de tanta desgraça e sofrimento que essa pandemia trouxe, encerro, a partir de hoje, a atualização diária deste repositório. Após o falecimento do meu pai, decorrente de COVID-19, não tenho mais como desvencilhar os números (e suas consequências) da minha vida particular, impedindo qualquer ação, análise ou estudo, desprendido de emoções pessoais. Compreendendo a importância dessas informações, o [integraSUS](https://indicadores.integrasus.saude.ce.gov.br/indicadores/indicadores-coronavirus/coronavirus-ceara) e [Brasil.io](https://brasil.io/covid19/) continuam trabalhando para manter os dados atualizados e consistentes. A mim, restam a saudade e as lembranças do bom pai que tive, novo (52 anos) e saudável (sem comorbidades), vítima de uma doença sobre a qual não temos controle e nem vacina. Te amo, pai.**
 
 Extração automática a cada 3 horas de toda a base de dados do sistema oficial de comunicação dos casos de COVID-19 no estado do Ceará a partir da API do integraSUS. 
 
